@@ -86,7 +86,7 @@ class QwenVLM():
             "Qwen/Qwen2-VL-7B-Instruct",
             torch_dtype=torch.bfloat16,
             attn_implementation="flash_attention_2", # using flash_att2 because the doc recommends
-            device_map="auto",
+            device_map=device,
             )
         self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
         torch.set_default_dtype(default_dtype)
