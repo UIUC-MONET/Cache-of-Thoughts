@@ -1,0 +1,6402 @@
+[
+    {
+        "id": "clevr_support_CLEVR_train_010840",
+        "image": [
+            "clevr/support/CLEVR_train_010840.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_014849",
+        "image": [
+            "clevr/support/CLEVR_train_014849.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_047180",
+        "image": [
+            "clevr/support/CLEVR_train_047180.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_052730",
+        "image": [
+            "clevr/support/CLEVR_train_052730.png"
+        ],
+        "question": "color: blue",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_020394",
+        "image": [
+            "clevr/support/CLEVR_train_020394.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_042625",
+        "image": [
+            "clevr/support/CLEVR_train_042625.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_004439",
+        "image": [
+            "clevr/support/CLEVR_train_004439.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017814",
+        "image": [
+            "clevr/support/CLEVR_train_017814.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_014487",
+        "image": [
+            "clevr/support/CLEVR_train_014487.png"
+        ],
+        "question": "color: yellow",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_045911",
+        "image": [
+            "clevr/support/CLEVR_train_045911.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_058393",
+        "image": [
+            "clevr/support/CLEVR_train_058393.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_034159",
+        "image": [
+            "clevr/support/CLEVR_train_034159.png"
+        ],
+        "question": "size: large",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_009596",
+        "image": [
+            "clevr/support/CLEVR_train_009596.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_021407",
+        "image": [
+            "clevr/support/CLEVR_train_021407.png"
+        ],
+        "question": "color: blue",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_065540",
+        "image": [
+            "clevr/support/CLEVR_train_065540.png"
+        ],
+        "question": "material: metal",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_066107",
+        "image": [
+            "clevr/support/CLEVR_train_066107.png"
+        ],
+        "question": "material: metal",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_056801",
+        "image": [
+            "clevr/support/CLEVR_train_056801.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017444",
+        "image": [
+            "clevr/support/CLEVR_train_017444.png"
+        ],
+        "question": "size: small",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_000840",
+        "image": [
+            "clevr/support/CLEVR_train_000840.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_014587",
+        "image": [
+            "clevr/support/CLEVR_train_014587.png"
+        ],
+        "question": "color: gray",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_032270",
+        "image": [
+            "clevr/support/CLEVR_train_032270.png"
+        ],
+        "question": "material: metal",
+        "answer": 7
+    },
+    {
+        "id": "clevr_support_CLEVR_train_062313",
+        "image": [
+            "clevr/support/CLEVR_train_062313.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_068085",
+        "image": [
+            "clevr/support/CLEVR_train_068085.png"
+        ],
+        "question": "material: metal",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_060730",
+        "image": [
+            "clevr/support/CLEVR_train_060730.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_063296",
+        "image": [
+            "clevr/support/CLEVR_train_063296.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_069818",
+        "image": [
+            "clevr/support/CLEVR_train_069818.png"
+        ],
+        "question": "color: red",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_063630",
+        "image": [
+            "clevr/support/CLEVR_train_063630.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_053268",
+        "image": [
+            "clevr/support/CLEVR_train_053268.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_037852",
+        "image": [
+            "clevr/support/CLEVR_train_037852.png"
+        ],
+        "question": "color: yellow",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_020392",
+        "image": [
+            "clevr/support/CLEVR_train_020392.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_057178",
+        "image": [
+            "clevr/support/CLEVR_train_057178.png"
+        ],
+        "question": "color: green",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_025805",
+        "image": [
+            "clevr/support/CLEVR_train_025805.png"
+        ],
+        "question": "size: small",
+        "answer": 7
+    },
+    {
+        "id": "clevr_support_CLEVR_train_015479",
+        "image": [
+            "clevr/support/CLEVR_train_015479.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_019815",
+        "image": [
+            "clevr/support/CLEVR_train_019815.png"
+        ],
+        "question": "size: small",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_069535",
+        "image": [
+            "clevr/support/CLEVR_train_069535.png"
+        ],
+        "question": "color: yellow",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_053260",
+        "image": [
+            "clevr/support/CLEVR_train_053260.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_021853",
+        "image": [
+            "clevr/support/CLEVR_train_021853.png"
+        ],
+        "question": "material: metal",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_015125",
+        "image": [
+            "clevr/support/CLEVR_train_015125.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_020453",
+        "image": [
+            "clevr/support/CLEVR_train_020453.png"
+        ],
+        "question": "color: brown",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_034707",
+        "image": [
+            "clevr/support/CLEVR_train_034707.png"
+        ],
+        "question": "size: large",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_008387",
+        "image": [
+            "clevr/support/CLEVR_train_008387.png"
+        ],
+        "question": "color: purple",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_023859",
+        "image": [
+            "clevr/support/CLEVR_train_023859.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_026365",
+        "image": [
+            "clevr/support/CLEVR_train_026365.png"
+        ],
+        "question": "color: cyan",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_019572",
+        "image": [
+            "clevr/support/CLEVR_train_019572.png"
+        ],
+        "question": "shape: cube",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_003546",
+        "image": [
+            "clevr/support/CLEVR_train_003546.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017812",
+        "image": [
+            "clevr/support/CLEVR_train_017812.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_026734",
+        "image": [
+            "clevr/support/CLEVR_train_026734.png"
+        ],
+        "question": "color: brown",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_045912",
+        "image": [
+            "clevr/support/CLEVR_train_045912.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_037366",
+        "image": [
+            "clevr/support/CLEVR_train_037366.png"
+        ],
+        "question": "color: brown",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_050963",
+        "image": [
+            "clevr/support/CLEVR_train_050963.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_022880",
+        "image": [
+            "clevr/support/CLEVR_train_022880.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_024218",
+        "image": [
+            "clevr/support/CLEVR_train_024218.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_069850",
+        "image": [
+            "clevr/support/CLEVR_train_069850.png"
+        ],
+        "question": "material: rubber",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_025629",
+        "image": [
+            "clevr/support/CLEVR_train_025629.png"
+        ],
+        "question": "material: rubber",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_028555",
+        "image": [
+            "clevr/support/CLEVR_train_028555.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_034403",
+        "image": [
+            "clevr/support/CLEVR_train_034403.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_024989",
+        "image": [
+            "clevr/support/CLEVR_train_024989.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_023453",
+        "image": [
+            "clevr/support/CLEVR_train_023453.png"
+        ],
+        "question": "color: brown",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_055577",
+        "image": [
+            "clevr/support/CLEVR_train_055577.png"
+        ],
+        "question": "color: cyan",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_005047",
+        "image": [
+            "clevr/support/CLEVR_train_005047.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_042872",
+        "image": [
+            "clevr/support/CLEVR_train_042872.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_046551",
+        "image": [
+            "clevr/support/CLEVR_train_046551.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_060202",
+        "image": [
+            "clevr/support/CLEVR_train_060202.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_051538",
+        "image": [
+            "clevr/support/CLEVR_train_051538.png"
+        ],
+        "question": "size: large",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_048616",
+        "image": [
+            "clevr/support/CLEVR_train_048616.png"
+        ],
+        "question": "material: metal",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_050960",
+        "image": [
+            "clevr/support/CLEVR_train_050960.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_033276",
+        "image": [
+            "clevr/support/CLEVR_train_033276.png"
+        ],
+        "question": "color: yellow",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017296",
+        "image": [
+            "clevr/support/CLEVR_train_017296.png"
+        ],
+        "question": "size: large",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_013421",
+        "image": [
+            "clevr/support/CLEVR_train_013421.png"
+        ],
+        "question": "material: metal",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_034921",
+        "image": [
+            "clevr/support/CLEVR_train_034921.png"
+        ],
+        "question": "material: rubber",
+        "answer": 7
+    },
+    {
+        "id": "clevr_support_CLEVR_train_047734",
+        "image": [
+            "clevr/support/CLEVR_train_047734.png"
+        ],
+        "question": "material: rubber",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_038904",
+        "image": [
+            "clevr/support/CLEVR_train_038904.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_006611",
+        "image": [
+            "clevr/support/CLEVR_train_006611.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_027397",
+        "image": [
+            "clevr/support/CLEVR_train_027397.png"
+        ],
+        "question": "color: yellow",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_041730",
+        "image": [
+            "clevr/support/CLEVR_train_041730.png"
+        ],
+        "question": "color: yellow",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_008215",
+        "image": [
+            "clevr/support/CLEVR_train_008215.png"
+        ],
+        "question": "material: rubber",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_042582",
+        "image": [
+            "clevr/support/CLEVR_train_042582.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_064638",
+        "image": [
+            "clevr/support/CLEVR_train_064638.png"
+        ],
+        "question": "color: purple",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_068688",
+        "image": [
+            "clevr/support/CLEVR_train_068688.png"
+        ],
+        "question": "size: large",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_046474",
+        "image": [
+            "clevr/support/CLEVR_train_046474.png"
+        ],
+        "question": "shape: cube",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_005326",
+        "image": [
+            "clevr/support/CLEVR_train_005326.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_025991",
+        "image": [
+            "clevr/support/CLEVR_train_025991.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_010162",
+        "image": [
+            "clevr/support/CLEVR_train_010162.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_026092",
+        "image": [
+            "clevr/support/CLEVR_train_026092.png"
+        ],
+        "question": "size: large",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_008033",
+        "image": [
+            "clevr/support/CLEVR_train_008033.png"
+        ],
+        "question": "color: brown",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_042276",
+        "image": [
+            "clevr/support/CLEVR_train_042276.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_032855",
+        "image": [
+            "clevr/support/CLEVR_train_032855.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_046047",
+        "image": [
+            "clevr/support/CLEVR_train_046047.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_059546",
+        "image": [
+            "clevr/support/CLEVR_train_059546.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_031821",
+        "image": [
+            "clevr/support/CLEVR_train_031821.png"
+        ],
+        "question": "size: large",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_001006",
+        "image": [
+            "clevr/support/CLEVR_train_001006.png"
+        ],
+        "question": "color: red",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_045828",
+        "image": [
+            "clevr/support/CLEVR_train_045828.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_002383",
+        "image": [
+            "clevr/support/CLEVR_train_002383.png"
+        ],
+        "question": "size: small",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_068449",
+        "image": [
+            "clevr/support/CLEVR_train_068449.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_007944",
+        "image": [
+            "clevr/support/CLEVR_train_007944.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_061541",
+        "image": [
+            "clevr/support/CLEVR_train_061541.png"
+        ],
+        "question": "material: metal",
+        "answer": 8
+    },
+    {
+        "id": "clevr_support_CLEVR_train_065913",
+        "image": [
+            "clevr/support/CLEVR_train_065913.png"
+        ],
+        "question": "size: small",
+        "answer": 7
+    },
+    {
+        "id": "clevr_support_CLEVR_train_069103",
+        "image": [
+            "clevr/support/CLEVR_train_069103.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_029331",
+        "image": [
+            "clevr/support/CLEVR_train_029331.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_068600",
+        "image": [
+            "clevr/support/CLEVR_train_068600.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017928",
+        "image": [
+            "clevr/support/CLEVR_train_017928.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_061136",
+        "image": [
+            "clevr/support/CLEVR_train_061136.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_051431",
+        "image": [
+            "clevr/support/CLEVR_train_051431.png"
+        ],
+        "question": "material: metal",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_018006",
+        "image": [
+            "clevr/support/CLEVR_train_018006.png"
+        ],
+        "question": "color: green",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_038075",
+        "image": [
+            "clevr/support/CLEVR_train_038075.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_059226",
+        "image": [
+            "clevr/support/CLEVR_train_059226.png"
+        ],
+        "question": "shape: cube",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_001927",
+        "image": [
+            "clevr/support/CLEVR_train_001927.png"
+        ],
+        "question": "color: red",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_065998",
+        "image": [
+            "clevr/support/CLEVR_train_065998.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_001706",
+        "image": [
+            "clevr/support/CLEVR_train_001706.png"
+        ],
+        "question": "color: gray",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_019509",
+        "image": [
+            "clevr/support/CLEVR_train_019509.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_051834",
+        "image": [
+            "clevr/support/CLEVR_train_051834.png"
+        ],
+        "question": "color: yellow",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_059209",
+        "image": [
+            "clevr/support/CLEVR_train_059209.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_023016",
+        "image": [
+            "clevr/support/CLEVR_train_023016.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_069701",
+        "image": [
+            "clevr/support/CLEVR_train_069701.png"
+        ],
+        "question": "material: metal",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_037628",
+        "image": [
+            "clevr/support/CLEVR_train_037628.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_030168",
+        "image": [
+            "clevr/support/CLEVR_train_030168.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_062857",
+        "image": [
+            "clevr/support/CLEVR_train_062857.png"
+        ],
+        "question": "color: yellow",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_063331",
+        "image": [
+            "clevr/support/CLEVR_train_063331.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_036088",
+        "image": [
+            "clevr/support/CLEVR_train_036088.png"
+        ],
+        "question": "color: red",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_000882",
+        "image": [
+            "clevr/support/CLEVR_train_000882.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_004451",
+        "image": [
+            "clevr/support/CLEVR_train_004451.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_018155",
+        "image": [
+            "clevr/support/CLEVR_train_018155.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_060173",
+        "image": [
+            "clevr/support/CLEVR_train_060173.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017238",
+        "image": [
+            "clevr/support/CLEVR_train_017238.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_053230",
+        "image": [
+            "clevr/support/CLEVR_train_053230.png"
+        ],
+        "question": "color: gray",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_030559",
+        "image": [
+            "clevr/support/CLEVR_train_030559.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_001322",
+        "image": [
+            "clevr/support/CLEVR_train_001322.png"
+        ],
+        "question": "shape: cube",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_039277",
+        "image": [
+            "clevr/support/CLEVR_train_039277.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_035615",
+        "image": [
+            "clevr/support/CLEVR_train_035615.png"
+        ],
+        "question": "material: rubber",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_007083",
+        "image": [
+            "clevr/support/CLEVR_train_007083.png"
+        ],
+        "question": "color: gray",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_059232",
+        "image": [
+            "clevr/support/CLEVR_train_059232.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_047541",
+        "image": [
+            "clevr/support/CLEVR_train_047541.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_024373",
+        "image": [
+            "clevr/support/CLEVR_train_024373.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_001599",
+        "image": [
+            "clevr/support/CLEVR_train_001599.png"
+        ],
+        "question": "size: small",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017055",
+        "image": [
+            "clevr/support/CLEVR_train_017055.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_059123",
+        "image": [
+            "clevr/support/CLEVR_train_059123.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_001821",
+        "image": [
+            "clevr/support/CLEVR_train_001821.png"
+        ],
+        "question": "color: brown",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_023521",
+        "image": [
+            "clevr/support/CLEVR_train_023521.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_012378",
+        "image": [
+            "clevr/support/CLEVR_train_012378.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_024381",
+        "image": [
+            "clevr/support/CLEVR_train_024381.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_038219",
+        "image": [
+            "clevr/support/CLEVR_train_038219.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_029081",
+        "image": [
+            "clevr/support/CLEVR_train_029081.png"
+        ],
+        "question": "material: metal",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_034805",
+        "image": [
+            "clevr/support/CLEVR_train_034805.png"
+        ],
+        "question": "color: yellow",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017294",
+        "image": [
+            "clevr/support/CLEVR_train_017294.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_058733",
+        "image": [
+            "clevr/support/CLEVR_train_058733.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_016286",
+        "image": [
+            "clevr/support/CLEVR_train_016286.png"
+        ],
+        "question": "color: brown",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_037314",
+        "image": [
+            "clevr/support/CLEVR_train_037314.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_034224",
+        "image": [
+            "clevr/support/CLEVR_train_034224.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_037705",
+        "image": [
+            "clevr/support/CLEVR_train_037705.png"
+        ],
+        "question": "color: gray",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_045947",
+        "image": [
+            "clevr/support/CLEVR_train_045947.png"
+        ],
+        "question": "material: rubber",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_061728",
+        "image": [
+            "clevr/support/CLEVR_train_061728.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_057453",
+        "image": [
+            "clevr/support/CLEVR_train_057453.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_006553",
+        "image": [
+            "clevr/support/CLEVR_train_006553.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_035435",
+        "image": [
+            "clevr/support/CLEVR_train_035435.png"
+        ],
+        "question": "size: large",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_069703",
+        "image": [
+            "clevr/support/CLEVR_train_069703.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_023811",
+        "image": [
+            "clevr/support/CLEVR_train_023811.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_055896",
+        "image": [
+            "clevr/support/CLEVR_train_055896.png"
+        ],
+        "question": "size: large",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_012444",
+        "image": [
+            "clevr/support/CLEVR_train_012444.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_008441",
+        "image": [
+            "clevr/support/CLEVR_train_008441.png"
+        ],
+        "question": "color: purple",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_044639",
+        "image": [
+            "clevr/support/CLEVR_train_044639.png"
+        ],
+        "question": "color: red",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_048279",
+        "image": [
+            "clevr/support/CLEVR_train_048279.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_068456",
+        "image": [
+            "clevr/support/CLEVR_train_068456.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_066992",
+        "image": [
+            "clevr/support/CLEVR_train_066992.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_038887",
+        "image": [
+            "clevr/support/CLEVR_train_038887.png"
+        ],
+        "question": "size: small",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_002002",
+        "image": [
+            "clevr/support/CLEVR_train_002002.png"
+        ],
+        "question": "color: purple",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_018974",
+        "image": [
+            "clevr/support/CLEVR_train_018974.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_054879",
+        "image": [
+            "clevr/support/CLEVR_train_054879.png"
+        ],
+        "question": "color: brown",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_033546",
+        "image": [
+            "clevr/support/CLEVR_train_033546.png"
+        ],
+        "question": "color: yellow",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_054194",
+        "image": [
+            "clevr/support/CLEVR_train_054194.png"
+        ],
+        "question": "shape: cube",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_000759",
+        "image": [
+            "clevr/support/CLEVR_train_000759.png"
+        ],
+        "question": "color: purple",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_053437",
+        "image": [
+            "clevr/support/CLEVR_train_053437.png"
+        ],
+        "question": "material: rubber",
+        "answer": 7
+    },
+    {
+        "id": "clevr_support_CLEVR_train_015050",
+        "image": [
+            "clevr/support/CLEVR_train_015050.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_045620",
+        "image": [
+            "clevr/support/CLEVR_train_045620.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_043496",
+        "image": [
+            "clevr/support/CLEVR_train_043496.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_040268",
+        "image": [
+            "clevr/support/CLEVR_train_040268.png"
+        ],
+        "question": "color: cyan",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_057762",
+        "image": [
+            "clevr/support/CLEVR_train_057762.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_037588",
+        "image": [
+            "clevr/support/CLEVR_train_037588.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_049938",
+        "image": [
+            "clevr/support/CLEVR_train_049938.png"
+        ],
+        "question": "color: cyan",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_067079",
+        "image": [
+            "clevr/support/CLEVR_train_067079.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_052931",
+        "image": [
+            "clevr/support/CLEVR_train_052931.png"
+        ],
+        "question": "color: yellow",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_067062",
+        "image": [
+            "clevr/support/CLEVR_train_067062.png"
+        ],
+        "question": "color: green",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017584",
+        "image": [
+            "clevr/support/CLEVR_train_017584.png"
+        ],
+        "question": "color: green",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_026561",
+        "image": [
+            "clevr/support/CLEVR_train_026561.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_013320",
+        "image": [
+            "clevr/support/CLEVR_train_013320.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_019891",
+        "image": [
+            "clevr/support/CLEVR_train_019891.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_002750",
+        "image": [
+            "clevr/support/CLEVR_train_002750.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_049172",
+        "image": [
+            "clevr/support/CLEVR_train_049172.png"
+        ],
+        "question": "size: small",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_023637",
+        "image": [
+            "clevr/support/CLEVR_train_023637.png"
+        ],
+        "question": "material: rubber",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_033805",
+        "image": [
+            "clevr/support/CLEVR_train_033805.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_000906",
+        "image": [
+            "clevr/support/CLEVR_train_000906.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_016783",
+        "image": [
+            "clevr/support/CLEVR_train_016783.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_030970",
+        "image": [
+            "clevr/support/CLEVR_train_030970.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017989",
+        "image": [
+            "clevr/support/CLEVR_train_017989.png"
+        ],
+        "question": "color: brown",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_058701",
+        "image": [
+            "clevr/support/CLEVR_train_058701.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_024018",
+        "image": [
+            "clevr/support/CLEVR_train_024018.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_065552",
+        "image": [
+            "clevr/support/CLEVR_train_065552.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_019846",
+        "image": [
+            "clevr/support/CLEVR_train_019846.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_003094",
+        "image": [
+            "clevr/support/CLEVR_train_003094.png"
+        ],
+        "question": "material: metal",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_058250",
+        "image": [
+            "clevr/support/CLEVR_train_058250.png"
+        ],
+        "question": "color: purple",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_047407",
+        "image": [
+            "clevr/support/CLEVR_train_047407.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_051120",
+        "image": [
+            "clevr/support/CLEVR_train_051120.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_066467",
+        "image": [
+            "clevr/support/CLEVR_train_066467.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_025603",
+        "image": [
+            "clevr/support/CLEVR_train_025603.png"
+        ],
+        "question": "color: purple",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_046303",
+        "image": [
+            "clevr/support/CLEVR_train_046303.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_053125",
+        "image": [
+            "clevr/support/CLEVR_train_053125.png"
+        ],
+        "question": "material: rubber",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_000258",
+        "image": [
+            "clevr/support/CLEVR_train_000258.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_013971",
+        "image": [
+            "clevr/support/CLEVR_train_013971.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_052671",
+        "image": [
+            "clevr/support/CLEVR_train_052671.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_031233",
+        "image": [
+            "clevr/support/CLEVR_train_031233.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_038929",
+        "image": [
+            "clevr/support/CLEVR_train_038929.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_034925",
+        "image": [
+            "clevr/support/CLEVR_train_034925.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_006347",
+        "image": [
+            "clevr/support/CLEVR_train_006347.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_034336",
+        "image": [
+            "clevr/support/CLEVR_train_034336.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_058381",
+        "image": [
+            "clevr/support/CLEVR_train_058381.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_037427",
+        "image": [
+            "clevr/support/CLEVR_train_037427.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_043102",
+        "image": [
+            "clevr/support/CLEVR_train_043102.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_037392",
+        "image": [
+            "clevr/support/CLEVR_train_037392.png"
+        ],
+        "question": "color: purple",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_038388",
+        "image": [
+            "clevr/support/CLEVR_train_038388.png"
+        ],
+        "question": "material: metal",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_043226",
+        "image": [
+            "clevr/support/CLEVR_train_043226.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_012144",
+        "image": [
+            "clevr/support/CLEVR_train_012144.png"
+        ],
+        "question": "color: gray",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_067799",
+        "image": [
+            "clevr/support/CLEVR_train_067799.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_023640",
+        "image": [
+            "clevr/support/CLEVR_train_023640.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_043944",
+        "image": [
+            "clevr/support/CLEVR_train_043944.png"
+        ],
+        "question": "size: large",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_038351",
+        "image": [
+            "clevr/support/CLEVR_train_038351.png"
+        ],
+        "question": "shape: cube",
+        "answer": 7
+    },
+    {
+        "id": "clevr_support_CLEVR_train_053952",
+        "image": [
+            "clevr/support/CLEVR_train_053952.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_003674",
+        "image": [
+            "clevr/support/CLEVR_train_003674.png"
+        ],
+        "question": "size: small",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_042802",
+        "image": [
+            "clevr/support/CLEVR_train_042802.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_062842",
+        "image": [
+            "clevr/support/CLEVR_train_062842.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_034990",
+        "image": [
+            "clevr/support/CLEVR_train_034990.png"
+        ],
+        "question": "size: large",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_007911",
+        "image": [
+            "clevr/support/CLEVR_train_007911.png"
+        ],
+        "question": "shape: cube",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_033806",
+        "image": [
+            "clevr/support/CLEVR_train_033806.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_014797",
+        "image": [
+            "clevr/support/CLEVR_train_014797.png"
+        ],
+        "question": "color: gray",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_049749",
+        "image": [
+            "clevr/support/CLEVR_train_049749.png"
+        ],
+        "question": "material: metal",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_036637",
+        "image": [
+            "clevr/support/CLEVR_train_036637.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_001358",
+        "image": [
+            "clevr/support/CLEVR_train_001358.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_021550",
+        "image": [
+            "clevr/support/CLEVR_train_021550.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_048860",
+        "image": [
+            "clevr/support/CLEVR_train_048860.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_057692",
+        "image": [
+            "clevr/support/CLEVR_train_057692.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_040055",
+        "image": [
+            "clevr/support/CLEVR_train_040055.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_032424",
+        "image": [
+            "clevr/support/CLEVR_train_032424.png"
+        ],
+        "question": "size: large",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017348",
+        "image": [
+            "clevr/support/CLEVR_train_017348.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_037543",
+        "image": [
+            "clevr/support/CLEVR_train_037543.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_000926",
+        "image": [
+            "clevr/support/CLEVR_train_000926.png"
+        ],
+        "question": "color: blue",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_009658",
+        "image": [
+            "clevr/support/CLEVR_train_009658.png"
+        ],
+        "question": "shape: cube",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_033883",
+        "image": [
+            "clevr/support/CLEVR_train_033883.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_041159",
+        "image": [
+            "clevr/support/CLEVR_train_041159.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_025952",
+        "image": [
+            "clevr/support/CLEVR_train_025952.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_011659",
+        "image": [
+            "clevr/support/CLEVR_train_011659.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_050654",
+        "image": [
+            "clevr/support/CLEVR_train_050654.png"
+        ],
+        "question": "color: cyan",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_040978",
+        "image": [
+            "clevr/support/CLEVR_train_040978.png"
+        ],
+        "question": "material: rubber",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_069903",
+        "image": [
+            "clevr/support/CLEVR_train_069903.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_024655",
+        "image": [
+            "clevr/support/CLEVR_train_024655.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_009636",
+        "image": [
+            "clevr/support/CLEVR_train_009636.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_022992",
+        "image": [
+            "clevr/support/CLEVR_train_022992.png"
+        ],
+        "question": "size: large",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_050721",
+        "image": [
+            "clevr/support/CLEVR_train_050721.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_060137",
+        "image": [
+            "clevr/support/CLEVR_train_060137.png"
+        ],
+        "question": "color: red",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_044644",
+        "image": [
+            "clevr/support/CLEVR_train_044644.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_055007",
+        "image": [
+            "clevr/support/CLEVR_train_055007.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_013298",
+        "image": [
+            "clevr/support/CLEVR_train_013298.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_067812",
+        "image": [
+            "clevr/support/CLEVR_train_067812.png"
+        ],
+        "question": "material: metal",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_018572",
+        "image": [
+            "clevr/support/CLEVR_train_018572.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_037272",
+        "image": [
+            "clevr/support/CLEVR_train_037272.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_054845",
+        "image": [
+            "clevr/support/CLEVR_train_054845.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_039152",
+        "image": [
+            "clevr/support/CLEVR_train_039152.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_056528",
+        "image": [
+            "clevr/support/CLEVR_train_056528.png"
+        ],
+        "question": "color: red",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_002884",
+        "image": [
+            "clevr/support/CLEVR_train_002884.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_027005",
+        "image": [
+            "clevr/support/CLEVR_train_027005.png"
+        ],
+        "question": "color: red",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_050488",
+        "image": [
+            "clevr/support/CLEVR_train_050488.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_015241",
+        "image": [
+            "clevr/support/CLEVR_train_015241.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_059285",
+        "image": [
+            "clevr/support/CLEVR_train_059285.png"
+        ],
+        "question": "material: metal",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_063057",
+        "image": [
+            "clevr/support/CLEVR_train_063057.png"
+        ],
+        "question": "color: gray",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_000561",
+        "image": [
+            "clevr/support/CLEVR_train_000561.png"
+        ],
+        "question": "color: purple",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_006588",
+        "image": [
+            "clevr/support/CLEVR_train_006588.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_058631",
+        "image": [
+            "clevr/support/CLEVR_train_058631.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_059714",
+        "image": [
+            "clevr/support/CLEVR_train_059714.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_015567",
+        "image": [
+            "clevr/support/CLEVR_train_015567.png"
+        ],
+        "question": "size: large",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_023879",
+        "image": [
+            "clevr/support/CLEVR_train_023879.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_004301",
+        "image": [
+            "clevr/support/CLEVR_train_004301.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_033580",
+        "image": [
+            "clevr/support/CLEVR_train_033580.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_028701",
+        "image": [
+            "clevr/support/CLEVR_train_028701.png"
+        ],
+        "question": "color: brown",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_054094",
+        "image": [
+            "clevr/support/CLEVR_train_054094.png"
+        ],
+        "question": "color: purple",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_021673",
+        "image": [
+            "clevr/support/CLEVR_train_021673.png"
+        ],
+        "question": "material: metal",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_051813",
+        "image": [
+            "clevr/support/CLEVR_train_051813.png"
+        ],
+        "question": "color: purple",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_065587",
+        "image": [
+            "clevr/support/CLEVR_train_065587.png"
+        ],
+        "question": "size: large",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_067821",
+        "image": [
+            "clevr/support/CLEVR_train_067821.png"
+        ],
+        "question": "material: metal",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_018911",
+        "image": [
+            "clevr/support/CLEVR_train_018911.png"
+        ],
+        "question": "size: small",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_061383",
+        "image": [
+            "clevr/support/CLEVR_train_061383.png"
+        ],
+        "question": "color: yellow",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_041857",
+        "image": [
+            "clevr/support/CLEVR_train_041857.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_011625",
+        "image": [
+            "clevr/support/CLEVR_train_011625.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_004162",
+        "image": [
+            "clevr/support/CLEVR_train_004162.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_027528",
+        "image": [
+            "clevr/support/CLEVR_train_027528.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_034754",
+        "image": [
+            "clevr/support/CLEVR_train_034754.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_028643",
+        "image": [
+            "clevr/support/CLEVR_train_028643.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_042603",
+        "image": [
+            "clevr/support/CLEVR_train_042603.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_026351",
+        "image": [
+            "clevr/support/CLEVR_train_026351.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_044649",
+        "image": [
+            "clevr/support/CLEVR_train_044649.png"
+        ],
+        "question": "color: green",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_058683",
+        "image": [
+            "clevr/support/CLEVR_train_058683.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_055058",
+        "image": [
+            "clevr/support/CLEVR_train_055058.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_004612",
+        "image": [
+            "clevr/support/CLEVR_train_004612.png"
+        ],
+        "question": "color: green",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_007644",
+        "image": [
+            "clevr/support/CLEVR_train_007644.png"
+        ],
+        "question": "material: rubber",
+        "answer": 8
+    },
+    {
+        "id": "clevr_support_CLEVR_train_041411",
+        "image": [
+            "clevr/support/CLEVR_train_041411.png"
+        ],
+        "question": "size: large",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_016479",
+        "image": [
+            "clevr/support/CLEVR_train_016479.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_008487",
+        "image": [
+            "clevr/support/CLEVR_train_008487.png"
+        ],
+        "question": "color: yellow",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_007829",
+        "image": [
+            "clevr/support/CLEVR_train_007829.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_054823",
+        "image": [
+            "clevr/support/CLEVR_train_054823.png"
+        ],
+        "question": "size: large",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_042505",
+        "image": [
+            "clevr/support/CLEVR_train_042505.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_063118",
+        "image": [
+            "clevr/support/CLEVR_train_063118.png"
+        ],
+        "question": "material: metal",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_009584",
+        "image": [
+            "clevr/support/CLEVR_train_009584.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_001066",
+        "image": [
+            "clevr/support/CLEVR_train_001066.png"
+        ],
+        "question": "color: gray",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_039100",
+        "image": [
+            "clevr/support/CLEVR_train_039100.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_027101",
+        "image": [
+            "clevr/support/CLEVR_train_027101.png"
+        ],
+        "question": "shape: cube",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_038431",
+        "image": [
+            "clevr/support/CLEVR_train_038431.png"
+        ],
+        "question": "shape: cube",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_018554",
+        "image": [
+            "clevr/support/CLEVR_train_018554.png"
+        ],
+        "question": "material: metal",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_004677",
+        "image": [
+            "clevr/support/CLEVR_train_004677.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_008792",
+        "image": [
+            "clevr/support/CLEVR_train_008792.png"
+        ],
+        "question": "size: large",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_069661",
+        "image": [
+            "clevr/support/CLEVR_train_069661.png"
+        ],
+        "question": "color: yellow",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_013718",
+        "image": [
+            "clevr/support/CLEVR_train_013718.png"
+        ],
+        "question": "material: metal",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_009466",
+        "image": [
+            "clevr/support/CLEVR_train_009466.png"
+        ],
+        "question": "size: large",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_059779",
+        "image": [
+            "clevr/support/CLEVR_train_059779.png"
+        ],
+        "question": "color: cyan",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_022810",
+        "image": [
+            "clevr/support/CLEVR_train_022810.png"
+        ],
+        "question": "color: gray",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_012661",
+        "image": [
+            "clevr/support/CLEVR_train_012661.png"
+        ],
+        "question": "material: rubber",
+        "answer": 7
+    },
+    {
+        "id": "clevr_support_CLEVR_train_024282",
+        "image": [
+            "clevr/support/CLEVR_train_024282.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_020261",
+        "image": [
+            "clevr/support/CLEVR_train_020261.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_059910",
+        "image": [
+            "clevr/support/CLEVR_train_059910.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_060382",
+        "image": [
+            "clevr/support/CLEVR_train_060382.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_030786",
+        "image": [
+            "clevr/support/CLEVR_train_030786.png"
+        ],
+        "question": "color: green",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_066073",
+        "image": [
+            "clevr/support/CLEVR_train_066073.png"
+        ],
+        "question": "size: large",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_019541",
+        "image": [
+            "clevr/support/CLEVR_train_019541.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_024395",
+        "image": [
+            "clevr/support/CLEVR_train_024395.png"
+        ],
+        "question": "color: blue",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_068587",
+        "image": [
+            "clevr/support/CLEVR_train_068587.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_014564",
+        "image": [
+            "clevr/support/CLEVR_train_014564.png"
+        ],
+        "question": "color: brown",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_021742",
+        "image": [
+            "clevr/support/CLEVR_train_021742.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_012124",
+        "image": [
+            "clevr/support/CLEVR_train_012124.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_048127",
+        "image": [
+            "clevr/support/CLEVR_train_048127.png"
+        ],
+        "question": "color: brown",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_035843",
+        "image": [
+            "clevr/support/CLEVR_train_035843.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_013942",
+        "image": [
+            "clevr/support/CLEVR_train_013942.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_020116",
+        "image": [
+            "clevr/support/CLEVR_train_020116.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_050008",
+        "image": [
+            "clevr/support/CLEVR_train_050008.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_021689",
+        "image": [
+            "clevr/support/CLEVR_train_021689.png"
+        ],
+        "question": "material: rubber",
+        "answer": 7
+    },
+    {
+        "id": "clevr_support_CLEVR_train_009408",
+        "image": [
+            "clevr/support/CLEVR_train_009408.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_008339",
+        "image": [
+            "clevr/support/CLEVR_train_008339.png"
+        ],
+        "question": "color: yellow",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_058232",
+        "image": [
+            "clevr/support/CLEVR_train_058232.png"
+        ],
+        "question": "color: red",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_041233",
+        "image": [
+            "clevr/support/CLEVR_train_041233.png"
+        ],
+        "question": "color: red",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_004569",
+        "image": [
+            "clevr/support/CLEVR_train_004569.png"
+        ],
+        "question": "color: purple",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_003392",
+        "image": [
+            "clevr/support/CLEVR_train_003392.png"
+        ],
+        "question": "material: metal",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_048473",
+        "image": [
+            "clevr/support/CLEVR_train_048473.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_029411",
+        "image": [
+            "clevr/support/CLEVR_train_029411.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_068995",
+        "image": [
+            "clevr/support/CLEVR_train_068995.png"
+        ],
+        "question": "material: metal",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_057608",
+        "image": [
+            "clevr/support/CLEVR_train_057608.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_064639",
+        "image": [
+            "clevr/support/CLEVR_train_064639.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_057664",
+        "image": [
+            "clevr/support/CLEVR_train_057664.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_057546",
+        "image": [
+            "clevr/support/CLEVR_train_057546.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_046969",
+        "image": [
+            "clevr/support/CLEVR_train_046969.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_042788",
+        "image": [
+            "clevr/support/CLEVR_train_042788.png"
+        ],
+        "question": "color: gray",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_005766",
+        "image": [
+            "clevr/support/CLEVR_train_005766.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_054461",
+        "image": [
+            "clevr/support/CLEVR_train_054461.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_046892",
+        "image": [
+            "clevr/support/CLEVR_train_046892.png"
+        ],
+        "question": "shape: cube",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_064971",
+        "image": [
+            "clevr/support/CLEVR_train_064971.png"
+        ],
+        "question": "material: metal",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_039921",
+        "image": [
+            "clevr/support/CLEVR_train_039921.png"
+        ],
+        "question": "size: large",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_041154",
+        "image": [
+            "clevr/support/CLEVR_train_041154.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_062730",
+        "image": [
+            "clevr/support/CLEVR_train_062730.png"
+        ],
+        "question": "material: rubber",
+        "answer": 7
+    },
+    {
+        "id": "clevr_support_CLEVR_train_044075",
+        "image": [
+            "clevr/support/CLEVR_train_044075.png"
+        ],
+        "question": "color: yellow",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_051405",
+        "image": [
+            "clevr/support/CLEVR_train_051405.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_018223",
+        "image": [
+            "clevr/support/CLEVR_train_018223.png"
+        ],
+        "question": "material: metal",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_049286",
+        "image": [
+            "clevr/support/CLEVR_train_049286.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_009602",
+        "image": [
+            "clevr/support/CLEVR_train_009602.png"
+        ],
+        "question": "size: large",
+        "answer": 7
+    },
+    {
+        "id": "clevr_support_CLEVR_train_058274",
+        "image": [
+            "clevr/support/CLEVR_train_058274.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_005161",
+        "image": [
+            "clevr/support/CLEVR_train_005161.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_003485",
+        "image": [
+            "clevr/support/CLEVR_train_003485.png"
+        ],
+        "question": "material: metal",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_019377",
+        "image": [
+            "clevr/support/CLEVR_train_019377.png"
+        ],
+        "question": "material: metal",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_012789",
+        "image": [
+            "clevr/support/CLEVR_train_012789.png"
+        ],
+        "question": "material: metal",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_012892",
+        "image": [
+            "clevr/support/CLEVR_train_012892.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_022141",
+        "image": [
+            "clevr/support/CLEVR_train_022141.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_053133",
+        "image": [
+            "clevr/support/CLEVR_train_053133.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_006973",
+        "image": [
+            "clevr/support/CLEVR_train_006973.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_055513",
+        "image": [
+            "clevr/support/CLEVR_train_055513.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_003478",
+        "image": [
+            "clevr/support/CLEVR_train_003478.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_020791",
+        "image": [
+            "clevr/support/CLEVR_train_020791.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_012709",
+        "image": [
+            "clevr/support/CLEVR_train_012709.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017039",
+        "image": [
+            "clevr/support/CLEVR_train_017039.png"
+        ],
+        "question": "color: green",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_054955",
+        "image": [
+            "clevr/support/CLEVR_train_054955.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_068310",
+        "image": [
+            "clevr/support/CLEVR_train_068310.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_035740",
+        "image": [
+            "clevr/support/CLEVR_train_035740.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_014669",
+        "image": [
+            "clevr/support/CLEVR_train_014669.png"
+        ],
+        "question": "material: metal",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_038990",
+        "image": [
+            "clevr/support/CLEVR_train_038990.png"
+        ],
+        "question": "material: metal",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_064474",
+        "image": [
+            "clevr/support/CLEVR_train_064474.png"
+        ],
+        "question": "color: green",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_016174",
+        "image": [
+            "clevr/support/CLEVR_train_016174.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_027331",
+        "image": [
+            "clevr/support/CLEVR_train_027331.png"
+        ],
+        "question": "color: cyan",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_006150",
+        "image": [
+            "clevr/support/CLEVR_train_006150.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_038256",
+        "image": [
+            "clevr/support/CLEVR_train_038256.png"
+        ],
+        "question": "color: blue",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_037064",
+        "image": [
+            "clevr/support/CLEVR_train_037064.png"
+        ],
+        "question": "color: brown",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_069242",
+        "image": [
+            "clevr/support/CLEVR_train_069242.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_003295",
+        "image": [
+            "clevr/support/CLEVR_train_003295.png"
+        ],
+        "question": "color: blue",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_015238",
+        "image": [
+            "clevr/support/CLEVR_train_015238.png"
+        ],
+        "question": "color: green",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_033651",
+        "image": [
+            "clevr/support/CLEVR_train_033651.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_001884",
+        "image": [
+            "clevr/support/CLEVR_train_001884.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_039819",
+        "image": [
+            "clevr/support/CLEVR_train_039819.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_038300",
+        "image": [
+            "clevr/support/CLEVR_train_038300.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017506",
+        "image": [
+            "clevr/support/CLEVR_train_017506.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_063563",
+        "image": [
+            "clevr/support/CLEVR_train_063563.png"
+        ],
+        "question": "material: metal",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_023667",
+        "image": [
+            "clevr/support/CLEVR_train_023667.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_068601",
+        "image": [
+            "clevr/support/CLEVR_train_068601.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_026316",
+        "image": [
+            "clevr/support/CLEVR_train_026316.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 7
+    },
+    {
+        "id": "clevr_support_CLEVR_train_066293",
+        "image": [
+            "clevr/support/CLEVR_train_066293.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_044864",
+        "image": [
+            "clevr/support/CLEVR_train_044864.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_034046",
+        "image": [
+            "clevr/support/CLEVR_train_034046.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_029630",
+        "image": [
+            "clevr/support/CLEVR_train_029630.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_058484",
+        "image": [
+            "clevr/support/CLEVR_train_058484.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_069747",
+        "image": [
+            "clevr/support/CLEVR_train_069747.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017257",
+        "image": [
+            "clevr/support/CLEVR_train_017257.png"
+        ],
+        "question": "color: brown",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_032029",
+        "image": [
+            "clevr/support/CLEVR_train_032029.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_023383",
+        "image": [
+            "clevr/support/CLEVR_train_023383.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_039599",
+        "image": [
+            "clevr/support/CLEVR_train_039599.png"
+        ],
+        "question": "color: blue",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_008966",
+        "image": [
+            "clevr/support/CLEVR_train_008966.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_023250",
+        "image": [
+            "clevr/support/CLEVR_train_023250.png"
+        ],
+        "question": "color: purple",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_013934",
+        "image": [
+            "clevr/support/CLEVR_train_013934.png"
+        ],
+        "question": "color: yellow",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_044498",
+        "image": [
+            "clevr/support/CLEVR_train_044498.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_035403",
+        "image": [
+            "clevr/support/CLEVR_train_035403.png"
+        ],
+        "question": "color: blue",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_047952",
+        "image": [
+            "clevr/support/CLEVR_train_047952.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_064024",
+        "image": [
+            "clevr/support/CLEVR_train_064024.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_062859",
+        "image": [
+            "clevr/support/CLEVR_train_062859.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_066808",
+        "image": [
+            "clevr/support/CLEVR_train_066808.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_039495",
+        "image": [
+            "clevr/support/CLEVR_train_039495.png"
+        ],
+        "question": "color: blue",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_054698",
+        "image": [
+            "clevr/support/CLEVR_train_054698.png"
+        ],
+        "question": "material: metal",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_010945",
+        "image": [
+            "clevr/support/CLEVR_train_010945.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_008128",
+        "image": [
+            "clevr/support/CLEVR_train_008128.png"
+        ],
+        "question": "color: green",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_068361",
+        "image": [
+            "clevr/support/CLEVR_train_068361.png"
+        ],
+        "question": "material: rubber",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_040968",
+        "image": [
+            "clevr/support/CLEVR_train_040968.png"
+        ],
+        "question": "material: rubber",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_030843",
+        "image": [
+            "clevr/support/CLEVR_train_030843.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_049296",
+        "image": [
+            "clevr/support/CLEVR_train_049296.png"
+        ],
+        "question": "color: green",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_022342",
+        "image": [
+            "clevr/support/CLEVR_train_022342.png"
+        ],
+        "question": "material: metal",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_050077",
+        "image": [
+            "clevr/support/CLEVR_train_050077.png"
+        ],
+        "question": "color: red",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_048307",
+        "image": [
+            "clevr/support/CLEVR_train_048307.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_026568",
+        "image": [
+            "clevr/support/CLEVR_train_026568.png"
+        ],
+        "question": "material: rubber",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_061342",
+        "image": [
+            "clevr/support/CLEVR_train_061342.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_062738",
+        "image": [
+            "clevr/support/CLEVR_train_062738.png"
+        ],
+        "question": "color: gray",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_051915",
+        "image": [
+            "clevr/support/CLEVR_train_051915.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_047568",
+        "image": [
+            "clevr/support/CLEVR_train_047568.png"
+        ],
+        "question": "color: yellow",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_035001",
+        "image": [
+            "clevr/support/CLEVR_train_035001.png"
+        ],
+        "question": "color: red",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_030922",
+        "image": [
+            "clevr/support/CLEVR_train_030922.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_067432",
+        "image": [
+            "clevr/support/CLEVR_train_067432.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_040081",
+        "image": [
+            "clevr/support/CLEVR_train_040081.png"
+        ],
+        "question": "size: large",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_040395",
+        "image": [
+            "clevr/support/CLEVR_train_040395.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_028571",
+        "image": [
+            "clevr/support/CLEVR_train_028571.png"
+        ],
+        "question": "color: gray",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_051957",
+        "image": [
+            "clevr/support/CLEVR_train_051957.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_036390",
+        "image": [
+            "clevr/support/CLEVR_train_036390.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017831",
+        "image": [
+            "clevr/support/CLEVR_train_017831.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_025746",
+        "image": [
+            "clevr/support/CLEVR_train_025746.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_067307",
+        "image": [
+            "clevr/support/CLEVR_train_067307.png"
+        ],
+        "question": "color: purple",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_003909",
+        "image": [
+            "clevr/support/CLEVR_train_003909.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_001220",
+        "image": [
+            "clevr/support/CLEVR_train_001220.png"
+        ],
+        "question": "size: small",
+        "answer": 7
+    },
+    {
+        "id": "clevr_support_CLEVR_train_063817",
+        "image": [
+            "clevr/support/CLEVR_train_063817.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_023394",
+        "image": [
+            "clevr/support/CLEVR_train_023394.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_004526",
+        "image": [
+            "clevr/support/CLEVR_train_004526.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_019535",
+        "image": [
+            "clevr/support/CLEVR_train_019535.png"
+        ],
+        "question": "shape: cube",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_023092",
+        "image": [
+            "clevr/support/CLEVR_train_023092.png"
+        ],
+        "question": "material: metal",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_009809",
+        "image": [
+            "clevr/support/CLEVR_train_009809.png"
+        ],
+        "question": "color: red",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_019725",
+        "image": [
+            "clevr/support/CLEVR_train_019725.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_040943",
+        "image": [
+            "clevr/support/CLEVR_train_040943.png"
+        ],
+        "question": "color: gray",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_009744",
+        "image": [
+            "clevr/support/CLEVR_train_009744.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_032641",
+        "image": [
+            "clevr/support/CLEVR_train_032641.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_049261",
+        "image": [
+            "clevr/support/CLEVR_train_049261.png"
+        ],
+        "question": "color: brown",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_029046",
+        "image": [
+            "clevr/support/CLEVR_train_029046.png"
+        ],
+        "question": "color: blue",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_041354",
+        "image": [
+            "clevr/support/CLEVR_train_041354.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_020550",
+        "image": [
+            "clevr/support/CLEVR_train_020550.png"
+        ],
+        "question": "material: rubber",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_051850",
+        "image": [
+            "clevr/support/CLEVR_train_051850.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_011656",
+        "image": [
+            "clevr/support/CLEVR_train_011656.png"
+        ],
+        "question": "size: small",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_045060",
+        "image": [
+            "clevr/support/CLEVR_train_045060.png"
+        ],
+        "question": "color: green",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_023893",
+        "image": [
+            "clevr/support/CLEVR_train_023893.png"
+        ],
+        "question": "shape: cube",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017684",
+        "image": [
+            "clevr/support/CLEVR_train_017684.png"
+        ],
+        "question": "size: small",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_021016",
+        "image": [
+            "clevr/support/CLEVR_train_021016.png"
+        ],
+        "question": "color: yellow",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_016011",
+        "image": [
+            "clevr/support/CLEVR_train_016011.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_037123",
+        "image": [
+            "clevr/support/CLEVR_train_037123.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_008870",
+        "image": [
+            "clevr/support/CLEVR_train_008870.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_061768",
+        "image": [
+            "clevr/support/CLEVR_train_061768.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_061545",
+        "image": [
+            "clevr/support/CLEVR_train_061545.png"
+        ],
+        "question": "material: metal",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_064662",
+        "image": [
+            "clevr/support/CLEVR_train_064662.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_035485",
+        "image": [
+            "clevr/support/CLEVR_train_035485.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_021799",
+        "image": [
+            "clevr/support/CLEVR_train_021799.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_067953",
+        "image": [
+            "clevr/support/CLEVR_train_067953.png"
+        ],
+        "question": "color: yellow",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_035829",
+        "image": [
+            "clevr/support/CLEVR_train_035829.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_026310",
+        "image": [
+            "clevr/support/CLEVR_train_026310.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_010906",
+        "image": [
+            "clevr/support/CLEVR_train_010906.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_065803",
+        "image": [
+            "clevr/support/CLEVR_train_065803.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_038582",
+        "image": [
+            "clevr/support/CLEVR_train_038582.png"
+        ],
+        "question": "color: purple",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_012505",
+        "image": [
+            "clevr/support/CLEVR_train_012505.png"
+        ],
+        "question": "shape: cube",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_032273",
+        "image": [
+            "clevr/support/CLEVR_train_032273.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_014501",
+        "image": [
+            "clevr/support/CLEVR_train_014501.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_035534",
+        "image": [
+            "clevr/support/CLEVR_train_035534.png"
+        ],
+        "question": "size: large",
+        "answer": 7
+    },
+    {
+        "id": "clevr_support_CLEVR_train_026184",
+        "image": [
+            "clevr/support/CLEVR_train_026184.png"
+        ],
+        "question": "size: large",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_014334",
+        "image": [
+            "clevr/support/CLEVR_train_014334.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_065503",
+        "image": [
+            "clevr/support/CLEVR_train_065503.png"
+        ],
+        "question": "color: yellow",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_055709",
+        "image": [
+            "clevr/support/CLEVR_train_055709.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_066200",
+        "image": [
+            "clevr/support/CLEVR_train_066200.png"
+        ],
+        "question": "color: green",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_030861",
+        "image": [
+            "clevr/support/CLEVR_train_030861.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_025662",
+        "image": [
+            "clevr/support/CLEVR_train_025662.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_064194",
+        "image": [
+            "clevr/support/CLEVR_train_064194.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_067929",
+        "image": [
+            "clevr/support/CLEVR_train_067929.png"
+        ],
+        "question": "color: red",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_029469",
+        "image": [
+            "clevr/support/CLEVR_train_029469.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_033150",
+        "image": [
+            "clevr/support/CLEVR_train_033150.png"
+        ],
+        "question": "material: metal",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_038449",
+        "image": [
+            "clevr/support/CLEVR_train_038449.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_010031",
+        "image": [
+            "clevr/support/CLEVR_train_010031.png"
+        ],
+        "question": "color: brown",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_048094",
+        "image": [
+            "clevr/support/CLEVR_train_048094.png"
+        ],
+        "question": "material: metal",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_044687",
+        "image": [
+            "clevr/support/CLEVR_train_044687.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_060035",
+        "image": [
+            "clevr/support/CLEVR_train_060035.png"
+        ],
+        "question": "shape: cube",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_010567",
+        "image": [
+            "clevr/support/CLEVR_train_010567.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_003283",
+        "image": [
+            "clevr/support/CLEVR_train_003283.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_009393",
+        "image": [
+            "clevr/support/CLEVR_train_009393.png"
+        ],
+        "question": "material: metal",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_066171",
+        "image": [
+            "clevr/support/CLEVR_train_066171.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_057712",
+        "image": [
+            "clevr/support/CLEVR_train_057712.png"
+        ],
+        "question": "material: metal",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_011380",
+        "image": [
+            "clevr/support/CLEVR_train_011380.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_005044",
+        "image": [
+            "clevr/support/CLEVR_train_005044.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_040087",
+        "image": [
+            "clevr/support/CLEVR_train_040087.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_054370",
+        "image": [
+            "clevr/support/CLEVR_train_054370.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_060355",
+        "image": [
+            "clevr/support/CLEVR_train_060355.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_067047",
+        "image": [
+            "clevr/support/CLEVR_train_067047.png"
+        ],
+        "question": "color: red",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_030098",
+        "image": [
+            "clevr/support/CLEVR_train_030098.png"
+        ],
+        "question": "color: red",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_016375",
+        "image": [
+            "clevr/support/CLEVR_train_016375.png"
+        ],
+        "question": "material: metal",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_057553",
+        "image": [
+            "clevr/support/CLEVR_train_057553.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_040339",
+        "image": [
+            "clevr/support/CLEVR_train_040339.png"
+        ],
+        "question": "size: large",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_005006",
+        "image": [
+            "clevr/support/CLEVR_train_005006.png"
+        ],
+        "question": "color: red",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_061071",
+        "image": [
+            "clevr/support/CLEVR_train_061071.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_012646",
+        "image": [
+            "clevr/support/CLEVR_train_012646.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_062199",
+        "image": [
+            "clevr/support/CLEVR_train_062199.png"
+        ],
+        "question": "material: metal",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_016600",
+        "image": [
+            "clevr/support/CLEVR_train_016600.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_035984",
+        "image": [
+            "clevr/support/CLEVR_train_035984.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_009298",
+        "image": [
+            "clevr/support/CLEVR_train_009298.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_053262",
+        "image": [
+            "clevr/support/CLEVR_train_053262.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017416",
+        "image": [
+            "clevr/support/CLEVR_train_017416.png"
+        ],
+        "question": "color: gray",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_048739",
+        "image": [
+            "clevr/support/CLEVR_train_048739.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_043783",
+        "image": [
+            "clevr/support/CLEVR_train_043783.png"
+        ],
+        "question": "color: brown",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017733",
+        "image": [
+            "clevr/support/CLEVR_train_017733.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_015572",
+        "image": [
+            "clevr/support/CLEVR_train_015572.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_030630",
+        "image": [
+            "clevr/support/CLEVR_train_030630.png"
+        ],
+        "question": "color: blue",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_064363",
+        "image": [
+            "clevr/support/CLEVR_train_064363.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_001882",
+        "image": [
+            "clevr/support/CLEVR_train_001882.png"
+        ],
+        "question": "shape: cube",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_002937",
+        "image": [
+            "clevr/support/CLEVR_train_002937.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_064226",
+        "image": [
+            "clevr/support/CLEVR_train_064226.png"
+        ],
+        "question": "material: rubber",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_019576",
+        "image": [
+            "clevr/support/CLEVR_train_019576.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_041799",
+        "image": [
+            "clevr/support/CLEVR_train_041799.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_040473",
+        "image": [
+            "clevr/support/CLEVR_train_040473.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_007401",
+        "image": [
+            "clevr/support/CLEVR_train_007401.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_048386",
+        "image": [
+            "clevr/support/CLEVR_train_048386.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_059186",
+        "image": [
+            "clevr/support/CLEVR_train_059186.png"
+        ],
+        "question": "material: metal",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_042137",
+        "image": [
+            "clevr/support/CLEVR_train_042137.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_034285",
+        "image": [
+            "clevr/support/CLEVR_train_034285.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_012409",
+        "image": [
+            "clevr/support/CLEVR_train_012409.png"
+        ],
+        "question": "size: large",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_042822",
+        "image": [
+            "clevr/support/CLEVR_train_042822.png"
+        ],
+        "question": "color: gray",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_032530",
+        "image": [
+            "clevr/support/CLEVR_train_032530.png"
+        ],
+        "question": "color: yellow",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_035000",
+        "image": [
+            "clevr/support/CLEVR_train_035000.png"
+        ],
+        "question": "color: cyan",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_039701",
+        "image": [
+            "clevr/support/CLEVR_train_039701.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_059333",
+        "image": [
+            "clevr/support/CLEVR_train_059333.png"
+        ],
+        "question": "color: green",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_014146",
+        "image": [
+            "clevr/support/CLEVR_train_014146.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_050264",
+        "image": [
+            "clevr/support/CLEVR_train_050264.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_004405",
+        "image": [
+            "clevr/support/CLEVR_train_004405.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_056922",
+        "image": [
+            "clevr/support/CLEVR_train_056922.png"
+        ],
+        "question": "material: metal",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_066543",
+        "image": [
+            "clevr/support/CLEVR_train_066543.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_034029",
+        "image": [
+            "clevr/support/CLEVR_train_034029.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_028400",
+        "image": [
+            "clevr/support/CLEVR_train_028400.png"
+        ],
+        "question": "size: large",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_046926",
+        "image": [
+            "clevr/support/CLEVR_train_046926.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_016150",
+        "image": [
+            "clevr/support/CLEVR_train_016150.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017252",
+        "image": [
+            "clevr/support/CLEVR_train_017252.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_003311",
+        "image": [
+            "clevr/support/CLEVR_train_003311.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_037274",
+        "image": [
+            "clevr/support/CLEVR_train_037274.png"
+        ],
+        "question": "color: brown",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_069952",
+        "image": [
+            "clevr/support/CLEVR_train_069952.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_016607",
+        "image": [
+            "clevr/support/CLEVR_train_016607.png"
+        ],
+        "question": "material: rubber",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_019584",
+        "image": [
+            "clevr/support/CLEVR_train_019584.png"
+        ],
+        "question": "color: blue",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_030220",
+        "image": [
+            "clevr/support/CLEVR_train_030220.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_064205",
+        "image": [
+            "clevr/support/CLEVR_train_064205.png"
+        ],
+        "question": "material: rubber",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_032820",
+        "image": [
+            "clevr/support/CLEVR_train_032820.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_010685",
+        "image": [
+            "clevr/support/CLEVR_train_010685.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_007953",
+        "image": [
+            "clevr/support/CLEVR_train_007953.png"
+        ],
+        "question": "color: brown",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_030568",
+        "image": [
+            "clevr/support/CLEVR_train_030568.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_019812",
+        "image": [
+            "clevr/support/CLEVR_train_019812.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_000635",
+        "image": [
+            "clevr/support/CLEVR_train_000635.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_039334",
+        "image": [
+            "clevr/support/CLEVR_train_039334.png"
+        ],
+        "question": "size: small",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_053873",
+        "image": [
+            "clevr/support/CLEVR_train_053873.png"
+        ],
+        "question": "color: blue",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_022775",
+        "image": [
+            "clevr/support/CLEVR_train_022775.png"
+        ],
+        "question": "size: small",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_024918",
+        "image": [
+            "clevr/support/CLEVR_train_024918.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_008575",
+        "image": [
+            "clevr/support/CLEVR_train_008575.png"
+        ],
+        "question": "material: metal",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_043414",
+        "image": [
+            "clevr/support/CLEVR_train_043414.png"
+        ],
+        "question": "color: blue",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_069536",
+        "image": [
+            "clevr/support/CLEVR_train_069536.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_059603",
+        "image": [
+            "clevr/support/CLEVR_train_059603.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_043646",
+        "image": [
+            "clevr/support/CLEVR_train_043646.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_054899",
+        "image": [
+            "clevr/support/CLEVR_train_054899.png"
+        ],
+        "question": "color: yellow",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_067448",
+        "image": [
+            "clevr/support/CLEVR_train_067448.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_011698",
+        "image": [
+            "clevr/support/CLEVR_train_011698.png"
+        ],
+        "question": "color: gray",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_042053",
+        "image": [
+            "clevr/support/CLEVR_train_042053.png"
+        ],
+        "question": "shape: cube",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_038997",
+        "image": [
+            "clevr/support/CLEVR_train_038997.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_046910",
+        "image": [
+            "clevr/support/CLEVR_train_046910.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_028665",
+        "image": [
+            "clevr/support/CLEVR_train_028665.png"
+        ],
+        "question": "material: metal",
+        "answer": 8
+    },
+    {
+        "id": "clevr_support_CLEVR_train_041331",
+        "image": [
+            "clevr/support/CLEVR_train_041331.png"
+        ],
+        "question": "color: green",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_006577",
+        "image": [
+            "clevr/support/CLEVR_train_006577.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_068635",
+        "image": [
+            "clevr/support/CLEVR_train_068635.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_043223",
+        "image": [
+            "clevr/support/CLEVR_train_043223.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_055401",
+        "image": [
+            "clevr/support/CLEVR_train_055401.png"
+        ],
+        "question": "color: red",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_007583",
+        "image": [
+            "clevr/support/CLEVR_train_007583.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_038958",
+        "image": [
+            "clevr/support/CLEVR_train_038958.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_058740",
+        "image": [
+            "clevr/support/CLEVR_train_058740.png"
+        ],
+        "question": "size: small",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_019047",
+        "image": [
+            "clevr/support/CLEVR_train_019047.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_049716",
+        "image": [
+            "clevr/support/CLEVR_train_049716.png"
+        ],
+        "question": "size: large",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_044938",
+        "image": [
+            "clevr/support/CLEVR_train_044938.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_064260",
+        "image": [
+            "clevr/support/CLEVR_train_064260.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_018576",
+        "image": [
+            "clevr/support/CLEVR_train_018576.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_053773",
+        "image": [
+            "clevr/support/CLEVR_train_053773.png"
+        ],
+        "question": "color: blue",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_048720",
+        "image": [
+            "clevr/support/CLEVR_train_048720.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_051216",
+        "image": [
+            "clevr/support/CLEVR_train_051216.png"
+        ],
+        "question": "size: large",
+        "answer": 7
+    },
+    {
+        "id": "clevr_support_CLEVR_train_011627",
+        "image": [
+            "clevr/support/CLEVR_train_011627.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_011626",
+        "image": [
+            "clevr/support/CLEVR_train_011626.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_028107",
+        "image": [
+            "clevr/support/CLEVR_train_028107.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_055730",
+        "image": [
+            "clevr/support/CLEVR_train_055730.png"
+        ],
+        "question": "material: rubber",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_022771",
+        "image": [
+            "clevr/support/CLEVR_train_022771.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_030968",
+        "image": [
+            "clevr/support/CLEVR_train_030968.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_013409",
+        "image": [
+            "clevr/support/CLEVR_train_013409.png"
+        ],
+        "question": "color: red",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_036882",
+        "image": [
+            "clevr/support/CLEVR_train_036882.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_049110",
+        "image": [
+            "clevr/support/CLEVR_train_049110.png"
+        ],
+        "question": "color: brown",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_060325",
+        "image": [
+            "clevr/support/CLEVR_train_060325.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_047262",
+        "image": [
+            "clevr/support/CLEVR_train_047262.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_006133",
+        "image": [
+            "clevr/support/CLEVR_train_006133.png"
+        ],
+        "question": "size: small",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_064180",
+        "image": [
+            "clevr/support/CLEVR_train_064180.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_038490",
+        "image": [
+            "clevr/support/CLEVR_train_038490.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_059970",
+        "image": [
+            "clevr/support/CLEVR_train_059970.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_034886",
+        "image": [
+            "clevr/support/CLEVR_train_034886.png"
+        ],
+        "question": "material: rubber",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_047054",
+        "image": [
+            "clevr/support/CLEVR_train_047054.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_000730",
+        "image": [
+            "clevr/support/CLEVR_train_000730.png"
+        ],
+        "question": "shape: cube",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_062685",
+        "image": [
+            "clevr/support/CLEVR_train_062685.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_066064",
+        "image": [
+            "clevr/support/CLEVR_train_066064.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_010020",
+        "image": [
+            "clevr/support/CLEVR_train_010020.png"
+        ],
+        "question": "color: brown",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_010915",
+        "image": [
+            "clevr/support/CLEVR_train_010915.png"
+        ],
+        "question": "color: cyan",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_001129",
+        "image": [
+            "clevr/support/CLEVR_train_001129.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_034928",
+        "image": [
+            "clevr/support/CLEVR_train_034928.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_008622",
+        "image": [
+            "clevr/support/CLEVR_train_008622.png"
+        ],
+        "question": "color: red",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_032015",
+        "image": [
+            "clevr/support/CLEVR_train_032015.png"
+        ],
+        "question": "color: yellow",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_047160",
+        "image": [
+            "clevr/support/CLEVR_train_047160.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_025355",
+        "image": [
+            "clevr/support/CLEVR_train_025355.png"
+        ],
+        "question": "color: blue",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_019145",
+        "image": [
+            "clevr/support/CLEVR_train_019145.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_058627",
+        "image": [
+            "clevr/support/CLEVR_train_058627.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_052168",
+        "image": [
+            "clevr/support/CLEVR_train_052168.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_004199",
+        "image": [
+            "clevr/support/CLEVR_train_004199.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_018413",
+        "image": [
+            "clevr/support/CLEVR_train_018413.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_052157",
+        "image": [
+            "clevr/support/CLEVR_train_052157.png"
+        ],
+        "question": "material: metal",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_031238",
+        "image": [
+            "clevr/support/CLEVR_train_031238.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_063218",
+        "image": [
+            "clevr/support/CLEVR_train_063218.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_027816",
+        "image": [
+            "clevr/support/CLEVR_train_027816.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_052345",
+        "image": [
+            "clevr/support/CLEVR_train_052345.png"
+        ],
+        "question": "size: small",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_042626",
+        "image": [
+            "clevr/support/CLEVR_train_042626.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_023943",
+        "image": [
+            "clevr/support/CLEVR_train_023943.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_040856",
+        "image": [
+            "clevr/support/CLEVR_train_040856.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017290",
+        "image": [
+            "clevr/support/CLEVR_train_017290.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_014837",
+        "image": [
+            "clevr/support/CLEVR_train_014837.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_004283",
+        "image": [
+            "clevr/support/CLEVR_train_004283.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_065954",
+        "image": [
+            "clevr/support/CLEVR_train_065954.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_068851",
+        "image": [
+            "clevr/support/CLEVR_train_068851.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_009503",
+        "image": [
+            "clevr/support/CLEVR_train_009503.png"
+        ],
+        "question": "color: yellow",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_068781",
+        "image": [
+            "clevr/support/CLEVR_train_068781.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_012325",
+        "image": [
+            "clevr/support/CLEVR_train_012325.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_032595",
+        "image": [
+            "clevr/support/CLEVR_train_032595.png"
+        ],
+        "question": "color: red",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_036093",
+        "image": [
+            "clevr/support/CLEVR_train_036093.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_063866",
+        "image": [
+            "clevr/support/CLEVR_train_063866.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_065941",
+        "image": [
+            "clevr/support/CLEVR_train_065941.png"
+        ],
+        "question": "color: purple",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_052151",
+        "image": [
+            "clevr/support/CLEVR_train_052151.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_021791",
+        "image": [
+            "clevr/support/CLEVR_train_021791.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_066531",
+        "image": [
+            "clevr/support/CLEVR_train_066531.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_042923",
+        "image": [
+            "clevr/support/CLEVR_train_042923.png"
+        ],
+        "question": "shape: cube",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_004390",
+        "image": [
+            "clevr/support/CLEVR_train_004390.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_010591",
+        "image": [
+            "clevr/support/CLEVR_train_010591.png"
+        ],
+        "question": "color: brown",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_003009",
+        "image": [
+            "clevr/support/CLEVR_train_003009.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_045874",
+        "image": [
+            "clevr/support/CLEVR_train_045874.png"
+        ],
+        "question": "color: brown",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_019443",
+        "image": [
+            "clevr/support/CLEVR_train_019443.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_058975",
+        "image": [
+            "clevr/support/CLEVR_train_058975.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_051337",
+        "image": [
+            "clevr/support/CLEVR_train_051337.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_035921",
+        "image": [
+            "clevr/support/CLEVR_train_035921.png"
+        ],
+        "question": "shape: cube",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_035525",
+        "image": [
+            "clevr/support/CLEVR_train_035525.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_020336",
+        "image": [
+            "clevr/support/CLEVR_train_020336.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_030749",
+        "image": [
+            "clevr/support/CLEVR_train_030749.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_008715",
+        "image": [
+            "clevr/support/CLEVR_train_008715.png"
+        ],
+        "question": "color: blue",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_029920",
+        "image": [
+            "clevr/support/CLEVR_train_029920.png"
+        ],
+        "question": "color: gray",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_061048",
+        "image": [
+            "clevr/support/CLEVR_train_061048.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_023817",
+        "image": [
+            "clevr/support/CLEVR_train_023817.png"
+        ],
+        "question": "color: brown",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_064932",
+        "image": [
+            "clevr/support/CLEVR_train_064932.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_042718",
+        "image": [
+            "clevr/support/CLEVR_train_042718.png"
+        ],
+        "question": "color: brown",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_006080",
+        "image": [
+            "clevr/support/CLEVR_train_006080.png"
+        ],
+        "question": "color: yellow",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_050265",
+        "image": [
+            "clevr/support/CLEVR_train_050265.png"
+        ],
+        "question": "size: large",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_009869",
+        "image": [
+            "clevr/support/CLEVR_train_009869.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_065006",
+        "image": [
+            "clevr/support/CLEVR_train_065006.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_011068",
+        "image": [
+            "clevr/support/CLEVR_train_011068.png"
+        ],
+        "question": "material: rubber",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_053884",
+        "image": [
+            "clevr/support/CLEVR_train_053884.png"
+        ],
+        "question": "color: red",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_027040",
+        "image": [
+            "clevr/support/CLEVR_train_027040.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_046957",
+        "image": [
+            "clevr/support/CLEVR_train_046957.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_008388",
+        "image": [
+            "clevr/support/CLEVR_train_008388.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_058832",
+        "image": [
+            "clevr/support/CLEVR_train_058832.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_040944",
+        "image": [
+            "clevr/support/CLEVR_train_040944.png"
+        ],
+        "question": "color: green",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_002207",
+        "image": [
+            "clevr/support/CLEVR_train_002207.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_041414",
+        "image": [
+            "clevr/support/CLEVR_train_041414.png"
+        ],
+        "question": "shape: cube",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_029611",
+        "image": [
+            "clevr/support/CLEVR_train_029611.png"
+        ],
+        "question": "size: large",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_013961",
+        "image": [
+            "clevr/support/CLEVR_train_013961.png"
+        ],
+        "question": "color: blue",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_021786",
+        "image": [
+            "clevr/support/CLEVR_train_021786.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_062223",
+        "image": [
+            "clevr/support/CLEVR_train_062223.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_029388",
+        "image": [
+            "clevr/support/CLEVR_train_029388.png"
+        ],
+        "question": "material: metal",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_001610",
+        "image": [
+            "clevr/support/CLEVR_train_001610.png"
+        ],
+        "question": "size: large",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_032733",
+        "image": [
+            "clevr/support/CLEVR_train_032733.png"
+        ],
+        "question": "color: cyan",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_047446",
+        "image": [
+            "clevr/support/CLEVR_train_047446.png"
+        ],
+        "question": "size: large",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_037584",
+        "image": [
+            "clevr/support/CLEVR_train_037584.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_045115",
+        "image": [
+            "clevr/support/CLEVR_train_045115.png"
+        ],
+        "question": "color: red",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_018412",
+        "image": [
+            "clevr/support/CLEVR_train_018412.png"
+        ],
+        "question": "material: rubber",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_061506",
+        "image": [
+            "clevr/support/CLEVR_train_061506.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_063213",
+        "image": [
+            "clevr/support/CLEVR_train_063213.png"
+        ],
+        "question": "color: blue",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_042100",
+        "image": [
+            "clevr/support/CLEVR_train_042100.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017934",
+        "image": [
+            "clevr/support/CLEVR_train_017934.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_030154",
+        "image": [
+            "clevr/support/CLEVR_train_030154.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_023930",
+        "image": [
+            "clevr/support/CLEVR_train_023930.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_067933",
+        "image": [
+            "clevr/support/CLEVR_train_067933.png"
+        ],
+        "question": "material: rubber",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_040152",
+        "image": [
+            "clevr/support/CLEVR_train_040152.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_000203",
+        "image": [
+            "clevr/support/CLEVR_train_000203.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_034414",
+        "image": [
+            "clevr/support/CLEVR_train_034414.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_035966",
+        "image": [
+            "clevr/support/CLEVR_train_035966.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_018090",
+        "image": [
+            "clevr/support/CLEVR_train_018090.png"
+        ],
+        "question": "color: green",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_022190",
+        "image": [
+            "clevr/support/CLEVR_train_022190.png"
+        ],
+        "question": "material: rubber",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_003860",
+        "image": [
+            "clevr/support/CLEVR_train_003860.png"
+        ],
+        "question": "material: metal",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_005513",
+        "image": [
+            "clevr/support/CLEVR_train_005513.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_053562",
+        "image": [
+            "clevr/support/CLEVR_train_053562.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_068943",
+        "image": [
+            "clevr/support/CLEVR_train_068943.png"
+        ],
+        "question": "color: brown",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_061910",
+        "image": [
+            "clevr/support/CLEVR_train_061910.png"
+        ],
+        "question": "color: red",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_053208",
+        "image": [
+            "clevr/support/CLEVR_train_053208.png"
+        ],
+        "question": "color: brown",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_020061",
+        "image": [
+            "clevr/support/CLEVR_train_020061.png"
+        ],
+        "question": "material: rubber",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_046250",
+        "image": [
+            "clevr/support/CLEVR_train_046250.png"
+        ],
+        "question": "material: rubber",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_025502",
+        "image": [
+            "clevr/support/CLEVR_train_025502.png"
+        ],
+        "question": "shape: cube",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_025636",
+        "image": [
+            "clevr/support/CLEVR_train_025636.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_049521",
+        "image": [
+            "clevr/support/CLEVR_train_049521.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_063489",
+        "image": [
+            "clevr/support/CLEVR_train_063489.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_035605",
+        "image": [
+            "clevr/support/CLEVR_train_035605.png"
+        ],
+        "question": "color: purple",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_062996",
+        "image": [
+            "clevr/support/CLEVR_train_062996.png"
+        ],
+        "question": "color: green",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_041097",
+        "image": [
+            "clevr/support/CLEVR_train_041097.png"
+        ],
+        "question": "size: small",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_059242",
+        "image": [
+            "clevr/support/CLEVR_train_059242.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_055134",
+        "image": [
+            "clevr/support/CLEVR_train_055134.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 8
+    },
+    {
+        "id": "clevr_support_CLEVR_train_019205",
+        "image": [
+            "clevr/support/CLEVR_train_019205.png"
+        ],
+        "question": "color: blue",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_025334",
+        "image": [
+            "clevr/support/CLEVR_train_025334.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_018569",
+        "image": [
+            "clevr/support/CLEVR_train_018569.png"
+        ],
+        "question": "size: large",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_041272",
+        "image": [
+            "clevr/support/CLEVR_train_041272.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_006125",
+        "image": [
+            "clevr/support/CLEVR_train_006125.png"
+        ],
+        "question": "size: large",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_043908",
+        "image": [
+            "clevr/support/CLEVR_train_043908.png"
+        ],
+        "question": "color: brown",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_012029",
+        "image": [
+            "clevr/support/CLEVR_train_012029.png"
+        ],
+        "question": "material: rubber",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_046284",
+        "image": [
+            "clevr/support/CLEVR_train_046284.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_010043",
+        "image": [
+            "clevr/support/CLEVR_train_010043.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_042985",
+        "image": [
+            "clevr/support/CLEVR_train_042985.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_002132",
+        "image": [
+            "clevr/support/CLEVR_train_002132.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_025161",
+        "image": [
+            "clevr/support/CLEVR_train_025161.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_001883",
+        "image": [
+            "clevr/support/CLEVR_train_001883.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_019941",
+        "image": [
+            "clevr/support/CLEVR_train_019941.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_041146",
+        "image": [
+            "clevr/support/CLEVR_train_041146.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_054925",
+        "image": [
+            "clevr/support/CLEVR_train_054925.png"
+        ],
+        "question": "color: gray",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_068431",
+        "image": [
+            "clevr/support/CLEVR_train_068431.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_047387",
+        "image": [
+            "clevr/support/CLEVR_train_047387.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_042329",
+        "image": [
+            "clevr/support/CLEVR_train_042329.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_003675",
+        "image": [
+            "clevr/support/CLEVR_train_003675.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_046737",
+        "image": [
+            "clevr/support/CLEVR_train_046737.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_055670",
+        "image": [
+            "clevr/support/CLEVR_train_055670.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_000470",
+        "image": [
+            "clevr/support/CLEVR_train_000470.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_029878",
+        "image": [
+            "clevr/support/CLEVR_train_029878.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_069948",
+        "image": [
+            "clevr/support/CLEVR_train_069948.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_000622",
+        "image": [
+            "clevr/support/CLEVR_train_000622.png"
+        ],
+        "question": "color: brown",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_049317",
+        "image": [
+            "clevr/support/CLEVR_train_049317.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_059622",
+        "image": [
+            "clevr/support/CLEVR_train_059622.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_063105",
+        "image": [
+            "clevr/support/CLEVR_train_063105.png"
+        ],
+        "question": "shape: cube",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_028087",
+        "image": [
+            "clevr/support/CLEVR_train_028087.png"
+        ],
+        "question": "material: metal",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_068984",
+        "image": [
+            "clevr/support/CLEVR_train_068984.png"
+        ],
+        "question": "color: cyan",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_050984",
+        "image": [
+            "clevr/support/CLEVR_train_050984.png"
+        ],
+        "question": "color: blue",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017528",
+        "image": [
+            "clevr/support/CLEVR_train_017528.png"
+        ],
+        "question": "color: brown",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_025028",
+        "image": [
+            "clevr/support/CLEVR_train_025028.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_017933",
+        "image": [
+            "clevr/support/CLEVR_train_017933.png"
+        ],
+        "question": "color: purple",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_043079",
+        "image": [
+            "clevr/support/CLEVR_train_043079.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_019543",
+        "image": [
+            "clevr/support/CLEVR_train_019543.png"
+        ],
+        "question": "size: large",
+        "answer": 7
+    },
+    {
+        "id": "clevr_support_CLEVR_train_002322",
+        "image": [
+            "clevr/support/CLEVR_train_002322.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_003664",
+        "image": [
+            "clevr/support/CLEVR_train_003664.png"
+        ],
+        "question": "color: purple",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_023452",
+        "image": [
+            "clevr/support/CLEVR_train_023452.png"
+        ],
+        "question": "color: red",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_012377",
+        "image": [
+            "clevr/support/CLEVR_train_012377.png"
+        ],
+        "question": "color: green",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_066430",
+        "image": [
+            "clevr/support/CLEVR_train_066430.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_013072",
+        "image": [
+            "clevr/support/CLEVR_train_013072.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_029708",
+        "image": [
+            "clevr/support/CLEVR_train_029708.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_033812",
+        "image": [
+            "clevr/support/CLEVR_train_033812.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_058054",
+        "image": [
+            "clevr/support/CLEVR_train_058054.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_008166",
+        "image": [
+            "clevr/support/CLEVR_train_008166.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_033666",
+        "image": [
+            "clevr/support/CLEVR_train_033666.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_042023",
+        "image": [
+            "clevr/support/CLEVR_train_042023.png"
+        ],
+        "question": "color: purple",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_067760",
+        "image": [
+            "clevr/support/CLEVR_train_067760.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_054372",
+        "image": [
+            "clevr/support/CLEVR_train_054372.png"
+        ],
+        "question": "color: brown",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_016652",
+        "image": [
+            "clevr/support/CLEVR_train_016652.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_047364",
+        "image": [
+            "clevr/support/CLEVR_train_047364.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_023643",
+        "image": [
+            "clevr/support/CLEVR_train_023643.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_029562",
+        "image": [
+            "clevr/support/CLEVR_train_029562.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_035230",
+        "image": [
+            "clevr/support/CLEVR_train_035230.png"
+        ],
+        "question": "material: metal",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_067168",
+        "image": [
+            "clevr/support/CLEVR_train_067168.png"
+        ],
+        "question": "color: green",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_048169",
+        "image": [
+            "clevr/support/CLEVR_train_048169.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_support_CLEVR_train_068979",
+        "image": [
+            "clevr/support/CLEVR_train_068979.png"
+        ],
+        "question": "material: metal",
+        "answer": 6
+    },
+    {
+        "id": "clevr_support_CLEVR_train_025824",
+        "image": [
+            "clevr/support/CLEVR_train_025824.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_support_CLEVR_train_028337",
+        "image": [
+            "clevr/support/CLEVR_train_028337.png"
+        ],
+        "question": "color: green",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_039812",
+        "image": [
+            "clevr/support/CLEVR_train_039812.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_support_CLEVR_train_057292",
+        "image": [
+            "clevr/support/CLEVR_train_057292.png"
+        ],
+        "question": "color: purple",
+        "answer": 2
+    },
+    {
+        "id": "clevr_support_CLEVR_train_038983",
+        "image": [
+            "clevr/support/CLEVR_train_038983.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 4
+    },
+    {
+        "id": "clevr_support_CLEVR_train_039447",
+        "image": [
+            "clevr/support/CLEVR_train_039447.png"
+        ],
+        "question": "size: large",
+        "answer": 5
+    }
+]

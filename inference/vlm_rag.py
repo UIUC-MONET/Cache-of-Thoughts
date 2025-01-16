@@ -83,7 +83,7 @@ class QwenVLM():
         default_dtype = torch.get_default_dtype() # trick to bypass the flash_attention_2 dtype warning
         torch.set_default_dtype(torch.bfloat16)
         self.model = Qwen2VLForConditionalGeneration.from_pretrained(
-            model_name,
+            pretrained_model_name_or_path=model_name,
             torch_dtype=torch.bfloat16,
             attn_implementation="flash_attention_2", # using flash_att2 because the doc recommends
             device_map=device,
