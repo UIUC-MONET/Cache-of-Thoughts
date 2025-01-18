@@ -1,0 +1,7 @@
+transformers
+hnswlib
+open_flamingo
+datasets
+git+https://github.com/openai/CLIP.git
+accelerate
+numpy=='1.26.4'
