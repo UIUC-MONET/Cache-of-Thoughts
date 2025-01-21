@@ -41,7 +41,7 @@ def construct_prompt(question, options, dataSet):
         elif dataSet == 'textocr':
             return question + " Only answer with the largest text. Please include your reasoning steps, then answer your choice in this format: ANSWER: <TEXT>."
 
-server_name = 'meitang'
+server_name = 'ryan'
 dataSet = 'textocr' # choose from mmmu, clevr, textocr
 
 # Add the inference directory to the PYTHONPATH
@@ -79,12 +79,11 @@ validation_dataset = support_meta
 print(validation_dataset[0])
 
 # define output directory
-output_dir = Path('./')
-result_path = output_dir / f'{dataSet}_val_gpt4o_response_v2.jsonl'
+result_path = os.path.join(dataDir, dataSet, f'{dataSet}_val_gpt4o_response_v2.jsonl')
 
 # go through data
-bs = 10
-for i in range(0, 10, bs):
+bs = 30
+for i in range(0, len(validation_dataset), bs):
     print(f"Processing {i} to {min(i+bs, len(validation_dataset))}")
     batch = validation_dataset[i:min(i+bs, len(validation_dataset))]
     # images_base64_list_of_list = [[PIL_to_base64(each[f'image_{i}']) for i in range(1, 8) if each[f'image_{i}'] is not None] for each in batch]
@@ -102,7 +101,7 @@ for i in range(0, 10, bs):
     # options = ast.literal_eval(batch['options'])
     #options_list = [ast.literal_eval(batch['options'][j]) for j in range(bs)]
     #query_list = [construct_prompt(batch[j]['question'], []) for j in range(bs)]
-    batch_respose = asyncio.run(async_gpt_utils.get_vision_completion_multi_image_list(images_base64_list_of_list, query_list, max_parallel_calls=10, model="gpt-4o", task_name="clevr"))
+    batch_respose = asyncio.run(async_gpt_utils.get_vision_completion_multi_image_list(images_base64_list_of_list, query_list, max_parallel_calls=10, model="gpt-4o", task_name=dataSet))
 
     # save the completion
     with result_path.open('a') as f:

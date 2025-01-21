@@ -25,13 +25,19 @@ def get_extracted_keywords(data_dir):
     return keywords
 
     
-def reconstruct_prompt_from_gpt_conversation(question, options, conversation):
+def reconstruct_prompt_from_gpt_conversation(question, options, conversation, dataSet):
     gpt_question = ''
     options = ast.literal_eval(options)
     if len(options):
         gpt_question = question + " The options are the following:" + str().join([ALPHABET[i] + ". " + options[i] + ". " for i in range(len(options))]) + " Please include your reasoning steps, then answer your choice in this format: ANSWER: <LETTER CHOICE>. The letter choice is strictly in the alphabetical order, and there is only one option possible."
     else:
-        gpt_question = question + " Please include your reasoning steps, then answer your choice in this format: ANSWER: <LETTER CHOICE>. The letter choice is strictly in the alphabetical order, and there is only one option possible."
+        if dataSet == 'clevr':
+            property_name, exact_name  = question.split(': ')
+            gpt_question = f'How many objects in the image have the {exact_name} {property_name}' + " Please include your reasoning steps, then answer your choice in this format: ANSWER: <NUMBER>."
+        elif dataSet == 'textocr':
+            gpt_question = question + " Only answer with the largest text. Please include your reasoning steps, then answer your choice in this format: ANSWER: <TEXT>."
+        else:
+            gpt_question = question + " Please include your reasoning steps, then answer your choice in this format: ANSWER: <LETTER CHOICE>. The letter choice is strictly in the alphabetical order, and there is only one option possible."
     
     obj = [
         {
@@ -46,7 +52,7 @@ def reconstruct_prompt_from_gpt_conversation(question, options, conversation):
     return obj
 
 
-def create_cold_start_dataset_from_preprocess(base_dataset: Dataset, gpt_conversation_path: str, clip_image_embeddings_path: str):
+def create_cold_start_dataset_from_preprocess(base_dataset: Dataset, gpt_conversation_path: str, clip_image_embeddings_path: str, dataSet: str):
     """
     Create a starting dataset from a cold start. Append the GPT conversation and clip embedding to the base dataset.
     """
@@ -58,7 +64,7 @@ def create_cold_start_dataset_from_preprocess(base_dataset: Dataset, gpt_convers
             gpt_conversations.append(line.strip('"').strip())
     data_conversation = datasets.Dataset.from_dict({"conversations": gpt_conversations})
     data_conversation = datasets.concatenate_datasets([start_ds, data_conversation], axis=1)
-    data_conversation = data_conversation.map(lambda x: {"conversations": reconstruct_prompt_from_gpt_conversation(x['question'], x['options'], x['conversations'])})
+    data_conversation = data_conversation.map(lambda x: {"conversations": reconstruct_prompt_from_gpt_conversation(x['question'], x['options'], x['conversations'], dataSet)})
     data_conversation = data_conversation.select_columns(["conversations"])
     start_ds = datasets.concatenate_datasets([start_ds, data_conversation], axis=1)
 
@@ -72,7 +78,10 @@ def create_cold_start_dataset_from_preprocess(base_dataset: Dataset, gpt_convers
 
     # only keep single image questions
     # validation_dataset_single = validation_dataset.filter(lambda x: x['image_2'] is None)
-    start_ds_single_image = start_ds.filter(lambda x: x['image_2'] is None)
+    if dataSet == 'mmmu':
+        start_ds_single_image = start_ds.filter(lambda x: x['image_2'] is None)
+    else:
+        start_ds_single_image = start_ds
 
     # # attach clip embeddings to the single image dataset
     # attach clip embeddings

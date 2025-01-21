@@ -42,14 +42,24 @@ def exact_match(results, dataset):
     avg_acc = np.average(acc)
     return avg_acc
 
+server_name = 'ryan'
 dataSet = 'textocr' # choose from mmmu, clevr, textocr
-dataDir = '/Users/17348/Documents/GitHub/cache-of-thoughts/data'
+
+# Add the inference directory to the PYTHONPATH
+if server_name == 'monet':
+    dataDir = '/home/monet/meitang/cache-of-thoughts/data'
+elif server_name == 'ryan':
+    dataDir = '/home/ryan/meitang/cache-of-thoughts-main/data'
+elif server_name == 'meitang':
+    dataDir = '/Users/17348/Documents/GitHub/cache-of-thoughts/data'
+else:
+    pass # modify accordingly
+
 support_file = os.path.join(dataDir, dataSet, 'support.json')
 with open(support_file, 'r') as f:
     support_meta = json.load(f)
 
-output_dir = Path('./')
-result_path = output_dir / f'{dataSet}_val_gpt4o_response_v2.jsonl'
+result_path = os.path.join(dataDir, dataSet, f'{dataSet}_val_gpt4o_response_v2.jsonl')
 
 with open(result_path, 'r') as f:
         gpt_results = f.readlines()
