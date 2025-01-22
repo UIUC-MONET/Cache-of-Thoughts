@@ -7,9 +7,6 @@ __pycache__/
 /log
 /inference/outputs
 /keyword/ShareGPT4V
-/keyword/mmmu
-/keyword/clevr_gpt
-/keyword/textocr_gpt
 /keyword/llama_sharegpt4v_keywords
 jupyter-gpu.slurm
 

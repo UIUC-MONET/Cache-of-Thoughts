@@ -1,0 +1,134 @@
+AI, image, multiple, choice, generated, option
+image, multiple, choice, Agnew, Clinic, Village, Five, Bathing, Women, Lake
+William, Violet, Jim, Angus, Battlefield, Malinky, Frightened, Lau, Jim
+MICHELANGELO, TITIAN, LUCAS, LEONARDO, IMAGE
+contribution, Native Americans, landscape, preservation, Homestead, Act, gold, rush, development, Manifest
+Christ, central, enthroned, earlier, depictions, Roman, Greek, Carolingian, Romanesque
+timber, roofs, quadripartite, vaults, pendentive, domes, masonry, barrel
+art, image, nature, testament, typology, saints, church, authority
+friezes, pediments, registers, polyptychs
+tissue, image, multiple, choice, skeletal, muscle, cartilage, blood
+retina, image, multiple, choice, absence, bipolar, cells, blood, vessels, ganglion
+signal, transduction, pathway, epinephrine, receptor, protein, membrane, g-protein, adenyl, cyclase
+Change, neurons, hypoglossal, nucleus, necrosis, atrophy, chromatolysis, ferruginization, lipofuscin
+cell, material, protein, channel, transport, cellular, movement, equilibrium
+phylogenetic, tree, speciation, separation, relative, length, time, existence, ancestor
+Acetabularia, nuclei, stalks, graft, types, caps
+image, multiple, choice, sugar, aldose, ketose
+lymphocyte, mice, genetic, background, irradiated, recipients, populations, cell, antibodies, response
+male, pelvis, section, structure, Obturator, internus, Levator, Prostatic, venous, plexus
+image, multiple, choice, point, critical, options
+heating, curve, substance, boiling, point
+molecules, saccharin, atoms, multiple, choice
+titration, weak, monoprotic, acid, strong, base, buffered
+rotation, barrier, order, correct, multiple, choice, image, C, bond
+Rhythm, Sinus, PAC's, Junctional, AV, Block, PVC's, Idioventricular
+chemotherapy, breast, carcinoma, skin, thrombocytopenia, gangrene, metastatic, breast carcinoma
+heart, atrioventricular, block, diagnosis, degree, image, second, type, first, third
+Monteggia, fracture, name, associated, person
+appendix, diagnosis, simple, appendicitis, abscess, normal, cellulite
+Customer, ER, diagram, attribute, entity
+adder, truth, table, circuit, diagram, integers, addition, simple
+context, switches, multiple, choice, row, image
+image, channels, North America, upstream, downstream, managed
+tables, database, schema, BOOK, BORROWER, relational, instance, image, BOOK_AUTHORS, PUBLISHER, BOOK_LOANS, LIBRARY_BRANCH
+innovation, Rodin, sculpture, traditions, Calais, Burghers, departure, figure, grouping, anguish
+Baroque, Renaissance, Rococo, Classical
+Repetition, Unity, Variety, Balance
+handle, landing, area, side, stove, refrigerator, dishwasher, sink
+color, scheme, monochromatic, analogous
+image, lesion, rosenthal, MRI, cystic, nodule, vessels, glomeruloid
+seizures, reticulin, intercellular, network, glioma
+CTPA, computed, tomography, pulmonary, artery, chest, image, structure, left, lung
+S-100, EMA, CD-34, CD-20, CD-45
+Muscular, Dystrophy, Becker, Duchene, Dystrophin, Carrier
+AD-AS, diagram, Spain, price, level, short-run, equilibrium, graph, multiple, choice
+production, possibilities, Mexico, Nigeria, workers, product, opportunity, cost, Shoes, Glasses
+production, possibilities, Mexico, Nigeria, workers, country, product, table, number, unit
+graph, supply, demand, curves, world, price, bagels, equilibrium, quantity, country
+Frisbees, demand, supply, schedules, equilibrium, quantity
+Inverter, transistor, compensation, value, full, hFE, rbe, CE, VBE, Vsat
+circuit, inverter, load, logical, range, voltage, output, input
+image, sin, pi, T, A
+image, circuit, multiple, choice, Find, the, of, $A_v$, R, EU
+superposition, Laplace, transform, voltage, calculate, image, techniques, options, multiple, choice
+cycle, ideal, gas, work, done, diagram, PV
+water, pipe, valve, pressure, flow, head, loss, condition, figure, m^3
+water, sprinkler, lawn, rev, min, rate, rotation, friction, neglect
+tank, liquid, motion, rigid-body, fluid, accelerate, right, m/s^2
+insulated, piston-cylinder, device, saturated, liquid, water, pressure, constant, resistor, paddle-wheel, voltage
+financial, calculator, formula, present, value, opportunity, cost, r, periods, table
+Computers, warehouses, retail, sales, income, profit, margin, payout, ratio, assets, liabilities
+Clare, Jaccard, investment, rate, return, financial, advisor, payment, amount, life
+case, present, value, annuity, ordinary, table, image, calculate, assuming
+financial, statements, Lioi, Steel, Fabricators, free, cash, flow, rate, capital
+satellite, Earth, energy, balance, water, cycle, surface
+moisture, content, loess, sample, relative, density, particles, mass, density, liquid, limit, plastic, limit, pile, foundation, design, parameters, saturation, state, liquid, index
+Settlement, calculation, method, stress, history, indicators, survey, consolidation, pressure, porosity
+device, current, actual, value, estimated, residual, operating, cost, annual, deterioration
+power, consumption, load, transformer, voltage, ratio, effective, value
+trade, China, economy, Ming, Qing, Great Britain, Europe, Asia, free trade, empires
+Estates General, National Assembly, First Estate, Second Estate, Third Estate, Fourth Estate
+power, elites, states, rulers, violence, authority, imagery, history, world
+history, environment, adaptation, plantation, slavery, labor, technology, power
+historical, migration, processes, colonial, cities, ethnic, enclaves, opportunities, laborers, boundaries
+Challenge, Successful, Curriculum, Library, Materials, Removed
+Joseph, book, written, Heller
+Theme, Motif
+Role, television, newspaper, reporters, characters, book, event, perspectives
+verbal, irony, meaning, opposite, literal, meaning, depicted, person, writes, thing
+Fernando, Garza, factor, rating, logistics, services, provider, weights, ratings
+unemployment, education, graph, level, month, period, group, rise, diploma, college
+Strategic, Personnel, Planning, Gerard, Evers, Cornelis, Verhoeven, Brainstorming, Sticky, Notes
+Five, Forces, model, Profit, structure, cost, Industrial, Company, personnel
+supply chain, management, certification, program, training, activities, predecessors, time
+national, flags, random, survey, number, colors, confidence, level
+tablet, computers, users, ages, people, 16, 29, 30, older, significance
+video, game, developer, game, testing, groups, target, market, scores, level
+snow, mean, numbers, daily, visitors, ski, resort, types, conditions, study
+Thuy, Dau, Ngoc, Bui, Sam, Su, Lan, Voung, survey, Lucky, checkout, line, time, minutes
+beam, internal, loadings, resultant, internal, load, cross, sections, point, loadings
+tension, test, magnesium, alloy, stress, strain, diagram, yield, strength, offset
+image, multiple, choice, phase, boundary, depicted, one
+unit, cell, plane, options, multiple, choice, crystal, structure
+reduction, reactions, standard, electrode, potential, metals, reactive
+courses, students, exams, options, table, image, days
+function, dichotomous, search, scheme, interval, minimum, quadratic, interpolation, technique, iterations
+function, interval, derivative, graph, tangent, line, equation, options
+image, walk, cycle, represent, illustrate, multiple, choice, options, graph, path
+instant, insanity, cubes, solution
+steel, diameter, shaft, rotation, critical speed, grinding wheel, figure, overhanging, 2-in, 29 * 10^6 psi
+brass, bar, length, thickness, width, linearly, rectangular, cross, section, modulus, elasticity
+Car, speed, constant, rate, acceleration, path, position, mi, hr, constant
+disk, buffer, friction, coefficient, force, pressure, power, rpm, diameter, metal
+pinewood, derby, event, car, rest, starting, position, acceleration, constant, speed
+music, chords, bar, image
+Violin, multiple, choice, tuning
+image, multiple, choice, option, box
+music, melody, key, B major, E major, A minor, E minor
+time, signature, measure, melody, fragment, four, options, correct, each
+Chemoselectivity, Regioselectivity, Stereospecificity, Enantioselectivity, Synthesis, Step, Selectivity
+Saponification, hydrolysis, sodium hydroxide, fatty acids, glycerol
+antibiotic, microbial, susceptibility, broth, dilution, test, results, MBC, mu, gram
+E. coli, enteropathogenic, incidence, seasonal
+antibiotic, disk-diffusion, test, bacteria
+force, circular, motion, object, figure, uniform, net
+toy, car, acceleration, uniformly, distance, traveled, velocity, cart, centimeters, floor
+proton, electric, field, magnitude, speed, direction, parallel, plane, page, charge
+solenoids, resistance, circuit, ammeter, current, diagram, direction, conventional, needle
+battery, ammeter, resistors, switch, circuit, potential, difference, ohm
+intelligence, test, psychologists, standardized, participants, image, visual, data, relation, correlation
+cancer, stress, deep breathing, relaxation response, symptom relief, quality of life, oncologists, patients, exercise, symptoms
+cats, laser, pointer, playtime, behaviorism, treats, reinforcement, schedules, aggression, extinction
+vampire, bats, social, mammals, kinship, relationships, food, sharing, altruistic, experiment
+memory, false, experts, misinformation, recall, trauma, eyewitness, testimony, human, study
+study, cohort, rates, AR, image
+maternal, child, health, facility, screening, cervical, neoplasia, colposcopy, cytology, histopathology
+diabetes, mellitus, glucose, test, specificity, serial, screen, results, image, percentage
+patient, UTI, multiple, choice, 9/22
+China, infectious diseases, hepatitis, tuberculosis, syphilis, dysentery, gonorrhoea, brucellosis, scarlet fever, measles, dengue fever, AIDS, mortality rate
+conformity, Asch, study, witnesses, subjects, resist, group, ally, private, answer
+social, scientists, method, knowledge, society, historical, preconditions, laws, perspectives, facts
+Societies, concept, maintain, formal, sanctions, social, order, cultural, deviance, labelling
+identity, self, development, sense, relationship, world, modeling, expectations, socially, culture
+Political, Multiple, Choice, Study, Conduct, Frame, Reference

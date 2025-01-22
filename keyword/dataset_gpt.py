@@ -43,6 +43,7 @@ def construct_prompt(question, options, dataSet):
 
 server_name = 'ryan'
 dataSet = 'textocr' # choose from mmmu, clevr, textocr
+dataSlice = 'dev' # choose from dev, val
 
 # Add the inference directory to the PYTHONPATH
 if server_name == 'monet':
@@ -66,8 +67,10 @@ if som_path not in sys.path:
 os.environ['PYTHONPATH'] = os.environ.get('PYTHONPATH', '') + f":{som_path}"
 os.environ["OPENAI_API_KEY"] = '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'
 
-
-support_file = os.path.join(dataDir, dataSet, 'support.json')
+if dataSlice == 'val':
+    support_file = os.path.join(dataDir, dataSet, 'support.json')
+else:
+    support_file = os.path.join(dataDir, dataSet, 'query.json')
 ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 # load API from system environment
 openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -79,7 +82,7 @@ validation_dataset = support_meta
 print(validation_dataset[0])
 
 # define output directory
-result_path = os.path.join(dataDir, dataSet, f'{dataSet}_val_gpt4o_response_v2.jsonl')
+result_path = os.path.join(dataDir, dataSet, f'{dataSet}_{dataSlice}_gpt4o_response_v2.jsonl')
 
 # go through data
 bs = 30
@@ -104,7 +107,7 @@ for i in range(0, len(validation_dataset), bs):
     batch_respose = asyncio.run(async_gpt_utils.get_vision_completion_multi_image_list(images_base64_list_of_list, query_list, max_parallel_calls=10, model="gpt-4o", task_name=dataSet))
 
     # save the completion
-    with result_path.open('a') as f:
+    with open(result_path, 'a') as f:
         for each in batch_respose:
             completion = each.choices[0].message.content
             f.write(json.dumps(completion) + '\n')

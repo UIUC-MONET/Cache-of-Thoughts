@@ -43,7 +43,8 @@ def exact_match(results, dataset):
     return avg_acc
 
 server_name = 'ryan'
-dataSet = 'textocr' # choose from mmmu, clevr, textocr
+dataSet = 'clevr' # choose from mmmu, clevr, textocr
+dataSlice = 'val' # choose from val, dev
 
 # Add the inference directory to the PYTHONPATH
 if server_name == 'monet':
@@ -55,11 +56,16 @@ elif server_name == 'meitang':
 else:
     pass # modify accordingly
 
-support_file = os.path.join(dataDir, dataSet, 'support.json')
-with open(support_file, 'r') as f:
-    support_meta = json.load(f)
+if dataSlice == 'val':
+    support_file = os.path.join(dataDir, dataSet, 'support.json')
+    with open(support_file, 'r') as f:
+        support_meta = json.load(f)
+else:
+    support_file = os.path.join(dataDir, dataSet, 'query.json')
+    with open(support_file, 'r') as f:
+        support_meta = json.load(f)
 
-result_path = os.path.join(dataDir, dataSet, f'{dataSet}_val_gpt4o_response_v2.jsonl')
+result_path = os.path.join(dataDir, dataSet, f'{dataSlice}/{dataSet}_{dataSlice}_gpt4o_response_v2.jsonl')
 
 with open(result_path, 'r') as f:
         gpt_results = f.readlines()

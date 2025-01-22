@@ -15,7 +15,7 @@ def get_extracted_keywords(data_dir):
     """
     data_dir = Path(data_dir)
     keywords = []
-    for file in data_dir.iterdir():
+    for file in sorted(data_dir.iterdir()):
         with open(file, 'r') as f:
             for each in f.read().splitlines():
                 if each is None or len(each) == 0:

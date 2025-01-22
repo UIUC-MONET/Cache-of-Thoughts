@@ -1,16 +1,16 @@
 Baxter, Company, production, units, cost, data, variable, costs, manufacturing, overhead
-Accounts, balance, dividends, equipment, depreciation, expense, accumulated, image, multiple, choice
-Maxwell, Software, Inc., NPV, rule, mutually, exclusive, projects, discount, rate, percent
-Equity, Company, Owners, Calculate, Missing, Values, Company2, Independent
-units, inventory, process, conversion, costs, method, quarter, materials, work, process
+Accounts, balances, normal, dividends, equipment, depreciation, expense, accumulated
+Maxwell, Software, Inc., mutually exclusive, projects, NPV, rule, rank, discount, rate
+Company, Owners, Equity, Calculate, Missing, Values, Company
+inventory, work, process, conversion, units, method, costs, quarter, independent
 job, cost, sheets, work, process, inventory, finished, goods, sold, january
-manufacturing, corporation, project, cash, flows, beta, rf, E, NPV
-Tim-Buck-II, jet skis, beach resort, Junior, Adult, Expert, rental, price, costs, fixed
-Forest, December, cash, balance
+cash, flow, project, beta, corporation, manufacturing, tax, npv, estimate, finance
+Tim, jet, skis, beach, resort, models, Junior, Adult, Expert, costs
+Forest, Company, December, cash, balance, transactions
 cash, flow, data, Rocket, Transport, investing, activities, increase, decrease, year
-TRT, Materials, stock, price, court, decision, client, CFA, strangle, strategy
+TRT, Materials, stock, price, court, decision, company, client, strangle, strategy
 Hicks, Products, patio, furniture, national, dealership, network, suppliers, manufacturing, revenue
 Choco's, Chocolates, incurs, costs, month, conversion, cost
-production, company, job, cost, sheets, inventory
-BC, Billing, Solutions, overtime, wages, invoices, processed, 2020, cost, data
-Janet, Ludlow, firm, analysts, two-stage, dividend, discount, model, capital, asset, pricing
+production, company, job, cost, sheets, inventory, finished, goods
+cost, data, BC, Billing, Solutions, overtime, wages, invoices, processed
+Janet, Ludlow, firm, analysts, dividend, discount, model, capital, asset, pricing, QuickBrush, SmileWhite, Corporation, rate, return

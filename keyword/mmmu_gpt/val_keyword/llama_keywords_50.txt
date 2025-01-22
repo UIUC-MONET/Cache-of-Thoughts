@@ -1,0 +1,160 @@
+tension, test, normal, stress, shear, specimen, section, ksi, psi
+beam, frequencies, light, vacuum, glass, dispersion, schematics, correct, qualitative
+atomic, weight, density, radius, crystal, structure
+triangular, plate, fixed, base, apex, horizontal, displacement, normal, strain, axis
+limit, multiple, choice, greatest, integer, see, figure, one
+picture, galleries, plans, figure, attendants, rooms, doorways, supervise, integer, programming
+graphs, multiple, choice, isomorphic
+equation, graph, image, options, multiple, choice, sin, cos, pi
+integral, area, region, bounded, graph, expression, find, options
+tangent, circle, secant, diagram, point, length
+Contra, dance, sequence, figures, California, Twirl, Ladies, Gents, Allemande, Swing
+boats, company, profit, demand, capacity, type, customers, season, cost, fleet
+Hamiltonian, multiple, choice, image
+graph, image, edges, length, vertices, degree
+function, convex, concave, x2, 6x, 4
+maximize, multiple, choice, options, subject, constraint, equation, variables, maximize, sum
+image, hexagon, octagon, side, length, area, quadrilateral, ABCD
+graph, multiple, choice, area, interval, average, value, function, shaded, region
+ladder, wall, rate, feet, second, vertical, ground, base
+minimize, problem, solution, subject, options, multiple, choice, quadratic, constraint, optimization
+lake, circle, diameter, angle, time, row, walk, shore, radius, mile
+graph, theory, spanning, trees, breadth-first, construction, image
+graph, spanning, tree, fundamental, cut, sets, respect, edges
+minimum, spanning, tree, graph, figure, undirected, vertices, arcs, graph
+nonlinear, equation, Newton-Raphson, iteration, simultaneous, solution, system, starting, point, converge
+trapezoid, parallel, perpendicular, diagonals, midpoint, integers, prime, square, multiple, choice
+rocket, tower, angle, horizontal, distance, height, seconds, multiple, choice
+cylinder, circular, cone, radius, height, volume, inscribed, maximum, dimensions
+image, object, position, time, distance, ground, angle, path
+image, multiple, choice, area, shaded, region, figure, above, int, math
+circle, chord, intersect, length
+Cayley, diagram, multiple, choice, image
+function, derivative, interval, Euler's method, approximation, step size
+square, equilateral, hexagon, side, length, points, convex, options
+multiple, choice, figure, section, correct
+multiple, choice, figure, select, correct, view
+view, multiple, choice, correct, left, main, top
+beam, supported, distributed, load, linearly, varying, intensity, maximum, permissible, stresses
+Routh-Hurwitz, criterion, system, stable, K
+velocity, acceleration, car, frictional, resistance, motion, velocity^2, constants, initial, distance
+power, reducer, motor, capacity, input, output, cooling, provisions, operation, fatigue
+distance, spacecraft, earth, sun, attraction, table, appendix, km
+system, image, closed-loop, settling, time, peak, response, system, step, seconds
+spring, constant, bimetallic, bar, axial, motion, N, m
+stress, maximum, value, hole, notch, figure
+multiple, choice, question, correct, view, left
+multiple, choice, correct, view, image
+mass, uniform, rate, cable, drum, diameter, radius, kinetic, energy, torque
+multiple, choice, question, image, options
+block, weight, height, cylinder, spring, stiffness, impact, shortening
+cross-section, multiple, choice, correct, figure
+disk, angular, velocity, yoke, shaft, constant, angular acceleration, vertical, plane, position
+helical, spring, stiffness, mass, time, period, system, identical, length, natural
+steel, machine, frame, stress, load, linear, critical, points, yielding, theory
+model, rocket, acceleration, thruster, seconds, height, flight, time, mass, gravity
+bolt, steel, plates, stiffness, load, preload, compression, fluctuate, nut, lb
+steel, plates, parallel, fillet, welds, welding, rods, practice, safety, load
+elasticity, modulus, coefficient, thermal, expansion, stress, temperature, beam, length, modulus
+aluminum, alloy, bar, temperature, uniform, amount, ft, in, ksi, coefficient
+thread, labeling, methods, incorrect
+gate, circle, paper, force, sufficient, uniform, weight, lbf
+system, image, multiple, choice, steady-state, error, input, 50u, t
+torsional, spring, constant, system, image, assume, linear, equivalent, R, constants
+multiple, choice, correct, left, view, image
+note, value, image, multiple, choice
+True, False, multiple, choice, image
+music, interval, type, perfect, major, diminished, augmented
+music, time, signature, measures, bars, score
+True, False, Multiple, Choice, Image
+Rhythmic, device, measure, example, second, image
+E, minor, chord, position, A, key, Select, music
+harmony, multiple, choice, name, example, image, above
+music, chord, major, minor, seventh, first, inversion, voicings
+True, False, E, major, note
+ornament, bracket, multiple, choice, written, music, notation, mark, image
+music, bar, true, false
+time, signatures, notation, standard
+image, multiple, choice, interval, box
+note, multiple, choice, select, name, image
+multiple, choice, rest, compound, duration
+music, clef, minor, scale
+major, scale, sound, determine, belong, image
+time, signature, notation, multiple, choice, 2/4, correct
+melody, fragments, compound, meters
+harmonic, intervals, third, horn, second, violins, bar, 11, perfect, major
+music, chord, seventh, major, minor, dominant, inversion
+image, multiple, choice, box, option
+Chord, C, Bb, major, Tick, one, box, name, each, marked
+music, interval, type, perfect, major, minor, diminished
+F, major, mediant
+music, modulation, melody, enharmonic, multiple, choice
+intervals, music, major, minor, perfect
+image, multiple, choice, option, box, choice, image, multiple
+image, multiple, choice, correct, key, melody, circle
+Ammonia, oxygen, nitrogen, water, moles, reactant, product, chemical, equation, multiple
+cough, shortness, breath, smoking, FEV1, FVC, receptors, beta-adrenergic, glucocorticoid, histamine
+allergic, response, patients, NSAIDs, aspirin, drug, allergy, type, step, responsible
+mass, iron, oxygen, samples, rustcolored, substance, grams, graph, determine, compound
+hydrogen, sodium, borohydride, fuel, vehicles, water, gas, atoms, reactants, oxidized
+aerobic, anaerobic, respiration, photoautotroph, oxygenic, anaerobic
+graphs, multiple, choice, question, graph, slope
+chemistry, graph, axis, pH, [H+], [OH-]
+order, pictures, multiple, choice
+molecule, binding, site, interactions, hydrogen, bonds, ionic, van
+electromagnetic, wave, amplitude, multiple, choice
+image, reaction, equation, balanced, NH4CO3, H2O, CO2, NH3
+protein, structure, stable, multiple, choice, figure, regions, labeled, quaternary
+microbe, shape, Neisseria, gonorrhoeae, Chlamydia, trachomatis, Treponema, pallidum, Haemophilis, ducreyi
+diagram, hydrogen, electrode, problem, answer
+volume, measurement, significant, figures, uncertainty, liquid, graduated, cylinder
+Chemotherapy, Cancer, Structures, Image, Medicines
+pharmacokinetic, transdermal, absorption, active, transport, optical, representation
+reaction, sequence, regioselective
+oxygen, carbon, hydrogen, nitrogen, calcium, iron, aluminum, silicon
+structure, DNA, agent, chlorine, active, cross linking, pairing, metallating, adenine, thymine
+chemistry, reaction, reactant, order
+quinagolide, cyclisation, synthesis, Baldwin's, rules
+mechanism, action, structure, image, Topoisomerase, Metallating, Chain, Antisense
+Gram, stain, cells, table, appearance, step, purple, violet, blue, image
+protein, structure, regions, labeled, alpha, helical, secondary, problem, parts
+manufacture, compound, chemical, reactions, reactant, product, mole, ratio, yield, percent
+oxygen, functional, group, compound, identify, name, alkyl, ether, ketonic, carbonyl
+IUPAC, compound, multiple, choice, cyclopentane, methylpropan, pentanone
+calories, fat, grams, nutrition, label, conversion, factor, mass, kilograms, protein, servings
+magnetic, force, wire, current, direction, identical, page, conventional, total, labeled
+magnetic, field, loop, wire, current, force, magnet, direction, induced, right
+image, parallel, wires, distance, current, force, direction
+light, ray, plastic, speed, path, point, determine
+diagram, uniformly, accelerating, ball, position, second, average, speed
+tractor, trailer, mass, force, acceleration, road, truck
+orbit, planet, Sun, diagram, eccentricity, true
+torque, force, angle, distance, axis, friction, perpendicular, rod, table, pivot
+image, rod, weight, dimensions, force, rope, wall, torque, equation, single
+mass, spring, equilibrium, position, energy, pendulum, simple, harmonic, motion, kinetic
+light, ray, glass, normal, thin, layer, reflected, orange, color, wavelength
+electroscope, negatively, charged, rod, leaves, initially, uncharged, finger, collapse, spring
+velocity, time, object, line, initial, position, straight, multiple, choice, graph
+light, speed, medium, beam, diagram, conclusion, options
+film, refraction, index, light, beam, wavelength, thickness, materials, monochromatic, interference
+particle, circular, path, constant, speed, direction, clockwise, time, interval, average, velocity
+power, dissipated, varies, current, Ohm's, law, component
+circuit, switch, light, bulbs, identical, closed, illuminating, bulb
+photoelectrons, kinetic energy, frequency, incident light
+photoelectric, effect, experiment, data, graph, kinetic, energy, frequency, photons, work
+nuclear, force, variation, graph, separation, nucleon, points, nature
+hydrogen, atom, Bohr, model, light, transition, frequency, wavelength, speed, momentum
+wire, magnetic, field, intensity, ohm, tesla, seconds, current, loop, resistance
+image, multiple, choice, nuclear, reaction, particle, electron, neutron, proton
+image, converging, lens, focal, length, distance, object, type, size
+graph, velocity, time, duck, flying, south, winter, forward, motion
+resistance, circuit, voltmeter, points, connection, same, resistance, options
+image, picture, weight, tension, force, strings, magnitude, pull, upward, theta
+Ammeter, resistance, circuit, Omega
+standing, wave, pattern, string, wavelength, component, traveling, waves
+performance, arousal, relation, multiple, choice, best, depicts
+attention, ability, tasks, passage, photographs, memory, students, design, effectiveness, order
+graph, multiple, choice, spacing, effect, impact, rehearsal, recall, forgetting, curve
+Emotion, theories, physiological, behavioral, cognitive, interconnected, James-Lange, Cannon-Bard, Schachter-Singer, components
+brain, multiple, choice, figure, image, parietal, temporal, cerebral, occipital
+image, learning, curve, reinforcement, schedule, ratio, variable

@@ -1,0 +1,16 @@
+company, missing, amounts, situation, different, image
+Hudson, Roofing, Company, December, investments, withdrawals, ending, balance, owners, capital
+cash, flow, assets, creditors, stockholders
+Paper, Submarine, Manufacturing, lockbox, system, collection, time, cash, flow, check
+years, multiple, choice, solve, unknown, number
+potatoes, insects, production, pest, plant, disease, image, multiple, choice
+sunflower, pathogens, infecting, count, multiple, choice, image, leaf
+gum, production, grapefruit, trees, Cyprus, trunks, healthy, point, hillside, fungal
+virus, transmission, micro manipulators, plant, insects, viruses, specific, relationship, vectors
+rhubarb, petioles, splitting, physiological, phytoplasma, bacteria, animal
+reconnaissance, survey, woods, compass, direction, steps, surveyor, point, multiple, choice
+triangle, angles, values, method, least, squares
+truss, vertical, displacement, joint, figure, multiple, choice, compute
+speed, highway, vehicles, observation, time, mean, section, distance
+circle, area, planimeter, measuring, wheel, revolution, paper, tracing, arm, measures
+Mark, Gertler, Bloomsbury, Vanessa, Bell, Eileen, Agar, Dora, Carrington, Leonora

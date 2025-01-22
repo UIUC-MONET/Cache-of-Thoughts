@@ -1,0 +1,800 @@
+objects, size, image, green, blue, sphere, cylinder, cube, small, larger
+cylinder, objects, image, circular, ends, straight, sides, blue, metallic, gray
+objects, size, large, relative, blue, cylinder, red, sphere, teal, gold
+objects, blue, color, cylinder, cube, left, right, front, back, number
+small, objects, image, cylinders, sphere, grey, green, yellow-brown, larger, medium
+rubber, material, appearance, surface, characteristics, objects, matte, shiny, reflective, metallic, glossy
+objects, spherical, image, steps, identify, round, three-dimensional, ball, shape, count
+metal, reflective, surface, material, appearance, objects, metallic, shiny, cylinder, sphere
+yellow, objects, image, cube, sphere, cylinder, green, gold, row, number
+image, objects, large, size, count, identify, categorize, teal, purple, cylinder
+rubber, objects, image, material, steps, spheres, cylinders, cubes, finish, texture
+image, objects, size, large, medium, sphere, cylinder, cube, categorize, count
+objects, size, image, spheres, cylinder, green, small, comparison, size comparison, perspective
+objects, image, blue, color, sphere, teal, cubes, left, center, right
+metal, reflective, smooth, surface, metallic, shiny, objects, material, cube, cylinder
+metallic, reflectiveness, sheen, objects, properties, metallic, appearance, spheres, cubes, material
+objects, size, image, dimensions, sphere, cube, gold, red, largest, small
+objects, size, image, cylindrical, blue, red, compare, relative, larger, smaller
+objects, large, cylindrical, cube, middle, right, smaller, size, comparison, image
+image, objects, purple, sphere, yellow, circular, red, cylinder, orange, gray
+metal, materials, metallic, shiny, reflective, surfaces, properties, objects, texture, matte
+image, sizes, shapes, cylinders, spheres, large, sizes, height, width, objects
+metal, reflective, shiny, surfaces, metallic, materials, sphere, cube, purple, teal, blue
+image, shapes, object, cylinder, spherical, sphere, cube, objects, circular, flat
+rubber, texture, appearance, material, plastic, metallic, matte, smooth, glass, cylinder
+objects, color, image, red, cylinder, sphere, steps, observe, count
+image, objects, cylinder, shape, characteristics, circular, top, bottom, straight, parallel
+rubber, matte, texture, surface, metallic, shiny, reflective, cube, cylinder, sphere
+yellow, objects, color, image, observe, identify, count, cube
+rubber, matte, finish, reflection, solid, color, sphere, cylinder, cube
+objects, image, green, color, sphere, cube
+objects, size, small, dimensions, sphere, cube, cylinder, gray, purple, red
+large, objects, image, size, relative, cylinder, volume, area, cube, spheres
+objects, sizes, cubes, cylinders, sphere, small, larger, medium, foreground, background
+image, objects, yellow, color, scene, cube, cylinder, red, green, blue
+image, objects, sphere, shape, geometric, characteristics, object, cylinders, cubes, square
+metal, material, reflective, surface, glossy, appearance, metallic, cylinders, spheres, properties
+rubber, objects, matte, reflective, surface, material, sphere, cube, metal, plastic
+image, objects, brown, color, steps, identify, distinct, red, green, blue
+objects, size, large, relative, standard, small, larger, similar, cylinder, prism
+purple, objects, image, spheres, cubes, color, count, large, smaller
+shapes, image, sphere, cylinders, cubes, number, objects, center, left, right
+image, objects, cyan, color, blue, greenish, hue, observation, cylindrical, count
+cube, objects, image, cylinder, brown, green, blue, shiny, gold, gray
+objects, image, size, cylinder, cube, sphere, teal, gray, yellow, blue
+shapes, objects, cylinder, circular, ends, length, 3D, image, blue, turquoise
+objects, colors, image, identify, analyze, cylinder, cube, sphere, brown, number
+image, objects, sizes, cubes, cylinders, larger, smaller, dimensions, foreground, number
+brown, objects, color, image, sphere, cylinder, left, right, side
+objects, size, small, large, blue, cube, sphere, red, center, front
+objects, large, blue, cylinder, purple, sphere, gold, sizes, relative, foreground
+objects, sphere, shape, image, gold, gray, cubes, cylinders, three-dimensional, round
+rubber, matte, finish, surface, image, objects, material, characteristics, yellow, cylinder
+rubber, matte, appearance, objects, material, metallic, sheen, cylinder, sphere, cubes
+objects, sphere-shaped, image, objects, round, three-dimensional, shape, green, purple, grey, metallic
+shapes, objects, cylinder, sphere, cube, image, blue, yellow, red, purple
+objects, image, small, sphere, brown, blue, cylinder, larger, larger, turquoise
+brown, yellow, red, golden, blue, grey, cylinder, sphere, cube, objects
+objects, color, cyan, cube, cylinder, image
+shapes, cylinder, circular, parallel, bases, curved, surface, cubes, square, sphere
+rubber, material, characteristics, sphere, metal, plastic, reflective, shiny, matte, finish
+rubber, objects, image, yellow, cube, blue, cylinder, sphere, surface, material
+cylinder, objects, image, circular, bases, parallel, sides, gray, yellow, purple, brown, blue
+objects, size, larger, smaller, cylinder, cube, sphere, blue, yellow, gold
+metal, reflectivity, metallic, shine, objects, material, characteristics, cyan, gray, yellow
+image, objects, sizes, large, sphere, cylinder, cube, background, foreground, noticeably
+yellow, objects, image, examine, cylinder, sphere, background, count, determine, visible
+large, objects, image, sizes, cube, cylinder, sphere, background, foreground
+metal, objects, material, identify, characteristics, reflective, shiny, matte, blue, sphere
+rubber, matte, finish, characteristics, objects, material, cylinder, cube, sphere, reflective
+rubber, matte, texture, objects, spheres, cylinders, cubes, purple, red, analysis
+objects, sizes, image, cylinder, cube, spheres, scene, large, small
+cylindrical, cube, spherical, colors, objects, image, cyan, blue, gray, red
+image, objects, color, yellow, cube, blue
+yellow, image, objects, sphere, cube, front, back
+rubber, matte, metal, glass, objects, finish, light, gray, yellow, pink
+objects, spheres, shapes, image, blue, center, left, top, cubes, cylinders
+objects, colors, image, purple, sphere
+objects, size, large, image, green, blue-green, red, cylinder, sphere, cube
+cube-shaped, objects, equal, sides, sharp, rounded, edges, foreground, background, cylindrical, spherical
+rubber, objects, material, visual, characteristics, matte, finish, reflective, purple, gold
+cylinder, circular, top, parallel, sides, object, image, characteristics, straight
+cube-shaped, objects, image, shape, spherical, cylindrical, ball, purple, right, object
+objects, size, image, steps, dimensions, height, width, mass, cylinder, cube
+image, objects, color, brown, yellow, purple, identify, focus, characteristics
+objects, sphere, characteristics, image, round, edges, surfaces, purple, blue, gold
+objects, size, small, larger, purple, yellow, cube, cylinder, sphere, teal
+objects, size, image, cylinder, sphere, cube, height, volume, larger, smaller
+sphere-shaped, objects, purple, blue, pink, green, center, right, round, dimensions
+objects, size, image, large, purple, sphere, cube, cylinder, remaining, small
+red, color, objects, image, cylinder, sphere, green, purple, gold
+cylindrical, objects, image, circular, bases, uniform, height, cylinders, cubes, sides
+cube, cylinder, spheres, sizes, objects, image, smaller, larger
+objects, size, sphere, cube, cylinder, gold, blue, green, gray, yellow
+metal, reflective, metallic, gold, silver, bronze, objects, material, characteristics, cylinders
+metallic, reflective, shiny, metal, gray, cube, sphere, reflections, matte, plasticky
+objects, sizes, image, spheres, cube, larger, midsize, small, sizes, total
+cylindrical, shape, objects, circular, ends, straight, parallel, sides, spheres, cube
+objects, size, large, blue, cylinders, sphere, yellow, cubes, spheres, background
+rubber, materials, appearance, matte, finish, objects, sphere, cylinder, metallic, transparent
+sphere-shaped, objects, image, shapes, cylindrical, circular, sides, cube, flat, spherical
+metal, objects, material, reflective, metallic, surfaces, cylinder, grey, shiny, cubes
+metal, reflective, shiny, surface, material, objects, image, characteristics, metallic, matte
+objects, image, green, color, spheres, cubes, various, shade, examination
+cylinder, shape, objects, image, geometric, yellow, green, blue, red, teal
+cube-shaped, blue, purple, metallic, objects, image
+image, objects, red, color, identify, examine, geometric, spheres, cubes, cylinder
+objects, shape, cube, image, square, faces, green, purple, turquoise, cylinder
+image, objects, color, gray, cylinder, steps, identify, count, number, middle
+metal, reflective, surface, shiny, objects, material, characteristics, spheres, cylinders
+image, objects, yellow, color, identify, observe, various, cylinder, side, appear
+rubber, objects, material, appearance, non-reflective, matte, finish, texture, surface, cylinders
+image, objects, size, identify, recognize, spheres, cylinders, cubes, large, relative
+metal, shiny, reflective, surfaces, objects, material, cylinder, sphere, cube, finish
+objects, shape, cube, sphere, cylinder, green, blue, red, yellow, gray
+cylinders, image, objects, shape, circular, height, uniform, rectangles, scan, exclude
+objects, image, yellow, color, number, steps, scanning, foreground, sphere, center
+Spherical, objects, cube-shaped, cylindrical, blue, green
+number, red, objects, image, identify, colors, sphere, foreground, blue, green
+objects, sizes, cylinders, foreground, background, larger, blue, pink, metallic, cubes
+objects, size, large, image, cylinder, sphere, diameter, height, width, size
+objects, colors, image, cube, cylinder, gold, red, cyan, number, steps
+metal, reflective, shiny, surfaces, gold, sphere, purple, cylinders, cubes
+cylinder, shapes, image, objects, identify, circular, base, rounded, sides, features
+image, objects, colors, gray, shades, bright, vivid, sphere, cylinder, scene
+objects, sphere, shape, cube, yellow, brown, rounded, cuboid, gray, red
+cube-shaped, objects, image, shapes, sides, surfaces, gray, brown, gold, reflective
+objects, sphere, shape, image, cylindrical, cube, spherical
+rubber, matte, finish, smooth, texture, objects, material, characteristics, image, metallic
+gray, objects, sphere, cubes, colors, image, analyze, count, reflective, shading
+objects, image, size, purple, blue, teal, cube, cylinder, large
+objects, size, sphere, cylinder, cube, smaller, larger, image, apparent, size
+number, sphere-shaped, objects, image, round, symmetrical, directions, purple, green, gray, beige
+objects, size, spheres, cylinder, image, right, left, comparison, small
+rubber, material, appearance, sphere, cube, cylinder, metallic, matte, shiny
+objects, size, small, yellow, cube, blue, cylinder, light, gray, center
+brown, objects, image, scan, cube, colors, green, blue, metallic, yellow
+cylindrical, objects, shape, geometrical, purple, cyan, spheres, cubes, image, number
+image, shapes, objects, symmetrical, angles, sphere, green, red, blue, center
+cube, shape, objects, image, square, faces, sphere, cylinder, flat
+cylinders, objects, circular, base, height, copper, golden, shapes, criteria
+metal, objects, material, reflectivity, metallic, sheen, cube, gold, shiny, finish
+yellow, objects, image, sphere, center, cube, reflection, material, total, appear
+objects, small, silver, sphere, green, medium, gray, brown, purple, cylinder
+rubber, material, properties, appearance, surface, characteristics, metal, plastic, shiny, matte
+objects, yellow, cylinder, purple, metallic, sphere, brown, gray, cube, blue
+objects, image, small, size, blue, sphere, cube, cylinder, foreground, background
+objects, cube, shape, image, purple, blue, green
+gray, objects, image, color, metallic, foreground, yellow, gold, purple, red
+rubber, material, color, texture, objects, cylinder, sphere, matte, reflective, shiny
+objects, colors, image, shapes, cyan, right
+rubber, surface, characteristics, matte, finish, non-reflective, appearance, sphere, cylinders, material
+small, objects, image, sizes, object, cylinder, sphere, cube, prism, rectangular
+large, objects, image, size, steps, total, objects, green, cube, gray, sphere
+objects, size, image, blue, cube, purple, sphere, cylinder, green, pink
+small-sized, objects, image, cubes, sphere, sizes, size, dimensions
+image, size, objects, large, size differences, significantly, cube
+image, objects, shape, geometric, shapes, cube, square, faces, blocky, spheres
+image, objects, purple, color, identify, count, distinct, observe, note, cylinder
+objects, image, red, color, analyze, individually, large, small, cylinder, sphere
+objects, shape, characteristics, sphere, round, three-dimensional, circular, shadow, image, golden
+objects, size, image, yellow, cube, teal, purple, sphere, red, largest
+image, shapes, cube, objects, edges, geometric, blue, yellow, spherical, analysis
+objects, size, image, sphere, purple, blue, green, cylinders, cubes, dimensions
+objects, purple, cylinder, sphere, green, blue, metallic, reflective, foreground, upper
+metal, objects, image, shapes, colors, cylinder, sphere, reflective, surfaces, chrome
+brown, objects, color, image, cube, sphere, cylinder, left, center, right
+Yellow, objects, image, cylinder, objects, individually, middle, front, identifying, number
+cube, shape, objects, image, square, faces, 3D, blue, green, brown
+objects, purple, color, cube, rectangular, image, identify, number
+rubber, texture, reflectiveness, matte, color, consistency, metallic, shiny, glossy, cylinder
+cube, shapes, image, objects, square, faces, edge, lengths, cylindrical, sphere
+rubber, material, characteristics, finish, colors, metallic, plastic, glossy, matte, sphere
+rubber, matte, non-reflective, objects, material, finish, texture, sphere, cylinder, gray
+image, objects, color, cyan, hue, blue, greenish, cube, spherical, reflective
+objects, size, image, small, gold, sphere, cylindrical, shapes, brown, cube
+rubber, material, characteristics, surface, matte, shiny, cylinder, cube, sphere
+objects, cyan, color, image, greenish-blue, tint, cube, sphere, center, count
+cylinder, shapes, image, circular, base, parallel, sides, objects, spherical, analysis
+image, objects, yellow, color, count, number, cube
+objects, image, green, cylinder, cube, color, identify, observe, provided
+objects, image, green, color, cube, blue, yellow, sphere, cylindrical, analysis
+image, objects, size, small, notice, noticeably, larger, cylinder, sphere, red
+cylinder, objects, shape, image, characteristics, circular, base, height, tube, blue
+large, objects, image, identify, shapes, colors, cylinders, cubes, spheres, sizes
+metallic, material, objects, reflective, shiny, surface, metal, characteristic, cube, properties
+objects, size, image, cylinder, sphere, cube, medium, small, large, assessment
+rubber, material, appearance, reflections, surface, finish, cylinder, cube, sphere, properties
+rubber, material, texture, appearance, metallic, glossy, matte, cylinder, sphere, objects
+objects, image, cyan, bluish-green, hue, geometric, shapes, coloration, sphere, cylinders
+rubber, matte, finish, reflections, texture, spheres, image, properties
+objects, size, medium-sized, small, cylinder, sphere, cube, green, purple, bronze
+brown, color, objects, image, steps, identify, count, sphere, cylindrical, three
+objects, size, image, large, brown, sphere, blue, cylinder, nearby, comparison
+objects, size, large, image, green, blue, gray, purple, red, brown
+rubber, matte, finish, surfaces, objects, texture, material, sphere, cylinder, cube
+rubber, matte, surface, objects, yellow, cube, reflective, metallic, shiny
+metallic, reflective, shiny, appearances, characteristics, objects, material, surface, cylinder, sphere
+number, objects, colors, purple, hue, sphere, image
+metal, objects, material, surface, light, reflective, shiny, appearance, properties, metallic
+cube, image, objects, shape, steps, characteristics, faces, cylindrical, spherical, flat
+image, objects, sphere, shape, steps, identify, examine, purple, blue, center
+purple, cube, color, image, objects, green, cylinder, sphere, cyan, red
+rubber, objects, image, material, finish, matte, shiny, cube, sphere, cylinder
+matte, finish, rubber, color, saturation, diffusion, yellow, blue, purple, brown, green
+metal, metallic, shiny, reflective, surface, properties, material, cylinder, sphere, objects
+image, objects, shape, sphere, cylinder, cube, brown, yellow, purple, gold
+objects, image, cylindrical, shape, circular, base, straight, sides, geometric, sphere
+objects, size, image, compare, relative, small, larger, cylinders, spheres, cubes
+objects, sphere, shape, image, round, surfaces, edges, purple, green, center
+metal, objects, material, characteristics, surface, shiny, reflective, cylinder, cube, metallic, gloss
+rubber, materials, surface, edges, shiny, metal, reflective, matte, finish, sphere
+metallic, reflective, shiny, surfaces, gold, cube, purple, sphere, cylinder, colors
+objects, size, image, cube, cylinder, small, large, medium, assessment
+cylinder, objects, image, circular, base, height, shape, typical, yellow, green
+Cubes, Spheres, Cylinder, Objects, Image, Faces, Surface, Criteria, Parallel, Circular
+objects, purple, color, image, cylinder, blue, gray, black, sphere, boxes
+metal, material, metallic, surfaces, reflectivity, shininess, specular, highlights, objects, image
+cube, objects, image, yellow, blue, sphere, cylinders, silver, orange
+image, objects, gray, cube, colors, cyan, gold
+rubber, material, objects, reflectivity, surface, texture, plastic, sphere, cube, properties
+objects, color, image, blue, green, golden, purple, cube, cyan, sphere
+image, objects, sizes, shapes, cylinder, blue, green, gold, cube, sphere
+objects, image, cube, shape, objects, blue, brown, teal, gray, purple
+metal, objects, material, reflective, specular, properties, smooth, shiny, sphere, cylinder
+size, objects, image, sphere, cylinder, cube, medium, small, relative, size
+objects, dimensions, image, cube, sphere, cylinder, size, silver, blue, teal
+metal, metallic, material, reflective, shiny, properties, objects, cube, cylinder
+objects, sizes, image, purple, cylinder, gold, sphere, green, cube, volume
+objects, shape, cube, sides, square, faces, green, cyan, gray, yellow
+rubber, matte, finish, metal, plastic, shiny, characteristics, objects, material, cylinders
+gray, objects, image, color, steps, identify, colors, distinguish, background, area
+metal, shiny, surface, reflections, metallic, colors, sphere, cylinder, material, objects
+metal, reflectivity, shiny, reflective, color, metallic, black, blue, cube, spheres
+objects, sphere, shape, image, objects, blue, red, green, brown, purple
+objects, size, image, small, significantly, smaller, cube, sphere, blue, larger
+image, objects, sphere, shape, round, three-dimensional, smooth, edges, cubes, cylinders
+objects, size, image, comparison, small, sphere, cube, cylinder, green, blue
+cylinder, circular, objects, image, steps, identify, uniform, height, curved, surfaces
+objects, sizes, image, cylinder, cube, sphere, volume, large, compare, relative
+cylinders, objects, shape, image, steps, characteristics, circular, bases, uniform, count
+rubber, matte, finish, soft, appearance, cylinders, cube, glossy, reflective, metallic
+objects, image, blue, cube, cylinder, sphere, color, left, center, right
+objects, cube, shape, height, width, depth, edges, faces, box, image
+metal, objects, image, reflective, properties, metals, material, surface, cylinder, reflection
+objects, size, image, blue, sphere, cylinder, small, green, cyan, larger
+objects, sphere, shape, purple, orange, red, green, cube, cylinder
+cylinder, object, image, purple, flat, circular, curved, sphere, cube, square
+objects, image, cyan, color, cube, cylinder, spheres, colors
+rubber, material, objects, image, visual, characteristics, finish, properties, sphere, cylinder
+objects, cylinder, circular, straight, sides, shape, image, top, vertical, sphere, cube
+cylindrical, objects, image, circular, bases, uniform, height, consistent, cylinders, gray
+objects, size, image, medium, small, large, sphere, cylinder, cube, size
+objects, sizes, purple, sphere, silver, blue, cylinder, brown, image, largest
+objects, image, spheres, three-dimensional, round, green, red, cubes, cylinders, surfaces
+red, objects, color, image, cylinder, cube, number
+objects, size, image, small, medium, large, purple, cube, sphere, center
+objects, size, image, geometric, cylinders, sphere, small, blue, red
+objects, size, image, small, golden, spheres, cubes, cylinder
+metal, reflectivity, shiny, surface, material, characteristics, objects, image, spheres, cylinders
+metallic, material, metal, reflectiveness, shiny, surface, sphere, cylinder, properties, characteristics
+metal, material, objects, metallic, surfaces, reflectiveness, shininess, coloring, sphere, silver
+objects, metal, material, reflective, shiny, surface, metallic, purple, cylinder, silver, gold
+objects, size, small, medium, large, cube, cylinder, sphere
+objects, color, image, red, identify, observe, cube, middle, analysis, number
+cylindrical, shapes, objects, image, identify, count, circular, flat, sphere, cube
+image, objects, color, sphere, cube, cylinder, gold, yellow, blue, purple
+objects, sphere, shape, round, smooth, surface, edges, faces, image, analyzing
+objects, size, spheres, medium, blue, small, cylinder, left, right, image
+metal, material, objects, visual, cues, cylinder, cube, sphere, matte, reflection
+objects, gray, color, identify, image, cylinder, floor, objects, red, teal
+objects, purple, image, cylinder, center, sphere, visually, inspect, determine, color
+rubber, material, objects, image, visual, properties, surface, reflective, matte, sphere
+metal, metallic, reflections, shiny, surfaces, textures, objects, material, spheres, properties
+rubber, matte, finish, reflective, metallic, gold, yellow, red, blue, cylinder
+objects, size, image, large, red, cube, sphere, cylinder, teal, small
+rubber, texture, appearance, objects, yellow, sphere, green, cylinder, cyan, shiny
+objects, color, cyan, greenish-blue, image, identify, inspect, cylinder
+objects, sizes, cube, sphere, cylinder, large, small
+brown, objects, image, analyze, sphere, cube, center, corner, cylinder, yellow
+objects, image, purple, color, steps, spheres, cubes, cylinders, count, distinct
+metal, objects, image, material, surface, appearance, reflective, shiny, cylinder, sphere
+image, objects, purple, cylinder, sphere, gray, color, identify, determine, one
+objects, size, image, blue, sphere, teal, cube, cylinder, purple, medium
+metal, material, reflectiveness, shiny, surface, objects, characteristics, sphere, cylinder, cube
+Small, size, objects, image, visually, evaluate, relative, sphere, cube, cylinder
+image, objects, color, yellow, blue, green, cube, sphere, determine
+metallic, shiny, reflective, surface, metal, gold, blue, purple, cube, cylinder
+rubber, matte, surface, texture, softness, flexibility, metallic, glossy, shiny, reflective
+cylinder, shape, objects, circular, base, curved, surface, cubes, square, sides
+objects, size, large, blue, cube, gray, gold, sphere, red, orange
+cylinder, shape, objects, image, circular, cross-section, height, length, cylindrical, colors
+rubber, material, objects, image, color, texture, shape, context, sphere, matte
+cube-shaped, objects, three-dimensional, shape, square, faces, image, shapes, sides, gold
+objects, shapes, image, cube, square, faces, cylindrical, spherical, count, yellow
+green, objects, image, cylinder, colors, foreground, background, right, smaller, large
+rubber, material, image, characteristics, matte, finish, reflective, surface, objects, analysis
+large, objects, image, sizes, relative, blue, cylinder, yellow, sphere, purple, cube
+objects, green, image, identify, presence, color, cube, cylinder, top, right
+rubber, matte, objects, material, surface, appearance, finish, plastic, shiny, metallic
+objects, size, image, sphere, cylinders
+cylinder, objects, geometric, appearance, circular, bases, parallel, sides, shape, sphere
+yellow, objects, color, image, green, red, blue, teal, cylinder, center
+shapes, sphere, objects, image, identify, evaluate, characteristics, count, round, surfaces
+objects, image, steps, identify, objects, size, large, cylinders, sphere, cubes
+objects, shape, sphere, cube, cylinder, image, blue, green, yellow, purple
+metal, objects, material, reflective, shiny, surface, sphere, cylinder, characteristics, metallic
+objects, shape, sphere, round, directions, cylinder, circular, straight, sides, golden, blue
+gray, objects, image, sphere, cylinder, color, purple, brown, magenta, teal, yellow
+objects, size, dimensions, image, shapes, spheres, cylinder, cube, large, comparison
+objects, image, shape, geometric, form, sphere, cube, gold, gray, green, red
+cube-shaped, objects, image, steps, equal, square, faces, count, large, small
+metallic, reflective, shiny, surface, appearance, material, sphere, cylinder, cube, properties
+objects, sizes, blue, cube, red, cylinder, purple, gray, sphere
+large-sized, objects, relative, sizes, compared, image, cube, spheres
+yellow, objects, color, examine, image, individually, cylindrical, foreground, background
+metal, objects, shiny, surface, light, materials, 3D, renders, cylinder, sphere
+objects, sizes, image, sphere, red, cube, cylinders, teal, large, medium
+objects, color, image, cyan, greenish-blue, cube, upper, part
+image, objects, color, gold, cylinder, sphere, red, green, center, gray
+rubber, matte, texture, finish, cylinder, sphere, cube, glossy, orange, yellow
+Object, Analysis, Size, Comparison, Gold, Cylinder, Green, Cube, Purple, Sphere
+objects, size, image, cylinder, cubes, comparable, larger, substantially, similar
+objects, sphere-shaped, characteristics, round, three-dimensional, flat, surfaces, cylindrical, cube
+objects, size, relative, large, image, cube, sphere, volume, green, yellow
+objects, green, color, image, count, identify, inspection, visible
+objects, size, image, blue, cube, cyan, sphere, cylinder, green
+cube-shaped, objects, image, shapes, geometry, cubes, square, faces, purple, spherical
+blue, object, cylinder, color, sphere, red, gold, gray
+metal, objects, material, surface, reflective, shiny, metallic, texture, properties, spheres
+objects, colors, brown, image, shapes, blue, teal, gray, silver, red
+metal, reflective, shiny, surface, color, silver, gold, chrome, copper, bronze
+cylindrical, objects, image, shape, circular, bases, uniform, straight, sides, cylinders, cube
+brown, cube, objects, color, image, yellow, teal, red, blue, gray
+cube-shaped, objects, steps, identify, shape, cube, yellow, cylindrical, conclusion, image
+cylinder, sphere, cube, cyan, purple, yellow, image, objects, number, examine
+objects, sizes, image, sphere, cylinder, cube, large, medium, small, number
+cylinder, circular, base, height, straight, sides, objects, image, shape, characteristics
+rubber, matte, material, properties, objects, image, surface, metallic, glossy, spheres
+rubber, matte, objects, materials, surfaces, sphere, cube, cylinder, reflective, metallic
+objects, yellow, color, image, cube, sphere, left, top, center, right, bottom
+image, objects, color, red, steps, scan, shapes, positions, cube, sphere, cylinder
+objects, color, image, number, red, spheres
+objects, purple, color, image, visually, inspect, count, cylinders, cubes, spheres
+metal, material, reflectiveness, metallic, sheen, objects, qualities, sphere, cylinder, cube
+objects, cubes, colors, sizes, dimensions, count, larger, black, blue, golden
+objects, shapes, image, cube, sphere, foreground, background, visible, objects, left
+metal, material, metallic, surfaces, reflectivity, shiny, appearance, sphere, cylinders, cubes
+size, objects, small, cylinders, metallic, purple, sphere, medium, larger, distinctly
+objects, spheres, shapes, image, blue, yellow, cylinder, green, red, gray
+rubber, material, image, visual, characteristics, surface, light, color, opacity, spheres
+objects, cube, shape, image, steps, faces, square, yellow, metallic, cylindrical, spherical
+objects, size, small, large, green, cube, sphere, cylinder, silver, orange
+gray, objects, color, image, orange-brown, yellow, blue, red, cylindrical, cube
+metal, objects, material, reflectiveness, surface, shiny, matte, cylinder, sphere, cube
+image, objects, color, cyan, sphere
+objects, cube, shape, image, cylinder, sphere
+metal, reflective, shiny, metallic, sphere, cube, cylindrical, objects, material, characteristics
+objects, size, image, cylinders, cubic, spherical, yellow, red, gray, large
+objects, size, image, cube, cylinder, lighting, dimensions, assessment, uniform, size
+rubber, matte, finish, reflection, objects, characteristics, purple, cyan, blue, yellow, metallic
+yellow, cube, image, objects, color, purple, brown, blue, teal, foreground
+objects, size, image, teal, sphere, purple, cylinder, gray, cube, red
+metal, objects, image, material, surface, reflective, shiny, cube, sphere, cylinder
+objects, sizes, image, sphere, cylinder, cube, small, largest, relative, analysis
+objects, size, image, large, height, width, cylinder, cube, spheres
+cylinder, objects, image, analyze, shape, cube, objects
+objects, size, large, yellow, turquoise, brown, blue, silver, gray, sphere
+metal, material, metallic, shininess, reflectivity, highlights, object, characteristics, purple, blue
+metal, reflective, surface, characteristics, material, objects, image, cube, sphere, cylinder
+metal, objects, material, surface, properties, reflective, shiny, matte, finish, cylinder
+size, objects, image, yellow, cube, blue, sphere, cylindrical, shape, small
+objects, size, image, cylinder, spheres, blue, green, smaller, larger, size
+cylindrical, circular, objects, image, shape, uniform, sides, circular, top, bottom
+metal, reflectivity, shiny, surface, objects, image, characteristics, purple, green, gold
+objects, size, dimensions, gold, sphere, blue, cylinder, gray, cube, largest
+small, objects, image, sizes, sphere, cylinder, green, cube, blue
+spherical, objects, image, rounded, three-dimensional, edges, flat, surfaces, brown, blue
+image, objects, shape, cube, geometric, identify, cylinders, circular, surface, colors
+objects, green, color, image, cylinder, cube, blue, grey, left, middle, right
+objects, size, image, cylinder, sphere, cube, gray, large, medium, smallest
+objects, cube, shape, cylinder, circular, base, height, sides, right, angles, sphere
+objects, shape, cube, spherical, square, faces, cylinder, circular, curved, left
+metallic, reflective, shiny, metal, gold, cube, cylinder, sphere, green, material
+metal, reflective, shiny, surface, material, sphere, cube, sheen, reflectivity
+green, objects, color, image, steps, identify, count, systematically, cylinder, cube
+objects, shape, spherical, cubical, cylindrical, image, identify, conclude, objects, shape
+image, objects, cyan, color, hue, identify, scan, count, foreground, background
+large-sized, objects, sizes, metallic, cube, cylinder, colored, cubes, spheres, relative
+blue, object, image, examine, cylinder, cube, spheres, colors, examination, number
+brown, objects, image, color, cube, cylinder, gray, gold, blue, sphere
+objects, size, geometric, shapes, spheres, cube, purple, green, blue, red, turquoise
+image, objects, blue, color, identify, check, count, sphere
+image, objects, green, color, steps, observe, identify, distinct, cube, cylinder
+metal, objects, image, reflections, metallic, shine, cube, silver, gold, properties
+cylinder, objects, image, shape, spherical, flat, top, straight, sides, analysis
+rubber, material, matte, non-reflective, surfaces, objects, characteristics, cylinder, sphere, metallic, glossy
+cylindrical, shape, objects, image, circular, parallel, spherical, cube, sides, cylinder
+objects, size, comparison, sphere, cube, cylinder
+metal, reflectivity, shiny, appearance, metallic, material, cylinder, spheres, reflective, matte
+objects, sphere, shape, dimensions, round, spherical, gray, brown, purple, green
+sphere-shaped, objects, image, gray, brown, purple, cylindrical, spherical, shape, number
+objects, shape, image, sphere, spheres, round, 3-dimensional, uniform, curves, count
+objects, size, small, cubes, cylinder, spheres, cuboid, proportion, gray, blue
+objects, cylindrical, shape, image, characteristics, circular, bases, parallel, sides, gray, purple
+rubber, material, identification, visual, characteristics, matte, finish, texture, shiny, specular
+metal, objects, material, reflections, surface, characteristics, cylinder, sphere, cube, reflective
+cylindrical, objects, image, steps, shapes, characteristics, cylinder, circular, ends, uniform
+rubber, matte, finish, objects, materials, appearance, cube, cylinder, reflective, metallic
+brown, color, image, objects, gray, purple, sphere, cylinder, red, golden
+objects, image, shape, sphere, cylinder, purple, red, steps, identify, visible
+objects, size, large, cylinder, sphere, cube, diameter, height, volume, dimensions
+image, objects, blue, purple, sphere, cylinder, cube, color, identify, inspection
+rubber, objects, material, matte, texture, non-reflective, soft, metals, glass, cylinders
+objects, color, image, purple, sphere, cylinder, green, yellow, number, determine
+yellow, cube, sphere, image, shape, objects, number
+objects, rubber, matte, finish, surface, materials, sphere, cylinders, cube, texture, quality
+objects, blue, color, image, shapes, colors, cube, sphere, foreground, count
+metal, material, reflective, shiny, appearance, metallic, cylinder, sphere, cube, objects
+number, objects, image, cyan, color, blue, green, shade, row, left
+image, objects, sizes, cylinder, cube, sphere, small, largest, purple, gray, red
+cube, shape, image, objects, three-dimensional, square, edges, vertices, spheres, cylinders
+image, objects, shape, color, blue, sphere, cylinder, count, number
+metal, objects, material, image, characteristics, reflectivity, shine, shiny, surface, cylinder
+rubber, objects, image, materials, texture, reflectivity, color, metallic, matte, finish
+green, objects, image, color, cylinder, cube, left, side, right, center
+rubber, matte, finish, reflection, characteristics, objects, material, cylinder, cube, turquoise
+rubber, material, objects, matte, surface, reflection, shiny, appearance, cubes, cylinder
+image, objects, size, yellow, sphere, cylinder, brown, sphere, small, visible
+image, objects, colors, green, cube, steps, observe, identify, count
+metal, material, reflectiveness, appearance, characteristics, metal, shiny, reflective, surface, matte, dull
+image, objects, color, steps, identify, count, sphere, cube, cylindrical, red
+cylinders, objects, image, circular, top, bottom, height, uniform, sides, properties
+rubber, material, objects, image, texture, matte, finish, glossy, metallic, analysis
+metal, objects, material, reflective, shiny, characteristics, cubes, cylinder, quality, examination
+image, objects, gray, color, steps, observe, identify, review, cube
+image, objects, cylindrical, shape, characteristics, cylinder, circular, ends, straight, parallel
+objects, color, yellow, image, sphere
+image, objects, color, red, green, gold, sphere, cube, determine, analyze
+image, objects, sphere-shaped, identify, determine, shape, purple, green, brown, cubes
+cylinder, characteristics, parallel, circular, surface, distance, objects, features, flat, curved
+large, objects, image, yellow, cylinder, turquoise, cube, red, sphere, background
+metal, objects, image, reflective, surfaces, shiny, appearance, sphere, cubes, cylinders
+gray, objects, image, sphere, cube, color, metallic, purple, blue, teal
+objects, size, area, spheres, cylinder, gray, red, green, larger, smaller
+cylinder, objects, shape, circular, base, parallel, sides, image, pink, gold, blue
+objects, size, large, yellow, cube, gray, teal, sphere, green, cylinder
+small, objects, size, scale, image, sizes, comparison, classify, cylinder, cube
+objects, image, color, purple, sphere, cylinder, red, blue, large, small
+cylinder, objects, image, shapes, circular, bases, surface, survey, green, blue
+size, objects, image, cylinder, sphere, cube, reference, small, large, blue
+objects, small, size, image, sphere, cube, cylinder, gold, green, yellow
+objects, sphere, image, steps, directions, circular, flat, surfaces, round, criteria
+rubber, matte, texture, objects, material, image, cylinder, sphere, metallic, gold
+cube-shaped, objects, image, features, square, faces, edges, vertices, corners, spherical
+metal, reflectiveness, surface, characteristics, objects, material, shiny, cylinder, cone, cube
+number, red, objects, image, examine, cube, spheres, cylinders, middle
+cylindrical, objects, image, shape, circular, parallel, sides, flat, top, cylinder
+gray, cube, sphere, image, objects
+cube-shaped, objects, image, square, faces, purple, gold, spheres, cylinders
+objects, size, image, larger, green, cylinder, yellow, sphere, cube, background
+brown, objects, image, colors, sphere, purple, blue, cylinder, determine, notice
+number, blue, objects, image, analyze, identify, color, count, sphere, background
+objects, size, distance, image, purple, yellow, sphere, cube, green, small
+rubber, matte, finish, color, texture, cylinder, sphere, green, grey, red
+cylinder, shape, characteristics, objects, image, circular, bases, rounded, top, bottom
+objects, size, image, dimensions, spheres, cylinders, cubes, yellow, small, blue
+objects, colors, image, yellow, purple, red, teal, cube, sphere, green
+cube, objects, shape, faces, image, yellow, blue, geometric, characteristics
+objects, size, image, green, cubes, blue, cylinder, relative, noticeably, smaller
+image, objects, yellow, color, steps, identify, distinct, blue, green, red
+cube, shape, objects, image, yellow, cylinder, blue, green, sphere, spheres
+image, objects, sphere-shaped, cylindrical, cubical, spherical, identify, count, shape, shape
+cylinder, shape, objects, steps, identify, cube, sphere, circular, edges, height
+objects, size, image, large, size, cubes, purple, red, spheres, cylinder
+metal, material, reflectivity, shiny, appearance, cube, cylinder, sphere, metallic, matte
+cube-shaped, objects, image, steps, shapes, faces, size, objects, cylindrical, spherical
+rubber, objects, matte, finish, materials, texture, appearance, surface, cylinder, sphere
+rubber, material, surface, characteristics, glossiness, reflectivity, texture, cylinder, sphere, objects
+objects, image, yellow, color, steps, identify, spheres, cylindrical, shapes, count
+rubber, matte, textures, reflectivity, metallic, glossy, surfaces, cylinder, cube, objects
+objects, size, large, cube, sphere, cylinder
+Small, Blue, Cylinder, Pink, Cube, Green, Sphere, Object, Size, Number
+rubber, material, objects, characteristics, matte, soft, pliable, cylinder, finish, texture
+objects, image, purple, colors, shapes, hue, cube
+Green, Turquoise, Metallic, Cube, Sphere, Objects, Image, Shape, Counting
+large, size, objects, image, purple, sphere, cylinder, green, gray, blue, cube
+sphere, objects, shape, round, smooth, cylindrical, flat, circular, tops, bottoms
+objects, size, image, cylinders, spheres, cubes, volume, presence, visual, largest
+objects, size, image, sphere, cube, cylinder, large, brown, yellow, cyan
+cube-shaped, objects, image, characteristics, faces, square, equal, cylinder, sphere, inspection
+yellow, objects, color, image, cube, sphere, shape, right, side, there
+objects, metal, material, reflections, shininess, metallic, coloring, sphere, cubes, cylinders
+image, objects, color, green, identify, count, cylinder, cube, sphere, bottom
+objects, image, scene, types, sizes, cylinder, position, largest, small, medium
+objects, size, image, cube, sphere, cylinder, medium, small, green, blue
+objects, sphere, dimensions, image, red, green, blue, cylinders, cubes
+image, objects, red, color, steps, scan, identify, count, cube, cylinder
+cube-shaped, objects, image, shapes, characteristics, square, faces, edges, vertices, spherical
+Metal, objects, shiny, reflective, surface, material, color, texture, metallic, sheen
+image, objects, sphere, shape, blue, greenish, yellow, center, right, cylinder, cube
+objects, color, brown, image, cylinder, sphere, blue, teal, green, cube
+metal, reflection, shine, characteristics, image, cylinder, sphere, reflective, shiny, material
+metal, reflective, shiny, silver, gold, chrome, characteristics, surface, appearance, cylinder, sphere
+cube, shape, objects, image, steps, identify, scanning, flat, surfaces, angles
+objects, size, relative, small, larger, medium, cube, cylinder
+objects, sizes, sphere, cylinder, larger, small, relative, sizes, green, purple
+metal, objects, material, shiny, reflective, surfaces, metallic, sphere, center, reflective
+cylinders, characteristics, diameter, objects, image, circular, ends, height, straight, sides
+metal, material, reflections, finishes, object, surface, shiny, reflective, metallic, matte
+objects, size, image, cylinder, sphere, diameter, height, purple, yellow, green
+objects, cylinder, shape, parallel, circular, faces, curved, surface, spherical
+number, objects, sphere, shape, image, identify, count, colors, perfectly, round
+number, objects, spherical, round, edges, corners, curvature, yellow, red, green
+cylinders, cubes, sphere, small, objects, sizes, dimension, image, surroundings, yellow
+objects, red, color, image, sphere, left, center, appear
+red, objects, color, image, cube, cylinder, yellow, purple, grey
+metal, reflective, shiny, surface, material, objects, characteristics, metallic, appearance, sphere, cylinder
+objects, large, blue, cube, cylinder, sphere, purple, image, sizes, center
+objects, sizes, visually, analyze, relative, spheres, cube, larger, smaller, image
+image, objects, shape, color, red, sphere, cylinder, identify, note, determine
+cylinder, shape, image, object, circular, sides, cube, equal, analysis, yellow
+cylinders, object, image, steps, identify, parallel, circular, bases, curved, surface
+metallic, material, reflectivity, shiny, appearance, surroundings, luster, objects, surface, image
+image, objects, shape, sphere, spheres, identify, count, red, blue, teal
+cylinder, objects, shape, circular, bases, uniform, height, profile, cube, edges
+objects, color, image, steps, reasoning, identify, shapes, cylinders, spheres, cyan
+metal, reflectivity, glossy, mirror-like, reflective, shiny, metallic, material, objects, surface
+gray, image, objects, cylinder, background, number, small, distinct
+rubber, texture, appearance, objects, material, cylinder, sphere, translucent, opaque, uniform
+brown, colors, objects, image, steps, identify, compare, count, cube, sphere
+image, objects, cube, shape, cylinder, sphere, brown, purple, small, green
+rubber, objects, material, appearance, characteristics, attributes, cylinder, cube, sphere, metallic
+objects, image, blue, sphere, cube, teal, green, cylinder, gray
+cylinder, shape, image, definition, parallel, circular, bases, sides, 3D, spherical
+cube, shapes, image, objects, square, faces, perspective, cylinder, sphere, golden, green
+rubber, objects, characteristics, green, sphere, blue, cube, gold, material, surface
+rubber, matte, reflections, metal, shiny, materials, objects, cylinder, cube, spheres
+rubber, matte, reflection, texture, characteristics, objects, material, finish, smooth, metallic
+objects, sizes, cylinders, cubes, visible, large, relative, shapes, width, height
+objects, size, small, cylinder, yellow, green, purple, golden, sphere
+objects, sizes, cylinders, cuboids, varying, larger, significantly, brown, green, teal
+objects, size, small, purple, cube, teal, cylinder, gray, sphere, gold
+metallic, shiny, reflective, objects, material, metals, surface, cylinder, sphere, cube
+sphere, shape, objects, image, shape, cylindrical, cube, spherical, gray, green
+objects, sizes, image, shapes, colors, cylinder, sphere, cube, gray, purple
+image, objects, size, large, small, medium, cylinder, cube, sphere, metallic
+gray, objects, image, colors, steps, identify, compare, typical, description, sphere
+number, objects, yellow, color, image, steps, identify, colors, distinct, examine
+cyan, objects, color, identify, shapes, image, count, spheres, cubes
+shapes, spheres, cubes, rectangular prisms, cylinders, flat, edges, circular, curved, round
+objects, image, color, green, sphere, cube, cylinder, steps, count, number
+cube, objects, shape, faces, edges, square, dimensions, sphere, cube-shaped
+rubber, matte, appearance, features, objects, material, cubes, cylinders, spheres, metal
+metal, objects, image, surfaces, reflective, shiny, metallic, appearance, spheres, cylinders
+metallic, characteristics, reflectiveness, shininess, cylindrical, object, surface, metal, cube, image
+metal, reflectiveness, surface, shiny, reflective, matte, metallic, cylinder, sphere, cube
+large, objects, size, blue, cylinder, sphere, cube, medium, comparison
+objects, sizes, image, cylinder, cube, red, yellow, foreground, center, right
+image, objects, sphere, shape, green, gray, center, left, right, small, large
+cube, objects, shape, square, faces, image, identify, blue, cylinder, silver
+cylinder, objects, circular, bases, uniform, straight, sides, cube, image, number
+objects, image, sphere, purple, blue, cylinder, yellow, green, cube, cyan
+brown, image, objects, color, analyze, match, count, distinct, sphere, cylinder
+cylinder, circular, features, object, shape, image, surface, curved, characteristics, identify
+matte, rubber, finish, reflective, properties, cylinder, sphere, gray, metallic, glossy
+objects, color, blue, green, red, purple, grey, gold, cyan, cube
+large, objects, size, volume, height, width, green, cube, gray, sphere, teal, cylinder
+rubber, matte, finish, non-reflective, shiny, objects, surface, spheres, cylinders, material
+sphere, objects, shape, three-dimensional, round, ball, image, perfectly, spherical, perfectly
+size, objects, image, green, cylinder, purple, sphere, red, metallic, blue
+objects, color, brown, image, analyze, cylinder, sphere, cube, green, blue
+rubber, metallic, texture, appearance, shiny, matte, dull, cylinders, spheres, cubes
+rubber, material, properties, surface, reflective, metal, glass, objects, cylinder, sphere
+objects, image, sizes, large, sphere, green, small, medium, cube, cylinder
+objects, image, cylindrical, small, blue, cylinder, cubes, red, gold, yellow
+blue, colors, objects, step, identify, blue-colored, predominantly, appearance, count, image
+small, gray, cube, objects, image, visible, purple, green, cylinder, sphere
+objects, sizes, image, gray, cube, yellow, cylinder, purple, sphere
+metal, material, objects, appearance, sphere, cylinder, reflective, matte, shiny, number
+blue, colors, object, image, analyzed, sphere, cylinder, cube, greenish-blue, distinctly
+objects, size, image, sphere, cube, cylinder, foreground, background, medium, small
+metallic, material, reflectiveness, specularity, surface, properties, objects, shiny, reflective, cylinders
+objects, image, small, sphere, cylinder, cube, blue, red, yellow, brown
+yellow, objects, image, color, identify, count, locate, sphere, steps, number
+cube, shape, objects, cylinder, sphere, purple, silver, brown, gray, geometric
+Cube, Cylinder, Sphere, Color, Gray, Purple, Blue, Image, Objects, Analysis
+objects, cube, shape, square, faces, grey, brown, green, cylinders, spheres
+objects, sphere, shape, image, blue, red, green, cubes, cylinders
+rubber, matte, surface, reflections, shiny, metallic, objects, spheres, cylinders, cube
+metal, objects, image, material, reflectivity, shiny, appearance, sphere, cylindrical, metallic
+objects, image, green, color, shape, identify, count, sphere, upper, left
+objects, sizes, image, sphere, cylinder, blue, brown, purple, large, medium
+cylinder, objects, circular, ends, straight, parallel, sides, blue, purple, spherical, cube
+metal, reflective, shiny, polished, surface, objects, image, materials, characteristics, metallic
+number, objects, image, color, red, steps, identify, count, distinct, cube
+objects, image, sphere, cube, cylinder, purple, cyan, gray
+objects, size, comparison, large, blue, cube, cylinder, sphere, yellow, black
+small-sized, objects, image, volume, dimensions, cube, cylinder, purple, green, right
+metal, reflective, surface, characteristics, material, objects, shiny, cube, cylinder, metallic
+objects, sizes, cylinders, spheres, colors, image, large, blue, yellow, turquoise
+rubber, matte, surface, objects, material, identify, check, quality, glossy, cylinders
+objects, cube, shape, image, steps, identify, analyze, purple, spheres, cylinders
+cylinder, objects, image, circular, base, uniform, height, tube, yellow, purple, blue
+objects, blue, image, color, steps, identify, examine, purple, green
+metallic, material, reflectiveness, shine, objects, metal, surface, scene, characteristics, typical
+objects, sizes, cubes, spheres, varying, sizes, large, golden, gray, purple
+objects, cylinder, shape, image, purple, orange, red, spheres, cubes
+size, objects, cube, cylinder, small, larger, relative, green, brown, blue
+rubber, matte, surfaces, texture, image, cylinder, sphere, metallic, shiny, objects
+rubber, matte, appearance, objects, materials, cylindrical, surface, plastic, metal, reflective
+spherical, objects, shapes, gray, blue, spheres, cubes, cylinders, colors, number
+number, objects, image, size, cylinder, sphere, cube, purple, teal, gray
+objects, color, image, steps, identify, count, check, color, cubes, cylinder
+metallic, material, reflectivity, shiny, surface, metal, objects, image, spheres, cubes
+objects, image, steps, cube, spheres, cylinder, color, brown, purple, green
+objects, sizes, cylinder, spheres, cube, foreground, gray, red, purple, gold
+size, objects, image, categories, sizes, cylindrical, spheres, colors, conclusion
+objects, size, cube, cylinder, teal, yellow, brown, metal, green, purple, blue, gray
+objects, cyan, color, image, analyze, shape, shade, cylinder
+metal, reflective, surfaces, shine, glossiness, metallic, texture, appearance, object, material
+rubber, matte, finish, objects, surface, texture, metallic, non-reflective, non-metallic, sphere
+rubber, material, objects, image, visual, characteristics, matte, finish, reflective, surfaces
+cylindrical, objects, image, circular, parallel, bases, curved, surface, brown, blue
+image, objects, cube, shape, height, width, depth, blue, green, count
+rubber, matte, finish, diffuse, lighting, objects, sphere, cylinder, shiny, reflective
+number, sphere, objects, shape, purple, blue, yellow, cube, brown
+objects, brown, image, visually, identify, shades, sphere, center, right, color
+objects, image, cube, center, cyan, right, smaller
+image, cylinder, characteristics, circular, parallel, bases, curved, surface, uniform, height
+objects, shape, cylinder, sphere, cube, image, turquoise, gold, blue, green
+red, objects, colors, image, steps, observe, identify, shades, sphere, cylindrical
+objects, color, image, number, identify, count, examine, yellow, sphere
+objects, sizes, medium, small, large, purple, cylinder, sphere, cube, analyze
+blue, objects, image, color, cube, cylinder, sphere, number, right, bottom
+cylindrical, objects, image, shapes, circle, cylinder, cubes, spheres, metallic, blue
+objects, size, large, small, medium, cylinder, cube, sphere, green, blue
+cyan, color, objects, image, green, blue, cylinder, cube, sphere
+objects, size, cylinder, cube, identify, evaluate, smaller, larger, teal, gold
+image, objects, size, dimensions, positions, cylinder, sphere, cube, medium
+metal, reflective, surface, shiny, appearance, sphere, cube, finish, material, signs
+image, objects, sphere, shape, steps, identify, scan, counting, spherical, yellow, red, green
+rubber, metal, glass, matte, finish, reflective, appearance, cylinder, cube, sphere
+size, objects, image, scene, small, blue, sphere, cylinder, beige, number
+objects, size, visual field, green, sphere, brown, cube, blue, cylinder
+objects, size, image, identify, determine, relative, space, large, sphere, cylinder
+small, objects, gray, sphere, cube, orange, medium, purple, yellow, cylinder
+cylinder, shape, parallel, circular, bases, curved, surface, distance, image, objects
+sphere, shape, objects, image, round, three-dimensional, spheres, large, small, gray, yellow
+objects, size, image, scene, spheres, cylinders, cubes, colors, large, sizes
+objects, sphere, shape, characteristics, cube, round, yellow, gold, metallic, spherical
+objects, sphere, image, round, three-dimensional, flat, surfaces, edges, blue, silver
+objects, shapes, sphere-shaped, blue, brown, cubes, cylinders, purple, green, arrangement
+yellow, objects, image, picture, object, purple, blue, green, cylindrical, spherical
+objects, color, image, cube, prism, cylinder, sphere, green, brown, purple, yellow, gray
+objects, sizes, spheres, cubes, yellow, turquoise, dark gray, red, blue, small
+red, objects, color, cylinder, background, analysis, different, colors, gray, blue
+metal, reflective, surface, color, specular, highlights, shiny, objects, image, material
+objects, shape, image, sphere, cube, purple, green, gold, brown, cylindrical
+objects, color, purple, yellow, green, grey, cube, spherical, cylindrical
+cylinder-shaped, objects, circular, ends, straight, sides, green, blue, upper, right
+metal, objects, characteristics, materials, reflectivity, surface, shiny, sphere, reflective, metallic
+metallic, material, objects, surface, shiny, reflective, glossy, cylinder, sphere, cube
+image, objects, shape, cube, steps, geometry, square, purple, green, gold
+objects, size, image, cylinder, blue, purple, cube, medium, small, large
+objects, color, brown, image, sphere
+rubber, material, image, analysis, visual, characteristics, matte, finishes, shiny, surfaces
+brown, objects, color, image, cylinder, center, none, row, there
+sphere, objects, image, round, shapes, flat, surfaces, purple, gold, blue
+objects, shape, cube, steps, image, identify, count, sides, angles, spheres
+objects, spherical, shape, round, ball, ball-like, cylinders, cubes, gray, red
+cube-shaped, objects, image, shapes, spheres, cylinders, cube, gray, blue, red
+large, objects, size, comparison, image, cylinder, sphere, purple, yellow, back
+rubber, matte, finish, reflection, soft, appearance, cylinders, sphere, metallic, glossy
+rubber, material, surface, texture, plastic, metal, matte, shiny, glossy, cylinder
+objects, color, image, steps, identify, observe, count, purple, gray, blue, sphere
+gray, cylinder, blue, cube, gold, purple, teal, sphere, right, center
+metal, reflective, surfaces, shiny, mirrored, highlights, reflections, surroundings, objects, material
+brown, objects, image, color, cylinder, sphere, cube, gray, gold, blue
+objects, size, image, purple, sphere, orange, cylinder, metallic, cube
+objects, color, brown, sphere, cylinder, cube, green, red, blue, silver
+objects, yellow, image, color, sphere, cylinder, cube, left, center, right
+objects, size, large, blue, cube, sphere, right, gold, brown, cylinder
+rubber, matte, finish, surface, reflective, objects, image, characteristics, materials, potential
+cylindrical, shape, objects, image, steps, identify, characteristics, circular, curved, surface
+objects, texture, material, rubber, matte, sheen, yellow, blue, purple, cylinder
+objects, color, image, identify, red, cube, cylinder, purple, gray, blue
+large, objects, size, image, blue, cylinder, red, sphere, cube, green
+image, objects, color, cyan, steps, identify, observe, count, visible, cube
+cylinder, circular, shape, objects, image, characteristics, criteria, cylindrical, base, uniform
+metal, objects, characteristics, shiny, reflective, surface, cylinder, cube, appearance, material
+green, objects, color, image, cube
+objects, size, spheres, cubes, cylinders, dimensions, largest, gray, blue, yellow
+cube-shaped, objects, image, shape, features, edges, vertices, examine, objects, count
+image, objects, size, large, cylinders, blue, turquoise, green, golden, spheres
+blue, objects, image, cylinder, gold, brown, sphere, color, blue, cube
+objects, size, image, cylinder, sphere, cube, height, width, volume, dimensions
+objects, size, image, sphere, cube, cylinder
+metal, reflection, shine, gold, sphere, brown, cylinder, red, gray, purple
+objects, size, image, cylinders, spheres, cube, cone, large, medium, small
+objects, colors, image, shapes, cyan, number
+image, objects, size, relative, larger, significantly, cylinder
+cylinder, shapes, circular, bases, parallel, sides, sphere, cube, image, analysis
+objects, color, red, image, steps, identify, examine, sphere
+rubber, material, texture, appearance, objects, sphere, cubes, cylinder, finish, metallic
+metallic, material, reflective, surfaces, objects, identify, examine, each, large, blue
+objects, blue, color, picture, shapes, colors, image, cylindrical, corner, criterion
+objects, size, cylinder, teal, small, assessment, reasoning, blue, purple, sphere
+small-sized, objects, image, green, cylinder, orange, cube, size, evaluate, number
+metal, reflective, shiny, surface, metallic, sheen, matte, finish, objects, spheres
+cube, shape, objects, image, spherical, cylindrical, flat, top, bottom, uniform
+rubber, matte, finish, reflections, metal, plastic, reflective, shiny, brown, cube
+cylinder, objects, image, shape, circular, top, bottom, sides, cube, sphere
+small, objects, size, image, red, cylinder, green, cube, blue, largest
+objects, shape, number, spherical, cube, gold, cylinder, green, purple, sphere
+objects, shape, cube, cylindrical, round, surfaces, equal, flat, image, smaller
+green, image, objects, color, steps, examine, count, number
+rubber, objects, material, appearance, sheen, matte, cylinders, cubes, glossy, reflective
+metal, objects, material, shiny, reflective, surface, characteristic, cube, front, none
+sphere-shaped, objects, image, identifying, round, surfaces, edges, characteristic, spheres, cubes
+shapes, spheres, cube, cylinders, objects, image, gray, green, brown, purple
+number, objects, color, image, identify, check, count, brown, sphere
+image, objects, color, red, steps, scan, shapes, identify, number, cylinder
+brown, image, objects, color, identify, observe, cube
+rubber, matte, finish, color, texture, shiny, reflective, specular, highlights, glossy
+rubber, objects, visual, textures, appearances, matte, non-reflective, surface, shiny, finish
+cube, objects, shape, dimensions, cylinder, equal, sides, blue, black, teal
+objects, image, shape, sphere, purple, right, side, larger, small, red
+objects, size, image, sphere, cylinder, cube, small, larger, medium, objects
+Sphere, cube, cylinder, objects, image, shape, round, flat, surfaces, edges
+objects, purple, image, color, sphere, cubes, cylinders, left, distinct, one
+green, objects, image, number, color, cube, cylinder
+objects, size, image, cylinder, cube, sphere, large, small, medium, reasoning
+rubber, objects, image, appearance, reflectiveness, matte, finish, cylinders, blue, yellow
+cylinders, shape, objects, circular, bases, surface, image, parallel, curved, counting
+image, objects, blue, sphere, cylinder, color, foreground, background, analyze, determine
+rubber, matte, finish, reflections, shininess, objects, image, texture, cube, sphere
+objects, cube, cylinder, sphere, size, large, scene, presence, area, substantial
+cylinder, shape, features, parallel, circular, bases, surface, objects, image, analysis
+large, sizes, objects, image, cylinder, sphere, cube, notable, smaller, larger
+brown, objects, image, color, cylinder, sphere, background, foreground, blue, green
+rubber, matte, surfaces, material, objects, sphere, finish, cylinder, glossy, metallic
+cylindrical, objects, image, analyze, cylinder, round, top, straight, sides, background
+rubber, surface, characteristics, matte, texture, gloss, shine, finish, cylinders, objects
+cube, shape, three-dimensional, square, faces, image, object, properties, spheres, cylinders
+cube, shape, objects, image, faces, square, gray, blue, spheres, cylinders
+rubber, matte, finish, materials, metal, glass, sphere, cylinder, surface, reflective
+rubber, objects, image, visual, cue, material, surface, matte, reflective, cylinders
+objects, size, small, medium, large, purple, sphere, green, cylinder, pink
+metal, material, objects, reflective, shiny, surfaces, plastic, rubber, cylinder, cube
+objects, image, color, cylinder, sphere, gray, yellow, blue, purple, cyan, green
+cube-shaped, three-dimensional, equal, dimensions, flat, faces, sharp, edges, small, gold
+objects, size, image, compare, large, cubes, cylinders, spheres, right, middle
+objects, image, small, green, cube, yellow, blue, sphere, gold
+metal, reflective, shiny, surfaces, gold, cylinder, sphere, cube, red, green, purple
+cyan, image, objects, shape, color, blue, green, sphere, left, side
+objects, image, size, comparison, sphere, cylinder, cube, diameter, volume, dominant
+objects, sizes, compare, larger, dimensions, image, inspection, larger
+objects, color, cyan, green, purple, examine, count, number, spherical, cylinder
+metal, reflective, shiny, metallic, properties, material, sphere, cube, matte, objects
+image, objects, color, brown, sphere
+image, shape, cube, cylinder, sphere, volume, size, objects, larger, smaller
+objects, size, small, blue, sphere, purple, golden, cube, brown, cylinder
+cube, object, shape, cylindrical, edges, square, faces, blue, orange, bronze, yellow
+metal, objects, image, cylinders, spheres, surface, texture, reflectiveness, metallic, non-metallic
+objects, image, cyan, color, hue, sphere
+blue, color, image, objects, cylinder, cube, right, back, visible, number
+objects, image, color, brown, cylinder, teal, silver, metallic, golden, cube
+objects, cyan, color, image, steps, identify, objects, hue, inspection, shapes
+objects, purple, cylinder, cube, color, image, identify, count, center, left, right
+objects, size, image, steps, identify, compare, determine, examine, cylinder, cube
+objects, size, large, image, green, cube, yellow, cylinder, gold, red
+metal, objects, reflective, surfaces, materials, sphere, cylinder, matte, appearance
+purple, objects, image, color, cylinder, right, side, small, number
+objects, image, color, cylinder, sphere, purple, golden, green, red, cube
+green, objects, image, examine, spheres, cylindrical, shapes, corner, color
+cylindrical, objects, image, cylinder, round, base, height, uniform, green, purple
+objects, size, image, cube, cylinder, height, foreground, back, spheres, cylinders
+objects, size, sphere, cube, cylinder, small, medium, larger
+shape, objects, image, sphere, roundness, dimensions, curved, surfaces, cylindrical, flat
+rubber, objects, image, non-reflective, matte, finish, yellow, sphere, green, cube
+cylindrical, shape, objects, image, circular, vertical, sides, cylinder, cubes
+number, objects, image, steps, identify, shape, sphere, objects, blue, gold
+objects, purple, image, cylinder, foreground, analyze, large, clearly, observation
+cylinder, sphere, cube, small, medium, size, objects, blue, gold, red
+brown, objects, image, color, shades, shape, confirm, cylinder, sphere, center
+metal, reflections, metallic, sheen, cube, teal, cylinder, gold, brown, sphere
+round, globe-like, shape, edges, flat, surfaces, sphere, cylinder, objects, number
+image, objects, cylinder, shape, geometric, circular, cube, sphere, blue, green
+rubber, matte, finish, reflective, metallic, glossy, shiny, material, objects, characteristics
+metal, material, reflective, shiny, metallic, characteristics, image, objects, appearance, finish
+objects, image, color, green, sphere, center
+objects, color, shape, cyan, image, cube, cylinder, spheres, purple, small
+metal, reflectiveness, shiny, metallic, gold, reflective, surface, cube, sphere, purple
+image, small, objects, size, steps, scan, count, dimensions, purple, sphere
+image, objects, color, green, cylinder, sphere, cube, foreground, background, identify
+metal, shiny, reflective, surfaces, cylinder, silver, gold
+objects, purple, color, image, cylinder, sphere
+cylinders, shape, objects, image, circular, parallel, base, sides, spheres, cube
+objects, size, cubes, cylinders, sphere, large, small, yellow, red, purple
