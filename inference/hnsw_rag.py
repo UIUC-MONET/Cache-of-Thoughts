@@ -119,6 +119,7 @@ class HNSW:
         self.hnsw.set_ef(ef_construction)
        
         self.data: Dict[int, DataRecord] = {}
+        self.history: List[int] = []
 
         #self.loss_score_heap: List[Tuple[float, int]] = []
         #self.loss_score_dirty: Dict[int, bool] = {}
@@ -208,7 +209,9 @@ class HNSW:
         # Returns images corresponding to the top-k search results.
 
         labels, _ = self.hnsw.knn_query(query_embedding, k = k, num_threads = 1)
+        self.history += labels.tolist()[0] 
         return [(self.data[i].text_data ,self.data[i].image_data) for i in labels.tolist()[0]]
+
 
 
 # # Example code

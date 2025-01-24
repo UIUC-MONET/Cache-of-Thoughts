@@ -1,4 +1,4 @@
-transformers==4.28.1
+transformers
 hnswlib
 open_flamingo
 datasets
@@ -6,4 +6,3 @@ git+https://github.com/openai/CLIP.git
 accelerate
 numpy==1.26.4
 torch==2.1.2
-transformers==4.31.0
