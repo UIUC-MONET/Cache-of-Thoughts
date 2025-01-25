@@ -6,3 +6,4 @@ git+https://github.com/openai/CLIP.git
 accelerate
 numpy==1.26.4
 torch==2.1.2
+matplotlib

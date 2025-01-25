@@ -43,7 +43,7 @@ def exact_match(results, dataset):
     return avg_acc
 
 server_name = 'ryan'
-dataSet = 'clevr' # choose from mmmu, clevr, textocr
+dataSet = 'textocr' # choose from mmmu, clevr, textocr
 dataSlice = 'val' # choose from val, dev
 
 # Add the inference directory to the PYTHONPATH
@@ -84,7 +84,7 @@ for i in range(len(gpt_results)):
     elif dataSet == 'textocr':
         gpt_ans = gpt_results[i].split('ANSWER: ')[-1].strip().strip('."').replace(' ','')
         try:
-            if gpt_ans == ans:
+            if gpt_ans.lower() == ans.lower():
                 cnt += 1
         except:
             print(gpt_ans,'\n',ans,support_meta[i]['id'])

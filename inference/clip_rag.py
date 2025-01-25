@@ -85,7 +85,7 @@ class CLIP_rag():
         return image_features
     
     def encode_text(self, text):
-        text_tokens = clip.tokenize(text).to(self.device)
+        text_tokens = clip.tokenize(text, truncate=True).to(self.device)
         text_features = self.model.encode_text(text_tokens).float()
         return text_features
     
