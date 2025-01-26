@@ -80,13 +80,14 @@ class QwenVLM():
         # TODO: decide other parameters to set
         self.model_name = model_name
         self.device = device
+        self.device_map = 'auto'
         default_dtype = torch.get_default_dtype() # trick to bypass the flash_attention_2 dtype warning
         torch.set_default_dtype(torch.bfloat16)
         self.model = Qwen2VLForConditionalGeneration.from_pretrained(
             pretrained_model_name_or_path=model_name,
-            torch_dtype=torch.bfloat16,
+            torch_dtype='auto',
             attn_implementation="flash_attention_2", # using flash_att2 because the doc recommends
-            device_map=device,
+            device_map=self.device_map,
             )
         self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
         torch.set_default_dtype(default_dtype)
