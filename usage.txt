@@ -1,0 +1,12 @@
+
+1. First, run mt-flamingo-1 6 times
+check max_new_token, now is set to 50 for quick finish
+model = 9B
+dataSet = {mmmu, clevr, textocr} dataSlice = {dev, val} run 3x2=6 times
+
+2. Second, run mt-flamingo-2 6 times
+model = 9B
+dataSet = {mmmu, clevr, textocr} dataSlice = {dev, val} run 3x2=6 times
+
+3 Third, run mt-flamingo-3 as many times as needed
+check max_new_token, now is set to 50 for quick finish

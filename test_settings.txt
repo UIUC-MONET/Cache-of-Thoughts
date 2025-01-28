@@ -1,0 +1,33 @@
+cache val test dev mmmu 1 shot 0.15753424657534246->0.17123287671232876 cache 0.14585764294049008 coverage
+cache val test dev clevr 1 shot 0.105->0.24 cache 0.08625 coverage
+cache val test dev clevr 2 shots 0.105->0.18 cache 0.14375 coverage
+cache val test dev clevr 3 shots 0.105->0.2 cache 0.18875 coverage
+cache val test dev textocr 1 shot 0.0->0.065 cache 0.16125 coverage
+cache val test dev textocr 2 shots 0.0->0.055 cache 0.26125 coverage
+cache val test dev textocr 3 shots 0.0->0.065 cache 0.3275 coverage
+cache val test dev mmmu 1 shot 0.15753424657534246->0.17123287671232876 half cache 0.24299065420560748 coverage
+cache val test dev clevr 1 shot 0.105->0.295 half cache 0.1475 coverage
+cache val test dev clevr 2 shots 0.105->0.165 half cache 0.25 coverage
+cache val test dev clevr 3 shots 0.105->0.245 half cache 0.3025 coverage
+cache val test dev textocr 1 shot 0.0->0.065 half cache 0.245 coverage
+cache val test dev textocr 2 shots 0.0->0.055 half cache 0.375 coverage
+cache val test dev textocr 3 shots 0.0->0.045 half cache 0.48 coverage
+cache dev test val mmmu 1 shot 0.22753792298716452->0.23920653442240372 cache 0.773972602739726 coverage
+cache dev test val clevr 1 shot 0.07875->0.1875 cache 0.405 coverage
+cache dev test val clevr 2 shots 0.07875->0.2 cache 0.5 coverage
+cache dev test val clevr 3 shots 0.07875->0.21125 cache 0.57 coverage
+cache dev test val textocr 1 shot 0.0->0.05 cache 0.705 coverage
+cache dev test val mmmu 1 shot 0.22753792298716452->0.24037339556592766 half cache 0.9041095890410958 coverage
+cache dev test val clevr 1 shot 0.07875->0.19625 half cache 0.51 coverage
+cache dev test val clevr 2 shots 0.07875->0.18 half cache 0.63 coverage
+cache dev test val clevr 3 shot 0.07875->0.20125 half cache 0.73 coverage
+cache dev test val textocr 1 shot 0.0->0.04625 half cache 0.84 coverage
+
+4B
+cache dev test val mmmu 1 shot 0.2602100350058343->0.24620770128354727 cache 0.773972602739726 coverage
+cache dev test val mmmu 2 shots 0.2602100350058343->0.22987164527421236 cache 0.9178082191780822 coverage
+cache dev test val clevr 1 shot 0.0825->0.175 cache 0.42 coverage
+cache dev test val clevr 2 shots 0.0825->0.175 cache 0.535 coverage
+cache dev test val textocr 1 shot 0.00125->0.04125 cache 0.705 coverage
+cache dev test val textocr 2 shots 0.00125->0.0425 cache 0.82 coverage
+cache dev test val mmmu 2 shots 0.2602100350058343->0.24504084014002334 half cache 0.9726027397260274 coverage
