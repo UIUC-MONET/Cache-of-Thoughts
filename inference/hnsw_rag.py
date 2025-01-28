@@ -9,6 +9,10 @@ import hnswlib
 import numpy as np
 import heapq as heap
 
+# hierachical
+from sklearn.decomposition import PCA
+from sklearn.cluster import KMeans
+
 
 @dataclass
 class DataRecord:
@@ -18,6 +22,7 @@ class DataRecord:
     vector_data: np.array
     text_data: Any
     image_data: Any
+    text_clip: np.array
 
 
 def proximitiy(veca, vecb):
@@ -35,6 +40,7 @@ class HNSWLFU:
         self.frequencies: Dict[int, DataRecord] = {}
         self.data: Dict[int, DataRecord] = {}
         self.inserted_time: Dict[int, int] = {}
+        self.history: List[int] = []
 
         self.cur_timestamp = 0
         self.protect_duration = protect_duration
@@ -106,6 +112,7 @@ class HNSWRandom:
         allowed_ids = {k for k, v in self.data.items() if v.keywords.intersection(query_data.keywords)}
         filter_func = lambda idx: idx in allowed_ids
         labels, _ = self.hnsw.knn_query(query_data.vector_data, k = k, num_threads = 1, filter = filter_func)
+        self.history += labels.tolist()[0] 
         return [self.data[i].image_data for i in labels.tolist()[0]]
 
 
@@ -199,6 +206,7 @@ class HNSW:
             print("No overlap: ", query_data.keywords)
             filter_func = lambda idx: True
         labels, _ = self.hnsw.knn_query(query_data.vector_data, k = k, num_threads = 1, filter = filter_func)
+        self.history += labels.tolist()[0] 
         #labels, _ = self.hnsw.knn_query(query_data.vector_data, k = k, num_threads = 1)
         return [(self.data[i].text_data ,self.data[i].image_data) for i in labels.tolist()[0]]
     
@@ -212,7 +220,156 @@ class HNSW:
         self.history += labels.tolist()[0] 
         return [(self.data[i].text_data ,self.data[i].image_data) for i in labels.tolist()[0]]
 
+class HNSWHierachical:
+    def __init__(self, dim, num_elements, ef_construction=40, M=32, evict_method='random', num_clusters=100, n_components=50, use_pca=True):
+        self.dim = dim
+        self.num_elements = num_elements
+        self.hnsw = hnswlib.Index(space='l2', dim=dim)
+        self.hnsw.init_index(max_elements=num_elements, ef_construction=ef_construction, M=M)
+        self.hnsw.set_ef(ef_construction)
 
+        self.data: Dict[int, DataRecord] = {}
+        self.loss_scores: Dict[int, float] = {}
+        self.loss_scores_initialized = False
+        self.evict_method = evict_method
+
+        # PCA and Clustering setup
+        self.num_clusters = num_clusters
+        self.use_pca = use_pca
+        if self.use_pca:
+            if n_components is not None:
+                self.pca = PCA(n_components=min(dim, n_components))  # Reduce to at most 50 dimensions or dim
+                self.n_components = n_components
+            else: 
+                self.pca = PCA()
+                self.n_components = None
+
+        self.kmeans = None
+        self.cluster_means = None
+        self.cluster_assignments = {}
+
+    def cold_start_clustering(self, initial_data: List[DataRecord]):
+        embeddings = np.array([data.text_clip for data in initial_data])
+        if self.use_pca:
+            if self.n_components is None:
+                self.pca.fit(embeddings)
+                cumulative_variance = np.cumsum(self.pca.explained_variance_ratio_)
+                self.n_components = np.argmax(cumulative_variance >= 0.95) + 1
+                print(f'n_components = {self.n_components} can accounts 95% variation.')
+            reduced_embeddings = self.pca.fit_transform(embeddings)
+        else:
+            reduced_embeddings = embeddings
+        self.kmeans = KMeans(n_clusters=self.num_clusters, random_state=42)
+        self.kmeans.fit(reduced_embeddings)
+
+        self.cluster_means = self.kmeans.cluster_centers_
+        for idx, data in enumerate(initial_data):
+            cluster_id = self.kmeans.labels_[idx]
+            self.cluster_assignments[idx] = cluster_id
+            data.keywords.add(f"level1_{cluster_id}")
+            self.data[idx] = data
+            self.hnsw.add_items(data.vector_data, idx)
+            self.history: List[int] = []
+
+    def update_cluster_mean(self, cluster_id: int):
+        cluster_members = [idx for idx, cid in self.cluster_assignments.items() if cid == cluster_id]
+        if not cluster_members:
+            self.cluster_means[cluster_id] = np.zeros_like(self.cluster_means[cluster_id])
+            return
+
+        embeddings = np.array([self.data[idx].vector_data for idx in cluster_members])
+        if self.use_pca:
+            reduced_embeddings = self.pca.transform(embeddings)
+        else:
+            reduced_embeddings = embeddings
+        self.cluster_means[cluster_id] = np.mean(reduced_embeddings, axis=0)
+
+    def assign_cluster(self, data: DataRecord):
+        if self.use_pca:
+            reduced_embedding = self.pca.transform([data.text_clip])[0]
+        else:
+            reduced_embedding = data.text_clip
+        cluster_id = np.argmin(np.linalg.norm(self.cluster_means - reduced_embedding, axis=1))
+        return cluster_id
+    
+    def assign_top_n_clusters(self, data: DataRecord, n: int):
+        if self.use_pca:
+            reduced_embedding = self.pca.transform(data.text_clip)[0]
+        else:
+            reduced_embedding = data.text_clip
+        distances = np.linalg.norm(self.cluster_means - reduced_embedding, axis=1)
+        top_n_clusters = np.argsort(distances)[:n]
+        return top_n_clusters
+
+    def insert_data(self, data: DataRecord, top_n=1):
+        if len(self.data) < self.num_elements:
+            new_id = len(self.data)
+            top_clusters = self.assign_top_n_clusters(data, top_n)
+            for cluster_id in top_clusters:
+                data.keywords.add(f"level1_{cluster_id}")
+            self.data[new_id] = data
+            self.hnsw.add_items(data.vector_data, new_id)
+            self.cluster_assignments[new_id] = top_clusters[0]
+            for cluster_id in top_clusters:
+                self.update_cluster_mean(cluster_id)
+        else:
+            if self.evict_method == 'billy':
+                id_to_evict = self.choose_id_to_evict(data)
+                evicted_data = self.data[id_to_evict]
+                evicted_cluster_id = self.cluster_assignments.pop(id_to_evict)
+                del self.data[id_to_evict]
+
+                top_clusters = self.assign_top_n_clusters(data, top_n)
+                for cluster_id in top_clusters:
+                    data.keywords.add(f"level1_{cluster_id}")
+                self.data[id_to_evict] = data
+                self.hnsw.add_items(data.vector_data, id_to_evict)
+                self.cluster_assignments[id_to_evict] = top_clusters[0]
+
+                self.update_cluster_mean(evicted_cluster_id)
+                for cluster_id in top_clusters:
+                    self.update_cluster_mean(cluster_id)
+            elif self.evict_method == 'random':
+                id_to_evict = np.random.randint(0, self.num_elements)
+                evicted_cluster_id = self.cluster_assignments.pop(id_to_evict)
+                del self.data[id_to_evict]
+
+                top_clusters = self.assign_top_n_clusters(data, top_n)
+                for cluster_id in top_clusters:
+                    data.keywords.add(f"level1_{cluster_id}")
+                self.data[id_to_evict] = data
+                self.hnsw.add_items(data.vector_data, id_to_evict)
+                self.cluster_assignments[id_to_evict] = top_clusters[0]
+
+                self.update_cluster_mean(evicted_cluster_id)
+                for cluster_id in top_clusters:
+                    self.update_cluster_mean(cluster_id)
+
+    def knn_query_filtered_by_hierarchy(self, query_data: DataRecord, k=1, top_n=1):
+        top_clusters = self.assign_top_n_clusters(query_data, top_n)
+    
+        query_data.keywords.update({f"level1_{cluster_id}" for cluster_id in top_clusters})
+        
+        allowed_ids = {
+            idx
+            for idx, cluster_id in self.cluster_assignments.items()
+            if cluster_id in top_clusters
+        }
+        
+        filter_func = lambda idx: idx in allowed_ids
+        
+        try:
+            labels, _ = self.hnsw.knn_query(query_data.vector_data, k=k, num_threads=1, filter=filter_func)
+            self.history += labels.tolist()[0] 
+            results = [(self.data[i].text_data, self.data[i].image_data) for i in labels.tolist()[0]]
+        except Exception as e:
+            print(f"KNN query failed: {e}")
+            results = []
+
+        # Insert the query data into the index
+        # self.insert_data(query_data, top_n=top_n)
+        
+        return results
 
 # # Example code
 # dim = 512

@@ -38,7 +38,6 @@ def reconstruct_prompt_from_gpt_conversation(question, options, conversation, da
             gpt_question = question + " Only answer with the largest text. Please include your reasoning steps, then answer your choice in this format: ANSWER: <TEXT>."
         else:
             gpt_question = question + " Please include your reasoning steps, then answer your choice in this format: ANSWER: <LETTER CHOICE>. The letter choice is strictly in the alphabetical order, and there is only one option possible."
-    
     obj = [
         {
             "from": "user",
