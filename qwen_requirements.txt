@@ -1,12 +1,13 @@
-torch==2.1.2
 datasets
 qwen_vl_utils
 pillow
 ftfy
 regex
 tqdm
-git+https://github.com/openai/CLIP.git
-git+https://github.com/huggingface/transformers
+CLIP
+transformers
 accelerate
 flash_attn
 matplotlib
+torch
+openai

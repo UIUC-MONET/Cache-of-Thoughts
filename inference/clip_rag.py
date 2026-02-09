@@ -1,20 +1,8 @@
-import numpy as np
-import torch
-
 import clip
-clip.available_models()
-
 import os
 from PIL import Image
-import numpy as np
-import torch
-from pathlib import Path
-
-from collections import defaultdict
-import numpy as np
-import pickle
-from tqdm import tqdm
 from torch.utils.data import Dataset
+from torchvision import transforms
 
 class ImageGPTDataset(Dataset):
     def __init__(self, ds, data_path, transform=None):
