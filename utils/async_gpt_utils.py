@@ -32,7 +32,6 @@ async def get_completion(content, semaphore, progress_log):
         )
         progress_log.increment()
         print(progress_log)
-        # print(chat_completion)
         return chat_completion.choices[0].message.content
 
 
@@ -71,7 +70,6 @@ async def get_vision_completion(img_base64: str, prompt: str, semaphore, progres
             )
             progress_log.increment()
             print(progress_log)
-            # print(chat_completion)
             return chat_completion
         except Exception as e:
             print(e)
@@ -83,3 +81,10 @@ async def get_vision_completion_list(img_base64_list, prompt_list, max_parallel_
 
     return await asyncio.gather(*[get_vision_completion(img_base64, prompt, semaphore, progress_log, model=model) 
                                   for img_base64, prompt in zip(img_base64_list, prompt_list)])
+
+async def get_vision_completion_multi_image_list(img_base64_list_of_list, prompt_list, max_parallel_calls, model="gpt-4o", task_name=""):
+    semaphore = asyncio.Semaphore(value=max_parallel_calls)
+    progress_log = ProgressLog(len(prompt_list), task_name=task_name)
+
+    return await asyncio.gather(*[get_vision_completion(img_base64_list, prompt, semaphore, progress_log, model=model) 
+                                  for img_base64_list, prompt in zip(img_base64_list_of_list, prompt_list)])

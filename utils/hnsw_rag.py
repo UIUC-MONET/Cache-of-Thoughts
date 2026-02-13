@@ -1,7 +1,7 @@
 import random
 import math
 import time
-from typing import Any, Dict, List, Optional, Set, Tuple
+from typing import Any, Dict, List, Set
 from dataclasses import dataclass
 
 import hnswlib
@@ -17,7 +17,6 @@ from sklearn.cluster import KMeans
 class DataRecord:
     keywords: Set[Any]
     image_clip: np.array
-    # text_clip: np.array
     vector_data: np.array
     text_data: Any
     image_data: Any
@@ -127,11 +126,8 @@ class HNSW:
         self.data: Dict[int, DataRecord] = {}
         self.history: List[int] = []
 
-        #self.loss_score_heap: List[Tuple[float, int]] = []
-        #self.loss_score_dirty: Dict[int, bool] = {}
         self.loss_scores: Dict[int, float] = {}
         self.loss_scores_initialized = False
-            # self.data_score_dirty[i] = True
         self.evict_method = evict_method    # choose between billy and random
 
 
@@ -164,7 +160,6 @@ class HNSW:
             self.data[new_id] = data
             self.hnsw.add_items(data.vector_data, new_id)
             end_time = time.time()
-            #print(f"Insert time: {end_time - start_time} seconds")
         else:
             start_time = time.time()
             if self.evict_method == 'billy':
@@ -206,7 +201,6 @@ class HNSW:
             filter_func = lambda idx: True
         labels, _ = self.hnsw.knn_query(query_data.vector_data, k = k, num_threads = 1, filter = filter_func)
         self.history += labels.tolist()[0] 
-        #labels, _ = self.hnsw.knn_query(query_data.vector_data, k = k, num_threads = 1)
         return [(self.data[i].text_data ,self.data[i].image_data) for i in labels.tolist()[0]]
     
     
@@ -364,9 +358,6 @@ class HNSWHierachical:
         except Exception as e:
             print(f"KNN query failed: {e}")
             results = []
-
-        # Insert the query data into the index
-        # self.insert_data(query_data, top_n=top_n)
         
         return results
 

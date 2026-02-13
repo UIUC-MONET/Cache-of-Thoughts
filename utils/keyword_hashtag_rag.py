@@ -1,7 +1,7 @@
 import torch
 import torch.nn.functional as F
 from transformers import AutoModelForCausalLM, AutoTokenizer, AutoModel
-from torch.utils.data import Dataset, DataLoader
+from torch.utils.data import Dataset
 
 class KeywordExtractor():
     def __init__(self, model_name="meta-llama/Meta-Llama-3-8B-Instruct", device="cuda"):
@@ -22,10 +22,6 @@ class KeywordExtractor():
         I have the following multiple choice question and its options:
         - {query}
         """
-        # self.message_template = [
-        #     {"role": "system", "content": "You are a helpful chatbot that assists users in generating keywords from conversations. You have been given a conversation and need to generate keywords from it."},
-        #     {"role": "user", "content": None },
-        # ]
     
     def extract_keywords_from_conversation(self, conversation):
         query = 'question: ' + str(conversation['question']) + ' options: ' + str(conversation['options'])
@@ -49,7 +45,6 @@ class KeywordExtractor():
         llama_keywords = []
         texts = self.tokenizer.apply_chat_template([text], add_generation_prompt=True, tokenize=False)
         inputs = self.tokenizer(texts, padding="longest", return_tensors="pt").to(self.device)
-        # inputs = {key: val. for key, val in inputs.items()}
         temp_texts=self.tokenizer.batch_decode(inputs["input_ids"], skip_special_tokens=True)
 
 
@@ -73,7 +68,6 @@ class KeywordExtractor():
         llama_keywords = []
         texts = self.tokenizer.apply_chat_template(text_batch, add_generation_prompt=True, tokenize=False)
         inputs = self.tokenizer(texts, padding="longest", return_tensors="pt").to(self.device)
-        # inputs = {key: val. for key, val in inputs.items()}
         temp_texts=self.tokenizer.batch_decode(inputs["input_ids"], skip_special_tokens=True)
 
 

@@ -17,7 +17,6 @@ class ImageGPTDataset(Dataset):
         sample = self.data[idx]
         # Load image
         image_path = os.path.join(self.data_path, sample['image'])
-        # image_path = Path(self.data_path) / sample['image']
         image = Image.open(image_path).convert('RGB')
         if self.transform:
             image = self.transform(image)
@@ -42,7 +41,6 @@ class ImageGPTDataset_multi_image(Dataset):
         sample = self.data[idx]
         # Load image
         image_path_list = [os.path.join(self.data_path, image_path) for image_path in sample['images']]
-        # image_path = Path(self.data_path) / sample['image']
         image_list = []
         for image_path in image_path_list:
             image = Image.open(image_path).convert('RGB')

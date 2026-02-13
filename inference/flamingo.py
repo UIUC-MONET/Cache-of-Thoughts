@@ -3,192 +3,22 @@ import random
 import pickle
 import json
 from pathlib import Path
-from PIL import Image
 from tqdm import tqdm
 import datasets
 from datasets import load_dataset
-from transformers import AutoTokenizer
-from .clip_rag import CLIP_rag
-from .data_utils import create_cold_start_dataset_from_preprocess
-from .hnsw_rag import HNSW, DataRecord
-from open_flamingo import create_model_and_transforms
-from huggingface_hub import hf_hub_download
-import torch
+from utils.clip_rag import CLIP_rag
+from utils.data_utils import create_cold_start_dataset_from_preprocess
+from utils.hnsw_rag import HNSW, DataRecord
 import ast
-import matplotlib.pyplot as plt
-import re
-from .keyword_hashtag_rag import KeywordExtractor
+from utils.keyword_hashtag_rag import KeywordExtractor
+from utils.other_utils import parse_options as parse_option
+from utils.vlm_rag import OpenFlamingoVLM
+from utils.other_utils import load_image, concat_conversation_json, show_hist
+from utils.mmmu_utils import construct_mmmu_prompt_flamingo as construct_mmmu_prompt
 
-
-ALPHA = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-ALPHA_DOT = [alpha + '.' for alpha in ALPHA]
-# parse option from gpt response
-def parse_option(response, dataSet):
-    # the option is in between ** and **
-    ans = response.strip()
-    ans = ans.strip('\n')
-    trunc_index = ans.find('\n')
-    if trunc_index <= 0:
-        trunc_index = ans.find('.')
-    if trunc_index > 0:
-        ans = ans[:trunc_index]
-    if dataSet == "clevr":
-        # find the number
-        ans = re.search(r'\d+', ans)
-        if ans:
-            return int(ans.group(0))
-        else:
-            return None
-    elif dataSet == 'textocr':
-        ans = re.search("[a-zA-Z0-9']+", response)
-        if ans:
-            return ans.group(0)
-        else:
-            return None
-    else:
-        ans = re.search('[A-Z]', response)
-        if ans:
-            return ans.group(0)
-        else:
-            return None
-
-def show_hist(hnsw, k_shot):
-    data = hnsw.history
-    fig, ax = plt.subplots()
-    ax.set_title(f"{int(len(data)/k_shot)} queries with top-{k_shot} retrieval")
-    ax.set_xlabel("Cache Entry")
-    ax.set_ylabel("Number of Hits")
-    ax.hist(data,bins=range(len(hnsw.data)))
-    ax.locator_params(axis='y', integer=True)
-    return fig, ax
-
-class OpenFlamingoVLM():
-    def __init__(self, model_name="anas-awadalla/mpt-7b", weight_name="openflamingo/OpenFlamingo-9B-vitl-mpt7b", layers=4):
-        # TODO: decide other parameters to set
-        self.model_name = model_name
-        self.weight_name = weight_name
-        default_dtype = torch.get_default_dtype() # trick to bypass the flash_attention_2 dtype warning
-        torch.set_default_dtype(torch.bfloat16)
-        self.model, self.image_processor, self.tokenizer = create_model_and_transforms(
-            clip_vision_encoder_path="ViT-L-14",
-            clip_vision_encoder_pretrained="openai",
-            lang_encoder_path=self.model_name,
-            tokenizer_path=self.model_name,
-            cross_attn_every_n_layers=layers #4 for 9b model
-        )
-        self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
-        torch.set_default_dtype(default_dtype)
-        checkpoint_path = hf_hub_download(self.weight_name, "checkpoint.pt")
-        self.model.load_state_dict(torch.load(checkpoint_path), strict=False)
-        self.model = self.model.to(torch.bfloat16).cuda()
-    
-    def __call__(self, input_text, image_path, max_new_token=30, only_model_response=True):
-        return self.forward(input_text, image_path, max_new_token, only_model_response)
-    
-    def forward(self, input_text, input_images, max_new_token=30, only_model_response=True):
-        """
-        By default this returns the full model response and the section of the response that the model generated.
-        Optionally, you can set only_model_response to True to get just the generated section.
-        """
-        # process input
-        self.tokenizer.padding_side = "left" # For generation padding tokens should be on the left
-        lang_x = self.tokenizer(
-            [input_text],
-            return_tensors="pt",
-        )
-        images = []
-        if input_images is not None and len(input_images) > 0:
-            for i in range(len(input_images)):
-                if isinstance([i], str):
-                    image = Image.open(input_images[i]).convert('RGB')
-                elif isinstance(input_images[i], Image.Image):
-                    image = input_images[i].convert('RGB')
-                else:
-                    image = Image.fromarray(input_images[i]).convert('RGB')
-
-                images.append(image)
-        vision_x = [self.image_processor(img).unsqueeze(0) for img in images]
-        vision_x = torch.cat(vision_x, dim=0)
-        vision_x = vision_x.unsqueeze(1).unsqueeze(0)
-        temp_texts = self.tokenizer.batch_decode(lang_x["input_ids"], skip_special_tokens=False)
-        generated_text = self.model.generate(
-            vision_x=vision_x.to(torch.bfloat16).cuda(),
-            lang_x=lang_x["input_ids"].cuda(),
-            attention_mask=lang_x["attention_mask"].cuda(),
-            max_new_tokens=max_new_token,
-            num_beams=3
-        )
-        
-        if only_model_response:
-            input_token_len = lang_x['input_ids'].shape[1]
-            responses = self.tokenizer.batch_decode(generated_text[:, input_token_len:].cpu(), skip_special_tokens=True)
-            return responses
-        else:
-            responses = self.tokenizer.batch_decode(generated_text, skip_special_tokens=True)
-            return responses, [i[len(temp_texts[idx]):] for idx, i in enumerate(responses)]            
-    
-    def apply_single_image_prompt(self, input_text, image_path):
-        template_2 = """{task_prompt}The answer is"""
-        if '<image 1>' in input_text:
-            query_text = '<image>' + input_text.replace("<image 1>", "").replace("<LETTER CHOICE>", "LETTER CHOICE")
-        else:
-            query_text = '<image>' + input_text
-        prompt_2 = template_2.format(
-            task_prompt=query_text
-        )
-        conversation_1 = prompt_2
-        return " ".join(conversation_1.split())
-    
-    def apply_single_image_prompt_with_example(self, input_text, image_path, example_text_list, example_image_path_list):
-        template_1 = """{example_task_prompt}"""
-        example_template = []
-        for i in range(len(example_text_list)):
-            prompt_1 = template_1.format(
-                example_task_prompt=example_text_list[i].replace('\\n','').replace("<image 1>", "").replace("<LETTER CHOICE>", "LETTER CHOICE").replace("<NUMBER>", "NUMBER").replace("<TEXT>", "TEXT"),
-            )
-            example_template.append(prompt_1)
-        conversation_1 = ""
-        template_2 = """{task_prompt}The answer is"""
-        if '<image 1>' in input_text:
-            query_text = '<image>' + input_text.replace("<image 1>", "").replace("<LETTER CHOICE>", "LETTER CHOICE")
-        else:
-            query_text = '<image>' + input_text
-        prompt_2 = template_2.format(
-            task_prompt=query_text
-        )
-        for p in example_template:
-            conversation_1 = conversation_1 + "<image>" + p.strip() + "<|endofchunk|>"
-
-        conversation_1 += prompt_2
-        
-        return " ".join(conversation_1.split())
-
-def load_image(img_ids, root_path):
-    if isinstance(img_ids, str):
-        img_ids = [img_ids]
-    images = []
-    image_paths = []
-    for img_id in img_ids:
-        image_path = os.path.join(root_path, img_id)
-        image = Image.open(image_path).convert('RGB')
-        images.append(image)
-        image_paths.append(image_path)
-        
-    return images, image_paths
-
-def concat_conversation_json(conversation):
-    out_str = 'Human: ' + conversation[0]['value'] + '\n' + 'Assistant: ' + conversation[1]['value'] + '\n'
-    return out_str
-
-def construct_mmmu_prompt(question, options):
-    ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-    if len(options):
-        return question + " The options are the following:" + str().join([ALPHABET[i] + ". " + options[i] + ". " for i in range(len(options))]) + "There is only one option possible."
-    else:
-        return question + "There is only one option possible."
 
 def flamingo(dataSet, dataSlice, model, cacheSet, cacheSlice, embedding='image', alternative='', query_embedding='image_response', k_shot=1, cache_size=''):
-    data_path = Path('../data/mmmu')
+    data_path = Path('./data/mmmu')
     dataSet = dataSet # choose from mmmu, clevr, textocr
     dataSlice = dataSlice # choose from val, dev
     query_embedding = query_embedding # choose from image, image_query, image_response, image_response_subfield (mmmu only)
@@ -204,7 +34,7 @@ def flamingo(dataSet, dataSlice, model, cacheSet, cacheSlice, embedding='image',
     cache_path = f'./results/Open_Flamingo_{model_name}_{dataSet}_{dataSlice}_{query_embedding}_{cacheSet}{alternative}_{cacheSlice}_{embedding}_{k_shot}{cache_size}_cache.pickle'
     fig_path = f'./results/Open_Flamingo_{model_name}_{dataSet}_{dataSlice}_{query_embedding}_{cacheSet}{alternative}_{cacheSlice}_{embedding}_{k_shot}{cache_size}_cache_frequency.png'
     result_write_path = f'./results/Open_Flamingo_{model_name}_{dataSet}_{dataSlice}_{query_embedding}_{cacheSet}{alternative}_{cacheSlice}_{embedding}_{k_shot}{cache_size}_results.pickle'
-    dataDir = '../data'
+    dataDir = './data'
 
     if cacheSet == 'mmmu':
         if cacheSlice == 'val':
@@ -236,7 +66,6 @@ def flamingo(dataSet, dataSlice, model, cacheSet, cacheSlice, embedding='image',
         else:
             test_dataset = load_dataset("lmms-lab/MMMU", split="test")
         test_dataset_single_image = test_dataset.filter(lambda x: x['image_2'] is None)
-        # sample 2000 examples from the test dataset
         test_dataset_single_image = test_dataset_single_image.shuffle(seed=42)
     else:
         if dataSlice == 'val':
@@ -246,7 +75,6 @@ def flamingo(dataSet, dataSlice, model, cacheSet, cacheSlice, embedding='image',
         with open(data_file, 'r') as f:
             query_meta = json.load(f)
         test_dataset_single_image = query_meta
-        # sample 2000 examples from the test dataset
         random.shuffle(test_dataset_single_image)
 
     # MMMU cold start
@@ -267,7 +95,8 @@ def flamingo(dataSet, dataSlice, model, cacheSet, cacheSlice, embedding='image',
                                     cache_start_dataset['clip_image_embed'][i],
                                     cache_start_dataset['clip_image_embed'][i], 
                                     text_list[i],
-                                    image_list[i])
+                                    image_list[i],
+                                    [])
             hnsw.insert_data(data_stuff)
     else:
         for i in tqdm(range(min(len(cache_start_dataset), hnsw_size)), total=hnsw_size):
@@ -275,7 +104,8 @@ def flamingo(dataSet, dataSlice, model, cacheSet, cacheSlice, embedding='image',
                                     cache_start_dataset['clip_image_embed'][i],
                                     cache_start_dataset['clip_image_embed'][i], 
                                     text_list[i],
-                                    load_image(image_list[i],dataDir)[0][0])
+                                    load_image(image_list[i],dataDir)[0][0],
+                                    [])
             hnsw.insert_data(data_stuff)
 
     # model setup
@@ -399,7 +229,6 @@ def flamingo(dataSet, dataSlice, model, cacheSet, cacheSlice, embedding='image',
     # dump as pickle
     with open(cache_path, 'wb') as f:
         pickle.dump(hnsw, f)
-    len(set(hnsw.history))/len(hnsw.data)
 
     fig, ax = show_hist(hnsw, k_shot)
     fig.savefig(fig_path)
@@ -426,7 +255,9 @@ def flamingo(dataSet, dataSlice, model, cacheSet, cacheSlice, embedding='image',
             second_correct_count += 1
 
     # accuracy
+    print('Apprentice first response accuracy:')
     print(first_correct_count / len(test_dataset_single_image))
+    print('Apprentice second response accuracy:')
     print(second_correct_count / len(test_dataset_single_image))
 
 

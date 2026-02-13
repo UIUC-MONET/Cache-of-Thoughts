@@ -2,9 +2,10 @@ from pathlib import Path
 import pickle
 import ast
 import datasets
+from datasets import Dataset
 import torch
+from .other_utils import ALPHABET
 
-ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
 def get_extracted_keywords(data_dir):
     """
@@ -18,7 +19,6 @@ def get_extracted_keywords(data_dir):
                 if each is None or len(each) == 0:
                     continue
                 keywords.append(each)
-            # keywords.extend(f.read().splitlines())
     return keywords
 
     
@@ -63,14 +63,6 @@ def create_cold_start_dataset_from_preprocess(base_dataset: Dataset, gpt_convers
     data_conversation = data_conversation.map(lambda x: {"conversations": reconstruct_prompt_from_gpt_conversation(x['question'], x['options'], x['conversations'], dataSet)})
     data_conversation = data_conversation.select_columns(["conversations"])
     start_ds = datasets.concatenate_datasets([start_ds, data_conversation], axis=1)
-
-
-    # # attach selected hashtags
-    # selected_hashtags_dir = data_path / 'embeddings/selected_hashtags_gte-base-en-v1.5.pkl'
-    # with open(selected_hashtags_dir, 'rb') as f:
-    #     selected_hashtags = pickle.load(f)
-    # data_hashtag = datasets.Dataset.from_dict({"hashtags": selected_hashtags})
-    # validation_dataset = datasets.concatenate_datasets([validation_dataset, data_hashtag], axis=1)
 
     # only keep single image questions
     # validation_dataset_single = validation_dataset.filter(lambda x: x['image_2'] is None)

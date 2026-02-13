@@ -6,7 +6,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 def dataset_keyword_extract(dataSet, dataSlice):
     dataSlice = dataSlice # val dev
     dataSet = dataSet # choose from mmmu, clevr, textocr
-    dataDir = '../data'
+    dataDir = './data'
 
     llama_template = """
     Please give me 10 keywords that are present in this context and separate them with commas.
@@ -25,7 +25,7 @@ def dataset_keyword_extract(dataSet, dataSlice):
         tokenizer.convert_tokens_to_ids("<|eot_id|>")
     ]
 
-    output_dir = dataDir.strip('data') + f'/keyword/{dataSet}_gpt/{dataSlice}_keyword'
+    output_dir = dataDir.strip('data') + f'/keywords/{dataSet}_gpt/{dataSlice}_keyword'
     # create dir if not exists
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -42,7 +42,6 @@ def dataset_keyword_extract(dataSet, dataSlice):
             ]
         texts = tokenizer.apply_chat_template(message, add_generation_prompt=True, tokenize=False)
         inputs = tokenizer(texts, padding="longest", return_tensors="pt").to(model.device)
-        # inputs = {key: val. for key, val in inputs.items()}
         temp_texts=tokenizer.batch_decode(inputs["input_ids"], skip_special_tokens=True)
 
         gen_tokens = model.generate(

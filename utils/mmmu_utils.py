@@ -1,6 +1,5 @@
 """Response Parsing and Evaluation for various models"""
 import random
-random.seed(42)
 import numpy as np
 
 ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
@@ -11,6 +10,11 @@ def construct_mmmu_prompt(question, options):
         return question + " The options are the following:" + str().join([ALPHABET[i] + ". " + options[i] + ". " for i in range(len(options))]) + " Please include your reasoning steps, then answer your choice in this format: ANSWER: <LETTER CHOICE>. The letter choice is strictly in the alphabetical order, and there is only one option possible."
     else:
         return question + " Please include your reasoning steps, then answer your choice in this format: ANSWER: <LETTER CHOICE>. The letter choice is strictly in the alphabetical order, and there is only one option possible."
+def construct_mmmu_prompt_flamingo(question, options):
+    if len(options):
+        return question + " The options are the following:" + str().join([ALPHABET[i] + ". " + options[i] + ". " for i in range(len(options))]) + "There is only one option possible."
+    else:
+        return question + "There is only one option possible."
 
 # ----------- Process Multi-choice -------------
 def parse_multi_choice_response(response, all_choices, index2ans):
@@ -51,7 +55,6 @@ def parse_multi_choice_response(response, all_choices, index2ans):
                 for can in candidates:
                     index = response.rfind(f'({can})')
                     start_indexes.append(index) # -1 will be ignored anyway
-                # start_indexes = [generated_response.index(f'({can})') for can in candidates]
             else:
                 for can in candidates:
                     index = response.rfind(f" {can} ")

@@ -1,38 +1,22 @@
 from pathlib import Path
 import os
 import json
-import torch
 import datasets
 from datasets import load_dataset
-from . import data_utils
+from utils import data_utils
 import torch
 import clip
 import numpy as np
-import torch
-import numpy as np
 import pickle
 from tqdm import tqdm
-from PIL import Image
-
-def load_image(img_ids, root_path):
-    if isinstance(img_ids, str):
-        img_ids = [img_ids]
-    images = []
-    image_paths = []
-    for img_id in img_ids:
-        image_path = os.path.join(root_path, img_id)
-        image = Image.open(image_path).convert('RGB')
-        images.append(image)
-        image_paths.append(image_path)
-        
-    return images, image_paths
+from utils.other_utils import load_image
 
 def get_clip_embedding(dataSet, dataSlice, embedding='image_text', alternative=''):
     dataSlice = dataSlice # validation dev test
     embedding = embedding # image image_text
     alternative = alternative # emtpy string if no special need _baseline for question embedding _subfield for class embedding
     dir_name = dataSlice
-    dataDir = '../data'
+    dataDir = './data'
 
     model, preprocess = clip.load("ViT-B/32")
     model.cuda().eval()
@@ -51,7 +35,7 @@ def get_clip_embedding(dataSet, dataSlice, embedding='image_text', alternative='
             dataset = load_dataset("lmms-lab/MMMU", split='validation')
         else:
             dataset = load_dataset("lmms-lab/MMMU", split=dataSlice)
-        data_path = Path(f'../data/mmmu/{dir_name}')
+        data_path = Path(f'./data/mmmu/{dir_name}')
 
         # load saved conversation with gpt and attach to dataset
         gpt_conversation_path = data_path / f'mmmu_{dir_name}_gpt4o_response_v2.jsonl' #TODO: actually the test set
@@ -64,7 +48,7 @@ def get_clip_embedding(dataSet, dataSlice, embedding='image_text', alternative='
         dataset = datasets.concatenate_datasets([dataset, data_conversation], axis=1)
 
         # load keywords
-        keyword_dir = Path(f'../keyword_generation/mmmu_gpt/{dir_name}_keyword')
+        keyword_dir = Path(f'./keywords/mmmu_gpt/{dir_name}_keyword')
         keyword_test_list = data_utils.get_extracted_keywords(keyword_dir)
         data_keyword = datasets.Dataset.from_dict({"keywords": keyword_test_list})
         dataset = datasets.concatenate_datasets([dataset, data_keyword], axis=1)
@@ -84,8 +68,20 @@ def get_clip_embedding(dataSet, dataSlice, embedding='image_text', alternative='
         dataloader = torch.utils.data.DataLoader(dataset_single_image, 
                                                 batch_size=64,
                                                 collate_fn=mmmu_clip_preprocess_collate_fn)
+        clip_features = []
+        with torch.no_grad():
+            for batch in tqdm(dataloader):
+                images = batch['image_1'].to('cuda')
+                texts = batch['text'].to('cuda')
+                image_features = model.encode_image(images).float()
+                text_features = model.encode_text(texts).float()
+
+                if embedding == 'image':
+                    clip_features.append(image_features.cpu())
+                else:
+                    clip_features.append((image_features.cpu()+text_features.cpu())/2)
     else:
-        data_path = Path(f'../data/{dataSet}')
+        data_path = Path(f'./data/{dataSet}')
         # load dataset
         if dataSlice == 'val':
             support_file = os.path.join(dataDir, dataSet, 'support.json')
@@ -107,7 +103,7 @@ def get_clip_embedding(dataSet, dataSlice, embedding='image_text', alternative='
         test_dataset = datasets.concatenate_datasets([test_dataset, data_conversation], axis=1)
 
         # load keywords
-        keyword_dir = dataDir.strip('data') + f'keyword/{dataSet}_gpt/{dataSlice}_keyword'
+        keyword_dir = dataDir.strip('data') + f'keywords/{dataSet}_gpt/{dataSlice}_keyword'
         keyword_test_list = data_utils.get_extracted_keywords(keyword_dir)
         data_keyword = datasets.Dataset.from_dict({"keywords": keyword_test_list})
         test_dataset = datasets.concatenate_datasets([test_dataset, data_keyword], axis=1)
@@ -121,21 +117,17 @@ def get_clip_embedding(dataSet, dataSlice, embedding='image_text', alternative='
         dataloader = torch.utils.data.DataLoader(test_dataset, 
                                                 batch_size=64,
                                                 collate_fn=mmmu_clip_preprocess_collate_fn)
-
-    print(f'num of data: {len(dataloader)}')
-
-    clip_features = []
-    with torch.no_grad():
-        for batch in tqdm(dataloader):
-            images = batch['image_1'].to('cuda')
-            texts = batch['text'].to('cuda')
-            image_features = model.encode_image(images).float()
-            text_features = model.encode_text(texts).float()
-
-            if embedding == 'image':
-                clip_features.append(image_features.cpu())
-            else:
-                clip_features.append((image_features.cpu()+text_features.cpu())/2)
+        clip_features = []
+        with torch.no_grad():
+            for batch in tqdm(dataloader):
+                images = batch['image'].to('cuda')
+                texts = batch['keywords'].to('cuda')
+                image_features = model.encode_image(images).float()
+                text_features = model.encode_text(texts).float()
+                if embedding == 'image':
+                    clip_features.append(image_features.cpu())
+                else:
+                    clip_features.append((image_features.cpu()+text_features.cpu())/2)
     clip_features_concat = torch.cat(clip_features, dim=0)
     if dataSet == 'mmmu':
         clip_embeddings_file = data_path / f'clip/mmmu{alternative}_{dir_name}_{embedding}_clip_embd_cold_start.pkl'

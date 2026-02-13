@@ -1,29 +1,23 @@
 from abc import abstractmethod
-import requests
 import os
 import io
 import pickle
 import base64
 import glob
-from typing import Dict, Union, Optional, overload
-from pathlib import Path
-
-from tqdm import tqdm
+from typing import Union, Optional
 import torch
 from torchvision import io
 from PIL import Image
 from transformers import Qwen2VLForConditionalGeneration, AutoTokenizer, AutoProcessor
-from qwen_vl_utils import process_vision_info
 from openai import OpenAI
-
-ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-
+from open_flamingo import create_model_and_transforms
+from huggingface_hub import hf_hub_download
 
 def load_pickle(file_path):
     with open(file_path, 'rb') as file:
         data = pickle.load(file)
         return data
-        
+
 
 def resize_image(image, max_size):
     """Resize the image to ensure it's below the max size in bytes."""
@@ -173,21 +167,7 @@ class OpenaiVLM(MuxVisionLanguageModel):
     def __call__(self, input_text: str, input_images: list[Union[str, Image.Image]], max_new_token=30, only_model_response=True):
         return self.forward(input_text, input_images, max_new_token, only_model_response)
     
-    def forward(self, input_text, input_images, max_new_token=30, only_model_response=True):
-        # parse input image into PIL image and then base64
-        # images = []
-        # if input_images is not None and len(input_images) > 0:
-        #     for i in range(len(input_images)):
-        #         if isinstance([i], str):  # if input is in base64 already
-        #             image = Image.open(input_images[i]).convert('RGB')
-        #         elif isinstance(input_images[i], Image.Image):  # if input is a PIL image
-        #             image = input_images[i].convert('RGB')
-        #         else:  # otherwise, assume it's a numpy array
-        #             image = Image.fromarray(input_images[i]).convert('RGB')
-
-        #         image = PIL_to_base64(image)
-        #         images.append(image)
-        
+    def forward(self, input_text, input_images, max_new_token=30, only_model_response=True):        
         completion = self.client.chat.completions.create(
             model=self.model_name,
             max_completion_tokens=max_new_token,
@@ -326,7 +306,7 @@ class QwenVLM(MuxVisionLanguageModel):
         torch.set_default_dtype(default_dtype)
         self.processor = AutoProcessor.from_pretrained(self.model_name, min_pixels=800*800, max_pixels=800*800) # qwen applied scaling to image inputs, setting the min and max to 800*800 to match our mosiac images dimension.
 
-    def __call__(self, input_text, input_images, max_new_token=30, only_model_response=True):  #TODO: need clean up
+    def __call__(self, input_text, input_images, max_new_token=30, only_model_response=True):
         return self.forward(input_text, input_images, max_new_token, only_model_response)
     
     def forward(self, input_text, input_images, max_new_token=30, only_model_response=True):
@@ -347,9 +327,8 @@ class QwenVLM(MuxVisionLanguageModel):
                     image = Image.fromarray(input_images[i]).convert('RGB')
 
                 images.append(image)
-        inputs = self.processor(text=prompts, images=images, padding=True, return_tensors="pt").to(self.device)  #TODO: images or input_images?
+        inputs = self.processor(text=prompts, images=images, padding=True, return_tensors="pt").to(self.device)
         temp_texts = self.tokenizer.batch_decode(inputs["input_ids"], skip_special_tokens=False)
-        # print(inputs)
         generate_ids = self.model.generate(**inputs, max_new_tokens=max_new_token)
         responses = self.processor.batch_decode(generate_ids, skip_special_tokens=False, clean_up_tokenization_spaces=False)
         if only_model_response:
@@ -440,5 +419,103 @@ class ModelMux():
         selected_model_idx = torch.multinomial(torch.tensor(self.probs), 1).item()
         return self.models[selected_model_idx]
 
+class OpenFlamingoVLM():
+    def __init__(self, model_name="anas-awadalla/mpt-7b", weight_name="openflamingo/OpenFlamingo-9B-vitl-mpt7b", layers=4):
+        # TODO: decide other parameters to set
+        self.model_name = model_name
+        self.weight_name = weight_name
+        default_dtype = torch.get_default_dtype() # trick to bypass the flash_attention_2 dtype warning
+        torch.set_default_dtype(torch.bfloat16)
+        self.model, self.image_processor, self.tokenizer = create_model_and_transforms(
+            clip_vision_encoder_path="ViT-L-14",
+            clip_vision_encoder_pretrained="openai",
+            lang_encoder_path=self.model_name,
+            tokenizer_path=self.model_name,
+            cross_attn_every_n_layers=layers #4 for 9b model
+        )
+        self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
+        torch.set_default_dtype(default_dtype)
+        checkpoint_path = hf_hub_download(self.weight_name, "checkpoint.pt")
+        self.model.load_state_dict(torch.load(checkpoint_path), strict=False)
+        self.model = self.model.to(torch.bfloat16).cuda()
     
+    def __call__(self, input_text, image_path, max_new_token=30, only_model_response=True):
+        return self.forward(input_text, image_path, max_new_token, only_model_response)
+    
+    def forward(self, input_text, input_images, max_new_token=30, only_model_response=True):
+        """
+        By default this returns the full model response and the section of the response that the model generated.
+        Optionally, you can set only_model_response to True to get just the generated section.
+        """
+        # process input
+        self.tokenizer.padding_side = "left" # For generation padding tokens should be on the left
+        lang_x = self.tokenizer(
+            [input_text],
+            return_tensors="pt",
+        )
+        images = []
+        if input_images is not None and len(input_images) > 0:
+            for i in range(len(input_images)):
+                if isinstance([i], str):
+                    image = Image.open(input_images[i]).convert('RGB')
+                elif isinstance(input_images[i], Image.Image):
+                    image = input_images[i].convert('RGB')
+                else:
+                    image = Image.fromarray(input_images[i]).convert('RGB')
 
+                images.append(image)
+        vision_x = [self.image_processor(img).unsqueeze(0) for img in images]
+        vision_x = torch.cat(vision_x, dim=0)
+        vision_x = vision_x.unsqueeze(1).unsqueeze(0)
+        temp_texts = self.tokenizer.batch_decode(lang_x["input_ids"], skip_special_tokens=False)
+        generated_text = self.model.generate(
+            vision_x=vision_x.to(torch.bfloat16).cuda(),
+            lang_x=lang_x["input_ids"].cuda(),
+            attention_mask=lang_x["attention_mask"].cuda(),
+            max_new_tokens=max_new_token,
+            num_beams=3
+        )
+        
+        if only_model_response:
+            input_token_len = lang_x['input_ids'].shape[1]
+            responses = self.tokenizer.batch_decode(generated_text[:, input_token_len:].cpu(), skip_special_tokens=True)
+            return responses
+        else:
+            responses = self.tokenizer.batch_decode(generated_text, skip_special_tokens=True)
+            return responses, [i[len(temp_texts[idx]):] for idx, i in enumerate(responses)]            
+    
+    def apply_single_image_prompt(self, input_text, image_path):
+        template_2 = """{task_prompt}The answer is"""
+        if '<image 1>' in input_text:
+            query_text = '<image>' + input_text.replace("<image 1>", "").replace("<LETTER CHOICE>", "LETTER CHOICE")
+        else:
+            query_text = '<image>' + input_text
+        prompt_2 = template_2.format(
+            task_prompt=query_text
+        )
+        conversation_1 = prompt_2
+        return " ".join(conversation_1.split())
+    
+    def apply_single_image_prompt_with_example(self, input_text, image_path, example_text_list, example_image_path_list):
+        template_1 = """{example_task_prompt}"""
+        example_template = []
+        for i in range(len(example_text_list)):
+            prompt_1 = template_1.format(
+                example_task_prompt=example_text_list[i].replace('\\n','').replace("<image 1>", "").replace("<LETTER CHOICE>", "LETTER CHOICE").replace("<NUMBER>", "NUMBER").replace("<TEXT>", "TEXT"),
+            )
+            example_template.append(prompt_1)
+        conversation_1 = ""
+        template_2 = """{task_prompt}The answer is"""
+        if '<image 1>' in input_text:
+            query_text = '<image>' + input_text.replace("<image 1>", "").replace("<LETTER CHOICE>", "LETTER CHOICE")
+        else:
+            query_text = '<image>' + input_text
+        prompt_2 = template_2.format(
+            task_prompt=query_text
+        )
+        for p in example_template:
+            conversation_1 = conversation_1 + "<image>" + p.strip() + "<|endofchunk|>"
+
+        conversation_1 += prompt_2
+        
+        return " ".join(conversation_1.split())

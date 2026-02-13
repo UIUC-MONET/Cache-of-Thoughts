@@ -5,67 +5,20 @@ from pathlib import Path
 import torch
 import pickle
 import json
-from PIL import Image
 from tqdm import tqdm
 import datasets
 from datasets import load_dataset
-from .clip_rag import CLIP_rag
-from .keyword_hashtag_rag import KeywordExtractor, KeywordEncoder
-from .vlm_rag import QwenVLM, OpenaiVLM, ModelMux
-from .data_utils import create_cold_start_dataset_from_preprocess
-from .mmmu_utils import construct_mmmu_prompt
-from .hnsw_rag import HNSW, DataRecord
 import ast
 import re
-import matplotlib.pyplot as plt
 
-ALPHA = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-ALPHA_DOT = [alpha + '.' for alpha in ALPHA]
+from utils.clip_rag import CLIP_rag
+from utils.keyword_hashtag_rag import KeywordExtractor
+from utils.vlm_rag import QwenVLM, OpenaiVLM, ModelMux
+from utils.data_utils import create_cold_start_dataset_from_preprocess
+from utils.mmmu_utils import construct_mmmu_prompt
+from utils.hnsw_rag import HNSW, DataRecord
+from utils.other_utils import show_hist, parse_option, load_image, concat_conversation_json
 
-def show_hist(hnsw, k_shot):
-    data = hnsw.history
-    fig, ax = plt.subplots()
-    ax.set_title(f"{int(len(data)/k_shot)} queries with top-{k_shot} retrieval")
-    ax.set_xlabel("Cache Entry")
-    ax.set_ylabel("Number of Hits")
-    ax.hist(data,bins=range(len(hnsw.data)))
-    ax.locator_params(axis='y', integer=True)
-    return fig, ax
-
-# parse option from gpt response
-def parse_option(response):
-    # the option is in between ** and **
-    splits = response.split('ANSWER:')
-    if len(splits) >= 2:
-        option = splits[1].strip()
-        for i in range(len(ALPHA_DOT)):
-            if ALPHA_DOT[i] in option:
-                option = ALPHA[i]
-                return option
-        for i in range(len(ALPHA)):
-            if ALPHA[i] in option:
-                option = ALPHA[i]
-                return option
-    else:
-        return None
-
-
-def load_image(img_ids, root_path):
-    if isinstance(img_ids, str):
-        img_ids = [img_ids]
-    images = []
-    image_paths = []
-    for img_id in img_ids:
-        image_path = os.path.join(root_path, img_id)
-        image = Image.open(image_path).convert('RGB')
-        images.append(image)
-        image_paths.append(image_path)
-        
-    return images, image_paths
-
-def concat_conversation_json(conversation):
-    out_str = 'Human: ' + conversation[0]['value'] + '\n' + 'Assistant: ' + conversation[1]['value'] + '\n'
-    return out_str
 
 def qwen(dataSet, dataSlice, model, trainer, cacheSet, cacheSlice, embedding='image', alternative='', filter='', query_embedding='image_response', k_shot=1, dynamic=True, p=0.5):
     # current time
@@ -89,9 +42,9 @@ def qwen(dataSet, dataSlice, model, trainer, cacheSet, cacheSlice, embedding='im
 
     cache_path = f'./results/Qwen_{model_name}_{dataSet}_{dataSlice}_{query_embedding}_{cacheSet}{alternative}_{cacheSlice}_{embedding}_{k_shot}_cache_{current_time}.pickle'
     fig_path = f'./results/Qwen_{model_name}_{dataSet}_{dataSlice}_{query_embedding}_{cacheSet}{alternative}_{cacheSlice}_{embedding}_{k_shot}_cache_frequency_{current_time}.png'
-    data_path = Path('../data/mmmu/')
+    data_path = Path('./data/mmmu/')
     result_write_path = f'./results/Qwen_{model_name}_{dataSet}_{dataSlice}_{cacheSet}_{cacheSlice}_{embedding}_results_{current_time}.jsonl'
-    dataDir = '../data'
+    dataDir = './data'
 
     if cacheSet == 'mmmu':
         if cacheSlice == 'val':

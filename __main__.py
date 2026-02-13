@@ -1,8 +1,8 @@
 # __main__.py
 import argparse
 import os
-from keyword_generation import dataset_gpt, dataset_gpt_eval, dataset_keyword_extract, async_gpt_utils
-from inference import flamingo, get_clip_embedding, qwen, qwen_hierachical
+from keywords import dataset_gpt, dataset_gpt_eval, dataset_keyword_extract, get_clip_embedding
+from inference import flamingo, qwen, qwen_hierachical, leverage
 
 def parse_args():
     # Create the argument parser
@@ -10,10 +10,10 @@ def parse_args():
 
     # Define arguments
     parser.add_argument(
-        "--key",
+        "--mode",
         type=str,
         required=True,
-        help="Your OpenAI Api Key",
+        help="Choose between prep, eval",
     )
     parser.add_argument(
         "--dataset",
@@ -27,36 +27,31 @@ def parse_args():
         required=True,
         help="dev, val",
     )
+    # GPT4-o responses preparation
     parser.add_argument(
-        "--gpteval",
+        "--gptresp",
         action="store_true",
-        help="Generate GPT-4o responses of your dataset-slice and evaluate GPT-4o accuracy",
+        help="Generate GPT-4o responses of your cache and evaluate GPT-4o accuracy",
     )
     parser.add_argument(
-        "--getembd",
+        "--gptembd",
         action="store_true",
-        help="Generate CLIP embeddings of your cacheset-slice",
+        help="Generate CLIP embeddings for responses of your cache",
     )
     parser.add_argument(
-        "--keyword",
+        "--gptkeyw",
         action="store_true",
-        help="Generate keywords from GPT-4o responses of your dataset-slice",
+        help="Generate keywords from GPT-4o responses of your cache",
     )
-    parser.add_argument(
-        "--hierachical",
-        action="store_true",
-        help="Use hierachical retrieval (only for caching mmmu dev data)",
-    )
+    # Other parameters
     parser.add_argument(
         "--model",
         type=str,
-        required=True,
         help="flamingo, qwen",
     )
     parser.add_argument(
         "--modelsize",
         type=str,
-        required=True,
         help="2B, 3B, 4B, 9B",
     )
     parser.add_argument(
@@ -68,6 +63,12 @@ def parse_args():
         "--cacheslice",
         type=str,
         help="dev, val",
+    )
+    parser.add_argument(
+        "--shot",
+        type=int,
+        default=1,
+        help="positive integer",
     )
     parser.add_argument(
         "--embedding",
@@ -87,17 +88,18 @@ def parse_args():
         default='',
         help="_baseline, _subfield (mmmu only), or emtpy string",
     )
+    # Flamingo only options
     parser.add_argument(
         "--cachesize",
         type=str,
         default='',
         help="_half or emtpy string",
     )
+    # Qwen only options
     parser.add_argument(
-        "--shot",
-        type=int,
-        default=2,
-        help="positive integer",
+        "--hierachical",
+        action="store_true",
+        help="Use hierachical retrieval (only for caching mmmu dev data)",
     )
     parser.add_argument(
         "--dynamic",
@@ -125,25 +127,27 @@ def parse_args():
     # Parse the arguments
     return parser.parse_args()
 
+def read_configuration():
+    # Ensure the file exists in the current directory
+    file_path = os.path.join(os.getcwd(), 'configurations')
+    if not os.path.exists(file_path):
+        raise FileNotFoundError(f"OpenAI API key file configurations not found in the current directory.")
+    
+    with open(file_path, "r") as file:
+        # Read the API key and remove any extra spaces/newlines
+        api_key = file.read().strip()
+    
+    return api_key
+
 def main():
     args = parse_args()
-    os.environ["OPENAI_API_KEY"] = args.key
     dataSet = args.dataset
     dataSlice = args.slice
-    gpt_eval = args.gpteval
-    get_embd = args.getembd
-    llama_keywords = args.keyword
-    model_name = args.model
-    model = args.modelsize
     embedding = args.embedding
     query_embedding = args.queryembedding
     alternative = args.alternative
     k_shot = args.shot
-    cache_size = args.cachesize
-    dynamic = args.dynamic
-    p = args.prob
-    trainer = args.teacher
-    filter = args.filter
+    
     if not args.cacheset:
         cacheSet = dataSet
     else:
@@ -155,20 +159,42 @@ def main():
             cacheSlice = 'val'
     else:
         cacheSlice = args.cacheslice
-    if gpt_eval:
-        dataset_gpt.dataset_gpt(dataSet, dataSlice)
-        dataset_gpt_eval.dataset_gpt_eval(dataSet, dataSlice)
-    if get_embd:
-        get_clip_embedding.get_clip_embedding(dataSet, dataSlice, embedding, alternative)
-    if llama_keywords:
-        dataset_keyword_extract.dataset_keyword_extract(dataSet, dataSlice)
-    if model_name == 'flamingo':
-        flamingo.flamingo(dataSet, dataSlice, model, cacheSet, cacheSlice, embedding, alternative, query_embedding, k_shot, cache_size)
-    elif model_name == 'qwen':
-        if args.hierachical:
-            qwen_hierachical.qwen_hierachical(model, embedding, alternative, query_embedding, k_shot, dynamic, p)
+    
+    if args.mode == 'prep':
+        if args.gptresp:
+            os.environ["OPENAI_API_KEY"] = read_configuration()
+            dataset_gpt.dataset_gpt(cacheSet, cacheSlice)
+            dataset_gpt_eval.dataset_gpt_eval(cacheSet, cacheSlice)
+        if args.gptembd:
+            get_clip_embedding.get_clip_embedding(cacheSet, cacheSlice, embedding, alternative)
+        if args.gptkeyw:
+            dataset_keyword_extract.dataset_keyword_extract(cacheSet, cacheSlice)
+    elif args.mode == 'eval':
+        if args.model is None or args.modelsize is None:
+            print("--model and --modelsize are required for evaluation mode.")
+            return
         else:
-            qwen.qwen(dataSet, dataSlice, model, trainer, cacheSet, cacheSlice, embedding, alternative, filter, query_embedding, k_shot, dynamic, p)
+            model_name = args.model
+            model = args.modelsize
+        if model_name == 'flamingo':
+            cache_size = args.cachesize
+            flamingo.flamingo(dataSet, dataSlice, model, cacheSet, cacheSlice, embedding, alternative, query_embedding, k_shot, cache_size)
+        elif model_name == 'qwen':
+            dynamic = args.dynamic
+            p = args.prob
+            trainer = args.teacher
+            if trainer=='gpt-4o':
+                os.environ["OPENAI_API_KEY"] = read_configuration()
+            filter = args.filter
+            if args.hierachical:
+                if dataSet == 'mmmu':
+                    qwen_hierachical.qwen_hierachical(model, embedding, alternative, query_embedding, k_shot, dynamic, p)
+                else:
+                    print("Sorry, hierachical retrieval is only for mmmu dataset.")
+            else:
+                qwen.qwen(dataSet, dataSlice, model, trainer, cacheSet, cacheSlice, embedding, alternative, filter, query_embedding, k_shot, dynamic, p)
+            if dataSet == 'mmmu':
+                leverage.leverage(dataSet, dataSlice, cacheSet, cacheSlice, model)
 
 if __name__ == "__main__":
     main()
