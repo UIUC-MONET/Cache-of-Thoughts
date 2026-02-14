@@ -1,0 +1,1602 @@
+[
+    {
+        "id": "clevr_query_CLEVR_val_000649",
+        "image": [
+            "clevr/query/CLEVR_val_000649.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_000591",
+        "image": [
+            "clevr/query/CLEVR_val_000591.png"
+        ],
+        "question": "color: blue",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_009612",
+        "image": [
+            "clevr/query/CLEVR_val_009612.png"
+        ],
+        "question": "material: metal",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_001006",
+        "image": [
+            "clevr/query/CLEVR_val_001006.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_006048",
+        "image": [
+            "clevr/query/CLEVR_val_006048.png"
+        ],
+        "question": "material: metal",
+        "answer": 5
+    },
+    {
+        "id": "clevr_query_CLEVR_val_013325",
+        "image": [
+            "clevr/query/CLEVR_val_013325.png"
+        ],
+        "question": "material: metal",
+        "answer": 5
+    },
+    {
+        "id": "clevr_query_CLEVR_val_005301",
+        "image": [
+            "clevr/query/CLEVR_val_005301.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_004549",
+        "image": [
+            "clevr/query/CLEVR_val_004549.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_006515",
+        "image": [
+            "clevr/query/CLEVR_val_006515.png"
+        ],
+        "question": "color: brown",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_006458",
+        "image": [
+            "clevr/query/CLEVR_val_006458.png"
+        ],
+        "question": "color: green",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_004619",
+        "image": [
+            "clevr/query/CLEVR_val_004619.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_009016",
+        "image": [
+            "clevr/query/CLEVR_val_009016.png"
+        ],
+        "question": "size: large",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_000433",
+        "image": [
+            "clevr/query/CLEVR_val_000433.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_006903",
+        "image": [
+            "clevr/query/CLEVR_val_006903.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_012800",
+        "image": [
+            "clevr/query/CLEVR_val_012800.png"
+        ],
+        "question": "color: purple",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_004164",
+        "image": [
+            "clevr/query/CLEVR_val_004164.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_008886",
+        "image": [
+            "clevr/query/CLEVR_val_008886.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_013203",
+        "image": [
+            "clevr/query/CLEVR_val_013203.png"
+        ],
+        "question": "color: red",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_012093",
+        "image": [
+            "clevr/query/CLEVR_val_012093.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_010563",
+        "image": [
+            "clevr/query/CLEVR_val_010563.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_000216",
+        "image": [
+            "clevr/query/CLEVR_val_000216.png"
+        ],
+        "question": "color: green",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_011604",
+        "image": [
+            "clevr/query/CLEVR_val_011604.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_003377",
+        "image": [
+            "clevr/query/CLEVR_val_003377.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_011366",
+        "image": [
+            "clevr/query/CLEVR_val_011366.png"
+        ],
+        "question": "color: purple",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_002093",
+        "image": [
+            "clevr/query/CLEVR_val_002093.png"
+        ],
+        "question": "color: purple",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_013699",
+        "image": [
+            "clevr/query/CLEVR_val_013699.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_006748",
+        "image": [
+            "clevr/query/CLEVR_val_006748.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_000680",
+        "image": [
+            "clevr/query/CLEVR_val_000680.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_009172",
+        "image": [
+            "clevr/query/CLEVR_val_009172.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_005767",
+        "image": [
+            "clevr/query/CLEVR_val_005767.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_003739",
+        "image": [
+            "clevr/query/CLEVR_val_003739.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_000453",
+        "image": [
+            "clevr/query/CLEVR_val_000453.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_004406",
+        "image": [
+            "clevr/query/CLEVR_val_004406.png"
+        ],
+        "question": "color: brown",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_005020",
+        "image": [
+            "clevr/query/CLEVR_val_005020.png"
+        ],
+        "question": "color: green",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_014148",
+        "image": [
+            "clevr/query/CLEVR_val_014148.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_004402",
+        "image": [
+            "clevr/query/CLEVR_val_004402.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_008087",
+        "image": [
+            "clevr/query/CLEVR_val_008087.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_011711",
+        "image": [
+            "clevr/query/CLEVR_val_011711.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_013255",
+        "image": [
+            "clevr/query/CLEVR_val_013255.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_003843",
+        "image": [
+            "clevr/query/CLEVR_val_003843.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_013871",
+        "image": [
+            "clevr/query/CLEVR_val_013871.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_013572",
+        "image": [
+            "clevr/query/CLEVR_val_013572.png"
+        ],
+        "question": "size: large",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_005180",
+        "image": [
+            "clevr/query/CLEVR_val_005180.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_014771",
+        "image": [
+            "clevr/query/CLEVR_val_014771.png"
+        ],
+        "question": "size: large",
+        "answer": 9
+    },
+    {
+        "id": "clevr_query_CLEVR_val_012121",
+        "image": [
+            "clevr/query/CLEVR_val_012121.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_005467",
+        "image": [
+            "clevr/query/CLEVR_val_005467.png"
+        ],
+        "question": "material: metal",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_007009",
+        "image": [
+            "clevr/query/CLEVR_val_007009.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_002667",
+        "image": [
+            "clevr/query/CLEVR_val_002667.png"
+        ],
+        "question": "color: brown",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_012132",
+        "image": [
+            "clevr/query/CLEVR_val_012132.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_009804",
+        "image": [
+            "clevr/query/CLEVR_val_009804.png"
+        ],
+        "question": "size: large",
+        "answer": 6
+    },
+    {
+        "id": "clevr_query_CLEVR_val_012596",
+        "image": [
+            "clevr/query/CLEVR_val_012596.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_query_CLEVR_val_012623",
+        "image": [
+            "clevr/query/CLEVR_val_012623.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_002314",
+        "image": [
+            "clevr/query/CLEVR_val_002314.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_001211",
+        "image": [
+            "clevr/query/CLEVR_val_001211.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_004613",
+        "image": [
+            "clevr/query/CLEVR_val_004613.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_006208",
+        "image": [
+            "clevr/query/CLEVR_val_006208.png"
+        ],
+        "question": "material: metal",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_004095",
+        "image": [
+            "clevr/query/CLEVR_val_004095.png"
+        ],
+        "question": "shape: cube",
+        "answer": 5
+    },
+    {
+        "id": "clevr_query_CLEVR_val_007564",
+        "image": [
+            "clevr/query/CLEVR_val_007564.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_013868",
+        "image": [
+            "clevr/query/CLEVR_val_013868.png"
+        ],
+        "question": "shape: cube",
+        "answer": 5
+    },
+    {
+        "id": "clevr_query_CLEVR_val_009687",
+        "image": [
+            "clevr/query/CLEVR_val_009687.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_007405",
+        "image": [
+            "clevr/query/CLEVR_val_007405.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_013917",
+        "image": [
+            "clevr/query/CLEVR_val_013917.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_001249",
+        "image": [
+            "clevr/query/CLEVR_val_001249.png"
+        ],
+        "question": "color: gray",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_009737",
+        "image": [
+            "clevr/query/CLEVR_val_009737.png"
+        ],
+        "question": "size: large",
+        "answer": 5
+    },
+    {
+        "id": "clevr_query_CLEVR_val_004132",
+        "image": [
+            "clevr/query/CLEVR_val_004132.png"
+        ],
+        "question": "size: small",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_011267",
+        "image": [
+            "clevr/query/CLEVR_val_011267.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_009503",
+        "image": [
+            "clevr/query/CLEVR_val_009503.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_002883",
+        "image": [
+            "clevr/query/CLEVR_val_002883.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_007653",
+        "image": [
+            "clevr/query/CLEVR_val_007653.png"
+        ],
+        "question": "material: metal",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_008057",
+        "image": [
+            "clevr/query/CLEVR_val_008057.png"
+        ],
+        "question": "material: metal",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_007644",
+        "image": [
+            "clevr/query/CLEVR_val_007644.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_014884",
+        "image": [
+            "clevr/query/CLEVR_val_014884.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_011226",
+        "image": [
+            "clevr/query/CLEVR_val_011226.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_000439",
+        "image": [
+            "clevr/query/CLEVR_val_000439.png"
+        ],
+        "question": "size: large",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_008223",
+        "image": [
+            "clevr/query/CLEVR_val_008223.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_009019",
+        "image": [
+            "clevr/query/CLEVR_val_009019.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_000389",
+        "image": [
+            "clevr/query/CLEVR_val_000389.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_006002",
+        "image": [
+            "clevr/query/CLEVR_val_006002.png"
+        ],
+        "question": "material: metal",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_001436",
+        "image": [
+            "clevr/query/CLEVR_val_001436.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_000071",
+        "image": [
+            "clevr/query/CLEVR_val_000071.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_006365",
+        "image": [
+            "clevr/query/CLEVR_val_006365.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_006419",
+        "image": [
+            "clevr/query/CLEVR_val_006419.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_008396",
+        "image": [
+            "clevr/query/CLEVR_val_008396.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 5
+    },
+    {
+        "id": "clevr_query_CLEVR_val_002994",
+        "image": [
+            "clevr/query/CLEVR_val_002994.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_009327",
+        "image": [
+            "clevr/query/CLEVR_val_009327.png"
+        ],
+        "question": "color: green",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_010933",
+        "image": [
+            "clevr/query/CLEVR_val_010933.png"
+        ],
+        "question": "size: large",
+        "answer": 5
+    },
+    {
+        "id": "clevr_query_CLEVR_val_002923",
+        "image": [
+            "clevr/query/CLEVR_val_002923.png"
+        ],
+        "question": "size: large",
+        "answer": 5
+    },
+    {
+        "id": "clevr_query_CLEVR_val_003875",
+        "image": [
+            "clevr/query/CLEVR_val_003875.png"
+        ],
+        "question": "material: metal",
+        "answer": 6
+    },
+    {
+        "id": "clevr_query_CLEVR_val_012067",
+        "image": [
+            "clevr/query/CLEVR_val_012067.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_012442",
+        "image": [
+            "clevr/query/CLEVR_val_012442.png"
+        ],
+        "question": "color: cyan",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_013144",
+        "image": [
+            "clevr/query/CLEVR_val_013144.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_007001",
+        "image": [
+            "clevr/query/CLEVR_val_007001.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_007274",
+        "image": [
+            "clevr/query/CLEVR_val_007274.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_005543",
+        "image": [
+            "clevr/query/CLEVR_val_005543.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_004127",
+        "image": [
+            "clevr/query/CLEVR_val_004127.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_000268",
+        "image": [
+            "clevr/query/CLEVR_val_000268.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_012361",
+        "image": [
+            "clevr/query/CLEVR_val_012361.png"
+        ],
+        "question": "material: rubber",
+        "answer": 7
+    },
+    {
+        "id": "clevr_query_CLEVR_val_006989",
+        "image": [
+            "clevr/query/CLEVR_val_006989.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_008882",
+        "image": [
+            "clevr/query/CLEVR_val_008882.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_003409",
+        "image": [
+            "clevr/query/CLEVR_val_003409.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_005101",
+        "image": [
+            "clevr/query/CLEVR_val_005101.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_011093",
+        "image": [
+            "clevr/query/CLEVR_val_011093.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_012739",
+        "image": [
+            "clevr/query/CLEVR_val_012739.png"
+        ],
+        "question": "color: purple",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_004944",
+        "image": [
+            "clevr/query/CLEVR_val_004944.png"
+        ],
+        "question": "size: large",
+        "answer": 6
+    },
+    {
+        "id": "clevr_query_CLEVR_val_006105",
+        "image": [
+            "clevr/query/CLEVR_val_006105.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_006584",
+        "image": [
+            "clevr/query/CLEVR_val_006584.png"
+        ],
+        "question": "color: cyan",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_013930",
+        "image": [
+            "clevr/query/CLEVR_val_013930.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_014726",
+        "image": [
+            "clevr/query/CLEVR_val_014726.png"
+        ],
+        "question": "size: large",
+        "answer": 5
+    },
+    {
+        "id": "clevr_query_CLEVR_val_009935",
+        "image": [
+            "clevr/query/CLEVR_val_009935.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_012357",
+        "image": [
+            "clevr/query/CLEVR_val_012357.png"
+        ],
+        "question": "size: large",
+        "answer": 5
+    },
+    {
+        "id": "clevr_query_CLEVR_val_007862",
+        "image": [
+            "clevr/query/CLEVR_val_007862.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_007668",
+        "image": [
+            "clevr/query/CLEVR_val_007668.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_000242",
+        "image": [
+            "clevr/query/CLEVR_val_000242.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_003585",
+        "image": [
+            "clevr/query/CLEVR_val_003585.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_002105",
+        "image": [
+            "clevr/query/CLEVR_val_002105.png"
+        ],
+        "question": "color: brown",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_014340",
+        "image": [
+            "clevr/query/CLEVR_val_014340.png"
+        ],
+        "question": "size: large",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_004618",
+        "image": [
+            "clevr/query/CLEVR_val_004618.png"
+        ],
+        "question": "material: rubber",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_012139",
+        "image": [
+            "clevr/query/CLEVR_val_012139.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_007905",
+        "image": [
+            "clevr/query/CLEVR_val_007905.png"
+        ],
+        "question": "color: red",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_011502",
+        "image": [
+            "clevr/query/CLEVR_val_011502.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_004414",
+        "image": [
+            "clevr/query/CLEVR_val_004414.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_002520",
+        "image": [
+            "clevr/query/CLEVR_val_002520.png"
+        ],
+        "question": "color: blue",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_007418",
+        "image": [
+            "clevr/query/CLEVR_val_007418.png"
+        ],
+        "question": "shape: cube",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_006688",
+        "image": [
+            "clevr/query/CLEVR_val_006688.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_005295",
+        "image": [
+            "clevr/query/CLEVR_val_005295.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_005597",
+        "image": [
+            "clevr/query/CLEVR_val_005597.png"
+        ],
+        "question": "color: brown",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_001779",
+        "image": [
+            "clevr/query/CLEVR_val_001779.png"
+        ],
+        "question": "color: red",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_011700",
+        "image": [
+            "clevr/query/CLEVR_val_011700.png"
+        ],
+        "question": "material: rubber",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_003070",
+        "image": [
+            "clevr/query/CLEVR_val_003070.png"
+        ],
+        "question": "shape: cube",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_012402",
+        "image": [
+            "clevr/query/CLEVR_val_012402.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_004845",
+        "image": [
+            "clevr/query/CLEVR_val_004845.png"
+        ],
+        "question": "color: gray",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_002024",
+        "image": [
+            "clevr/query/CLEVR_val_002024.png"
+        ],
+        "question": "color: red",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_011372",
+        "image": [
+            "clevr/query/CLEVR_val_011372.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_013482",
+        "image": [
+            "clevr/query/CLEVR_val_013482.png"
+        ],
+        "question": "color: gray",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_005326",
+        "image": [
+            "clevr/query/CLEVR_val_005326.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_000106",
+        "image": [
+            "clevr/query/CLEVR_val_000106.png"
+        ],
+        "question": "color: gray",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_001289",
+        "image": [
+            "clevr/query/CLEVR_val_001289.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_006575",
+        "image": [
+            "clevr/query/CLEVR_val_006575.png"
+        ],
+        "question": "size: large",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_004151",
+        "image": [
+            "clevr/query/CLEVR_val_004151.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_query_CLEVR_val_011500",
+        "image": [
+            "clevr/query/CLEVR_val_011500.png"
+        ],
+        "question": "color: gray",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_011230",
+        "image": [
+            "clevr/query/CLEVR_val_011230.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_014640",
+        "image": [
+            "clevr/query/CLEVR_val_014640.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_006717",
+        "image": [
+            "clevr/query/CLEVR_val_006717.png"
+        ],
+        "question": "size: large",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_012625",
+        "image": [
+            "clevr/query/CLEVR_val_012625.png"
+        ],
+        "question": "size: large",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_003803",
+        "image": [
+            "clevr/query/CLEVR_val_003803.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_012377",
+        "image": [
+            "clevr/query/CLEVR_val_012377.png"
+        ],
+        "question": "material: rubber",
+        "answer": 5
+    },
+    {
+        "id": "clevr_query_CLEVR_val_014701",
+        "image": [
+            "clevr/query/CLEVR_val_014701.png"
+        ],
+        "question": "color: yellow",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_014272",
+        "image": [
+            "clevr/query/CLEVR_val_014272.png"
+        ],
+        "question": "material: metal",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_014995",
+        "image": [
+            "clevr/query/CLEVR_val_014995.png"
+        ],
+        "question": "material: metal",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_010192",
+        "image": [
+            "clevr/query/CLEVR_val_010192.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_008649",
+        "image": [
+            "clevr/query/CLEVR_val_008649.png"
+        ],
+        "question": "material: rubber",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_005551",
+        "image": [
+            "clevr/query/CLEVR_val_005551.png"
+        ],
+        "question": "color: red",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_011574",
+        "image": [
+            "clevr/query/CLEVR_val_011574.png"
+        ],
+        "question": "shape: cube",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_012270",
+        "image": [
+            "clevr/query/CLEVR_val_012270.png"
+        ],
+        "question": "color: green",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_002396",
+        "image": [
+            "clevr/query/CLEVR_val_002396.png"
+        ],
+        "question": "color: blue",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_004395",
+        "image": [
+            "clevr/query/CLEVR_val_004395.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_006172",
+        "image": [
+            "clevr/query/CLEVR_val_006172.png"
+        ],
+        "question": "material: rubber",
+        "answer": 6
+    },
+    {
+        "id": "clevr_query_CLEVR_val_000681",
+        "image": [
+            "clevr/query/CLEVR_val_000681.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_001151",
+        "image": [
+            "clevr/query/CLEVR_val_001151.png"
+        ],
+        "question": "color: gray",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_004966",
+        "image": [
+            "clevr/query/CLEVR_val_004966.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_003905",
+        "image": [
+            "clevr/query/CLEVR_val_003905.png"
+        ],
+        "question": "color: gray",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_013294",
+        "image": [
+            "clevr/query/CLEVR_val_013294.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_000329",
+        "image": [
+            "clevr/query/CLEVR_val_000329.png"
+        ],
+        "question": "color: red",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_000722",
+        "image": [
+            "clevr/query/CLEVR_val_000722.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_010326",
+        "image": [
+            "clevr/query/CLEVR_val_010326.png"
+        ],
+        "question": "material: metal",
+        "answer": 5
+    },
+    {
+        "id": "clevr_query_CLEVR_val_012675",
+        "image": [
+            "clevr/query/CLEVR_val_012675.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_001268",
+        "image": [
+            "clevr/query/CLEVR_val_001268.png"
+        ],
+        "question": "color: brown",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_003104",
+        "image": [
+            "clevr/query/CLEVR_val_003104.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_002143",
+        "image": [
+            "clevr/query/CLEVR_val_002143.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_004763",
+        "image": [
+            "clevr/query/CLEVR_val_004763.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_008606",
+        "image": [
+            "clevr/query/CLEVR_val_008606.png"
+        ],
+        "question": "size: small",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_008326",
+        "image": [
+            "clevr/query/CLEVR_val_008326.png"
+        ],
+        "question": "size: small",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_014229",
+        "image": [
+            "clevr/query/CLEVR_val_014229.png"
+        ],
+        "question": "material: rubber",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_014058",
+        "image": [
+            "clevr/query/CLEVR_val_014058.png"
+        ],
+        "question": "color: red",
+        "answer": 4
+    },
+    {
+        "id": "clevr_query_CLEVR_val_001607",
+        "image": [
+            "clevr/query/CLEVR_val_001607.png"
+        ],
+        "question": "color: cyan",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_006125",
+        "image": [
+            "clevr/query/CLEVR_val_006125.png"
+        ],
+        "question": "size: small",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_004907",
+        "image": [
+            "clevr/query/CLEVR_val_004907.png"
+        ],
+        "question": "size: large",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_007358",
+        "image": [
+            "clevr/query/CLEVR_val_007358.png"
+        ],
+        "question": "size: small",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_000901",
+        "image": [
+            "clevr/query/CLEVR_val_000901.png"
+        ],
+        "question": "color: yellow",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_005479",
+        "image": [
+            "clevr/query/CLEVR_val_005479.png"
+        ],
+        "question": "color: green",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_005393",
+        "image": [
+            "clevr/query/CLEVR_val_005393.png"
+        ],
+        "question": "material: metal",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_000137",
+        "image": [
+            "clevr/query/CLEVR_val_000137.png"
+        ],
+        "question": "color: blue",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_002475",
+        "image": [
+            "clevr/query/CLEVR_val_002475.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_006777",
+        "image": [
+            "clevr/query/CLEVR_val_006777.png"
+        ],
+        "question": "color: red",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_002575",
+        "image": [
+            "clevr/query/CLEVR_val_002575.png"
+        ],
+        "question": "color: purple",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_014482",
+        "image": [
+            "clevr/query/CLEVR_val_014482.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_000278",
+        "image": [
+            "clevr/query/CLEVR_val_000278.png"
+        ],
+        "question": "shape: sphere",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_001937",
+        "image": [
+            "clevr/query/CLEVR_val_001937.png"
+        ],
+        "question": "material: metal",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_012043",
+        "image": [
+            "clevr/query/CLEVR_val_012043.png"
+        ],
+        "question": "material: metal",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_003581",
+        "image": [
+            "clevr/query/CLEVR_val_003581.png"
+        ],
+        "question": "color: cyan",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_002804",
+        "image": [
+            "clevr/query/CLEVR_val_002804.png"
+        ],
+        "question": "size: small",
+        "answer": 3
+    },
+    {
+        "id": "clevr_query_CLEVR_val_014503",
+        "image": [
+            "clevr/query/CLEVR_val_014503.png"
+        ],
+        "question": "size: small",
+        "answer": 5
+    },
+    {
+        "id": "clevr_query_CLEVR_val_003457",
+        "image": [
+            "clevr/query/CLEVR_val_003457.png"
+        ],
+        "question": "color: brown",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_007953",
+        "image": [
+            "clevr/query/CLEVR_val_007953.png"
+        ],
+        "question": "shape: cylinder",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_014517",
+        "image": [
+            "clevr/query/CLEVR_val_014517.png"
+        ],
+        "question": "size: small",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_014432",
+        "image": [
+            "clevr/query/CLEVR_val_014432.png"
+        ],
+        "question": "color: gray",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_002005",
+        "image": [
+            "clevr/query/CLEVR_val_002005.png"
+        ],
+        "question": "material: metal",
+        "answer": 1
+    },
+    {
+        "id": "clevr_query_CLEVR_val_000696",
+        "image": [
+            "clevr/query/CLEVR_val_000696.png"
+        ],
+        "question": "shape: cube",
+        "answer": 2
+    },
+    {
+        "id": "clevr_query_CLEVR_val_007789",
+        "image": [
+            "clevr/query/CLEVR_val_007789.png"
+        ],
+        "question": "size: large",
+        "answer": 7
+    },
+    {
+        "id": "clevr_query_CLEVR_val_006965",
+        "image": [
+            "clevr/query/CLEVR_val_006965.png"
+        ],
+        "question": "size: large",
+        "answer": 1
+    }
+]

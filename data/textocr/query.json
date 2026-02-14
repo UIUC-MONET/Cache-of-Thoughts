@@ -1,0 +1,6234 @@
+[
+    {
+        "id": "textocr_query_c01928d2bc823bae_1",
+        "image": [
+            "textocr/query/c01928d2bc823bae_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "M",
+        "img_id": "c01928d2bc823bae",
+        "width": 4608,
+        "height": 3456,
+        "ann_id": "c01928d2bc823bae_1",
+        "box": [
+            169.26,
+            2501.55,
+            662.7,
+            726.32
+        ],
+        "points": [
+            169.26,
+            2506.85,
+            826.66,
+            2501.55,
+            831.96,
+            3227.87,
+            171.91,
+            3225.22
+        ],
+        "area": 481332.26
+    },
+    {
+        "id": "textocr_query_f0e6dfb568f72c1a_1",
+        "image": [
+            "textocr/query/f0e6dfb568f72c1a_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "PINCHIN",
+        "img_id": "f0e6dfb568f72c1a",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "f0e6dfb568f72c1a_1",
+        "box": [
+            161.41,
+            108.39,
+            651.51,
+            658.58
+        ],
+        "points": [
+            255.66,
+            108.39,
+            487.75,
+            361.69,
+            812.92,
+            682.14,
+            702.17,
+            766.97,
+            364.05,
+            488.93,
+            161.41,
+            205.0
+        ],
+        "area": 429071.46
+    },
+    {
+        "id": "textocr_query_6c9563d142084343_3",
+        "image": [
+            "textocr/query/6c9563d142084343_3.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "FAJiTA",
+        "img_id": "6c9563d142084343",
+        "width": 1024,
+        "height": 770,
+        "ann_id": "6c9563d142084343_3",
+        "box": [
+            81.5,
+            134.66,
+            928.43,
+            381.53
+        ],
+        "points": [
+            127.57,
+            134.66,
+            935.52,
+            145.29,
+            1009.93,
+            510.28,
+            81.5,
+            516.19
+        ],
+        "area": 354223.9
+    },
+    {
+        "id": "textocr_query_c67eab03428d7ec7_2",
+        "image": [
+            "textocr/query/c67eab03428d7ec7_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "bAO",
+        "img_id": "c67eab03428d7ec7",
+        "width": 878,
+        "height": 1024,
+        "ann_id": "c67eab03428d7ec7_2",
+        "box": [
+            60.82,
+            302.24,
+            810.72,
+            432.15
+        ],
+        "points": [
+            60.82,
+            307.0,
+            870.35,
+            302.24,
+            871.54,
+            734.39,
+            64.39,
+            734.39
+        ],
+        "area": 350352.65
+    },
+    {
+        "id": "textocr_query_19a814bbda03f496_1",
+        "image": [
+            "textocr/query/19a814bbda03f496_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "LIBERTY",
+        "img_id": "19a814bbda03f496",
+        "width": 768,
+        "height": 768,
+        "ann_id": "19a814bbda03f496_1",
+        "box": [
+            25.11,
+            28.07,
+            725.35,
+            474.2
+        ],
+        "points": [
+            57.61,
+            502.27,
+            25.11,
+            366.37,
+            62.05,
+            205.34,
+            193.52,
+            81.25,
+            361.93,
+            28.07,
+            571.71,
+            66.48,
+            720.91,
+            245.23,
+            750.46,
+            446.14,
+            722.39,
+            499.32,
+            639.66,
+            463.87,
+            650.0,
+            428.41,
+            629.32,
+            265.91,
+            522.96,
+            158.07,
+            400.34,
+            115.23,
+            236.36,
+            166.93,
+            166.93,
+            258.52,
+            118.18,
+            379.66,
+            130.0,
+            497.84
+        ],
+        "area": 343960.97
+    },
+    {
+        "id": "textocr_query_c4517f4b4031d2d8_2",
+        "image": [
+            "textocr/query/c4517f4b4031d2d8_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "BAS",
+        "img_id": "c4517f4b4031d2d8",
+        "width": 698,
+        "height": 1024,
+        "ann_id": "c4517f4b4031d2d8_2",
+        "box": [
+            20.91,
+            81.91,
+            614.2,
+            557.65
+        ],
+        "points": [
+            115.16,
+            81.91,
+            633.54,
+            158.88,
+            635.11,
+            639.56,
+            20.91,
+            372.52
+        ],
+        "area": 342508.63
+    },
+    {
+        "id": "textocr_query_8e767faa989e366d_1",
+        "image": [
+            "textocr/query/8e767faa989e366d_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "LOnE",
+        "img_id": "8e767faa989e366d",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "8e767faa989e366d_1",
+        "box": [
+            202.88,
+            159.55,
+            648.03,
+            525.91
+        ],
+        "points": [
+            301.36,
+            159.55,
+            850.91,
+            449.09,
+            738.64,
+            685.46,
+            202.88,
+            388.03
+        ],
+        "area": 340805.46
+    },
+    {
+        "id": "textocr_query_c8ea6575a851bb9b_5",
+        "image": [
+            "textocr/query/c8ea6575a851bb9b_5.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "NESCAU",
+        "img_id": "c8ea6575a851bb9b",
+        "width": 768,
+        "height": 1024,
+        "ann_id": "c8ea6575a851bb9b_5",
+        "box": [
+            105.65,
+            147.27,
+            445.73,
+            734.23
+        ],
+        "points": [
+            105.65,
+            508.54,
+            504.6,
+            147.27,
+            551.38,
+            301.91,
+            135.54,
+            881.5
+        ],
+        "area": 327268.34
+    },
+    {
+        "id": "textocr_query_c7368efc7e8eb09d_2",
+        "image": [
+            "textocr/query/c7368efc7e8eb09d_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Emirates",
+        "img_id": "c7368efc7e8eb09d",
+        "width": 4320,
+        "height": 3240,
+        "ann_id": "c7368efc7e8eb09d_2",
+        "box": [
+            1368.51,
+            638.69,
+            1386.92,
+            231.79
+        ],
+        "points": [
+            1368.51,
+            659.76,
+            2747.76,
+            638.69,
+            2755.43,
+            845.58,
+            1378.09,
+            870.48
+        ],
+        "area": 321474.19
+    },
+    {
+        "id": "textocr_query_0cdeebede5b0ae90_2",
+        "image": [
+            "textocr/query/0cdeebede5b0ae90_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "REVENGE",
+        "img_id": "0cdeebede5b0ae90",
+        "width": 829,
+        "height": 1024,
+        "ann_id": "0cdeebede5b0ae90_2",
+        "box": [
+            2.48,
+            638.84,
+            825.31,
+            382.13
+        ],
+        "points": [
+            2.48,
+            715.66,
+            825.82,
+            638.84,
+            827.79,
+            1020.97,
+            2.48,
+            1019.0
+        ],
+        "area": 315375.71
+    },
+    {
+        "id": "textocr_query_6d263d97108b6a0a_4",
+        "image": [
+            "textocr/query/6d263d97108b6a0a_4.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "OONTZ",
+        "img_id": "6d263d97108b6a0a",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "6d263d97108b6a0a_4",
+        "box": [
+            44.32,
+            45.8,
+            437.27,
+            720.91
+        ],
+        "points": [
+            468.3,
+            134.43,
+            481.59,
+            760.8,
+            44.32,
+            766.71,
+            54.66,
+            45.8
+        ],
+        "area": 315232.32
+    },
+    {
+        "id": "textocr_query_539696316f411b7f_8",
+        "image": [
+            "textocr/query/539696316f411b7f_8.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Epic",
+        "img_id": "539696316f411b7f",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "539696316f411b7f_8",
+        "box": [
+            11.84,
+            314.02,
+            531.42,
+            552.32
+        ],
+        "points": [
+            11.84,
+            396.12,
+            526.84,
+            314.02,
+            543.26,
+            729.01,
+            23.78,
+            866.34
+        ],
+        "area": 293513.89
+    },
+    {
+        "id": "textocr_query_10165e8bac12b804_2",
+        "image": [
+            "textocr/query/10165e8bac12b804_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "NANJING",
+        "img_id": "10165e8bac12b804",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "10165e8bac12b804_2",
+        "box": [
+            27.32,
+            89.39,
+            984.85,
+            295.46
+        ],
+        "points": [
+            27.32,
+            89.39,
+            1004.29,
+            162.27,
+            1012.17,
+            384.85,
+            27.32,
+            296.21
+        ],
+        "area": 290983.78
+    },
+    {
+        "id": "textocr_query_49c457e66152a436_2",
+        "image": [
+            "textocr/query/49c457e66152a436_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "CONSTABULARY",
+        "img_id": "49c457e66152a436",
+        "width": 1024,
+        "height": 948,
+        "ann_id": "49c457e66152a436_2",
+        "box": [
+            541.58,
+            74.76,
+            393.88,
+            736.7
+        ],
+        "points": [
+            550.7,
+            74.76,
+            691.11,
+            102.12,
+            771.35,
+            156.82,
+            820.58,
+            196.94,
+            878.93,
+            260.76,
+            913.58,
+            341.0,
+            933.64,
+            417.58,
+            935.46,
+            517.88,
+            922.7,
+            590.82,
+            888.05,
+            681.99,
+            853.41,
+            731.23,
+            796.88,
+            784.11,
+            751.29,
+            811.46,
+            681.99,
+            738.52,
+            727.58,
+            716.64,
+            754.94,
+            681.99,
+            800.52,
+            620.0,
+            829.7,
+            548.88,
+            835.17,
+            494.17,
+            840.64,
+            432.17,
+            811.46,
+            373.82,
+            785.93,
+            300.88,
+            753.11,
+            264.41,
+            702.05,
+            226.12,
+            641.88,
+            193.29,
+            541.58,
+            184.18
+        ],
+        "area": 290171.4
+    },
+    {
+        "id": "textocr_query_83c61580bf4907f8_1",
+        "image": [
+            "textocr/query/83c61580bf4907f8_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "MUC",
+        "img_id": "83c61580bf4907f8",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "83c61580bf4907f8_1",
+        "box": [
+            88.73,
+            155.96,
+            656.22,
+            432.47
+        ],
+        "points": [
+            88.73,
+            155.96,
+            743.28,
+            160.97,
+            744.95,
+            588.43,
+            88.73,
+            588.43
+        ],
+        "area": 283795.46
+    },
+    {
+        "id": "textocr_query_0be9be6930537bf8_1",
+        "image": [
+            "textocr/query/0be9be6930537bf8_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "xxxx",
+        "img_id": "0be9be6930537bf8",
+        "width": 1024,
+        "height": 766,
+        "ann_id": "0be9be6930537bf8_1",
+        "box": [
+            131.61,
+            45.83,
+            747.34,
+            364.27
+        ],
+        "points": [
+            131.61,
+            45.83,
+            495.88,
+            110.46,
+            878.95,
+            54.05,
+            874.25,
+            323.14,
+            492.36,
+            410.1,
+            148.06,
+            332.55
+        ],
+        "area": 272233.54
+    },
+    {
+        "id": "textocr_query_1d3b2856f6220ba1_2",
+        "image": [
+            "textocr/query/1d3b2856f6220ba1_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Diamante",
+        "img_id": "1d3b2856f6220ba1",
+        "width": 767,
+        "height": 1024,
+        "ann_id": "1d3b2856f6220ba1_2",
+        "box": [
+            31.48,
+            293.47,
+            696.16,
+            381.77
+        ],
+        "points": [
+            31.48,
+            468.64,
+            717.16,
+            293.47,
+            727.64,
+            498.58,
+            52.44,
+            675.24
+        ],
+        "area": 265773.0
+    },
+    {
+        "id": "textocr_query_9ef00d499b0ed0b1_1",
+        "image": [
+            "textocr/query/9ef00d499b0ed0b1_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Beacon",
+        "img_id": "9ef00d499b0ed0b1",
+        "width": 1024,
+        "height": 574,
+        "ann_id": "9ef00d499b0ed0b1_1",
+        "box": [
+            86.03,
+            10.61,
+            801.34,
+            329.96
+        ],
+        "points": [
+            95.45,
+            29.46,
+            866.16,
+            10.61,
+            887.37,
+            253.37,
+            86.03,
+            340.57
+        ],
+        "area": 264410.15
+    },
+    {
+        "id": "textocr_query_002ce32086fb7258_9",
+        "image": [
+            "textocr/query/002ce32086fb7258_9.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "7UP",
+        "img_id": "002ce32086fb7258",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "002ce32086fb7258_9",
+        "box": [
+            431.44,
+            177.23,
+            590.07,
+            446.44
+        ],
+        "points": [
+            431.44,
+            177.23,
+            1020.32,
+            177.23,
+            1021.51,
+            623.67,
+            433.84,
+            623.67
+        ],
+        "area": 263430.85
+    },
+    {
+        "id": "textocr_query_5672162112fd4d65_1",
+        "image": [
+            "textocr/query/5672162112fd4d65_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "STOP",
+        "img_id": "5672162112fd4d65",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "5672162112fd4d65_1",
+        "box": [
+            151.67,
+            315.15,
+            592.88,
+            411.67
+        ],
+        "points": [
+            151.67,
+            315.15,
+            744.55,
+            334.85,
+            736.67,
+            726.82,
+            175.3,
+            681.52
+        ],
+        "area": 244070.91
+    },
+    {
+        "id": "textocr_query_b089ad2e20483e08_3",
+        "image": [
+            "textocr/query/b089ad2e20483e08_3.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "TRDOMSLISI",
+        "img_id": "b089ad2e20483e08",
+        "width": 1024,
+        "height": 981,
+        "ann_id": "b089ad2e20483e08_3",
+        "box": [
+            497.08,
+            147.42,
+            358.95,
+            675.0
+        ],
+        "points": [
+            629.36,
+            147.42,
+            768.79,
+            230.37,
+            850.31,
+            364.79,
+            856.03,
+            536.4,
+            787.38,
+            683.7,
+            701.58,
+            762.35,
+            508.52,
+            822.42,
+            497.08,
+            719.45,
+            644.38,
+            647.95,
+            725.89,
+            572.15,
+            741.62,
+            487.78,
+            743.05,
+            380.52,
+            675.84,
+            293.29,
+            572.87,
+            213.2
+        ],
+        "area": 242291.25
+    },
+    {
+        "id": "textocr_query_16c541870771068e_1",
+        "image": [
+            "textocr/query/16c541870771068e_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "BAH",
+        "img_id": "16c541870771068e",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "16c541870771068e_1",
+        "box": [
+            76.97,
+            251.34,
+            571.79,
+            386.43
+        ],
+        "points": [
+            76.97,
+            260.76,
+            648.76,
+            251.34,
+            642.48,
+            637.77,
+            78.54,
+            637.77
+        ],
+        "area": 220956.81
+    },
+    {
+        "id": "textocr_query_01b1c5e105acaa97_1",
+        "image": [
+            "textocr/query/01b1c5e105acaa97_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "SOS",
+        "img_id": "01b1c5e105acaa97",
+        "width": 744,
+        "height": 1024,
+        "ann_id": "01b1c5e105acaa97_1",
+        "box": [
+            183.15,
+            32.3,
+            305.3,
+            720.91
+        ],
+        "points": [
+            202.85,
+            717.75,
+            183.15,
+            32.3,
+            478.61,
+            32.3,
+            488.45,
+            753.21
+        ],
+        "area": 220093.82
+    },
+    {
+        "id": "textocr_query_8808ca873bf70550_1",
+        "image": [
+            "textocr/query/8808ca873bf70550_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "CCVD",
+        "img_id": "8808ca873bf70550",
+        "width": 871,
+        "height": 1024,
+        "ann_id": "8808ca873bf70550_1",
+        "box": [
+            0.04,
+            187.18,
+            756.04,
+            290.44
+        ],
+        "points": [
+            0.04,
+            187.18,
+            756.08,
+            187.18,
+            747.1,
+            477.62,
+            1.54,
+            476.12
+        ],
+        "area": 219584.26
+    },
+    {
+        "id": "textocr_query_a56b17c45ac1ac06_1",
+        "image": [
+            "textocr/query/a56b17c45ac1ac06_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "VOODOO",
+        "img_id": "a56b17c45ac1ac06",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "a56b17c45ac1ac06_1",
+        "box": [
+            125.22,
+            85.63,
+            666.14,
+            329.15
+        ],
+        "points": [
+            649.18,
+            414.78,
+            125.22,
+            260.28,
+            264.05,
+            85.63,
+            791.36,
+            212.14
+        ],
+        "area": 219259.98
+    },
+    {
+        "id": "textocr_query_fce2b2a3e9f75882_1",
+        "image": [
+            "textocr/query/fce2b2a3e9f75882_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "rackspace",
+        "img_id": "fce2b2a3e9f75882",
+        "width": 1024,
+        "height": 683,
+        "ann_id": "fce2b2a3e9f75882_1",
+        "box": [
+            388.71,
+            86.96,
+            583.6,
+            362.52
+        ],
+        "points": [
+            436.91,
+            86.96,
+            821.43,
+            184.4,
+            962.88,
+            297.56,
+            972.31,
+            449.48,
+            801.53,
+            380.33,
+            388.71,
+            300.7
+        ],
+        "area": 211566.67
+    },
+    {
+        "id": "textocr_query_86f392271e0c8866_1",
+        "image": [
+            "textocr/query/86f392271e0c8866_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "BULD",
+        "img_id": "86f392271e0c8866",
+        "width": 612,
+        "height": 1024,
+        "ann_id": "86f392271e0c8866_1",
+        "box": [
+            30.5,
+            233.4,
+            543.02,
+            384.64
+        ],
+        "points": [
+            50.86,
+            240.18,
+            572.39,
+            233.4,
+            573.52,
+            615.77,
+            30.5,
+            618.04
+        ],
+        "area": 208867.21
+    },
+    {
+        "id": "textocr_query_c9cf598ae4453a95_14",
+        "image": [
+            "textocr/query/c9cf598ae4453a95_14.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "american",
+        "img_id": "c9cf598ae4453a95",
+        "width": 691,
+        "height": 1024,
+        "ann_id": "c9cf598ae4453a95_14",
+        "box": [
+            1.37,
+            355.65,
+            686.09,
+            303.66
+        ],
+        "points": [
+            1.37,
+            358.76,
+            683.31,
+            355.65,
+            687.46,
+            659.31,
+            2.41,
+            656.2
+        ],
+        "area": 208338.09
+    },
+    {
+        "id": "textocr_query_dfe641eb6e3615ba_1",
+        "image": [
+            "textocr/query/dfe641eb6e3615ba_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "SERROTE",
+        "img_id": "dfe641eb6e3615ba",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "dfe641eb6e3615ba_1",
+        "box": [
+            110.3,
+            212.73,
+            789.85,
+            261.97
+        ],
+        "points": [
+            114.24,
+            212.73,
+            898.19,
+            224.55,
+            900.15,
+            464.85,
+            110.3,
+            474.7
+        ],
+        "area": 206917.0
+    },
+    {
+        "id": "textocr_query_683faf24809dbcc4_2",
+        "image": [
+            "textocr/query/683faf24809dbcc4_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "POLICE",
+        "img_id": "683faf24809dbcc4",
+        "width": 789,
+        "height": 1024,
+        "ann_id": "683faf24809dbcc4_2",
+        "box": [
+            59.09,
+            339.77,
+            676.59,
+            302.35
+        ],
+        "points": [
+            59.09,
+            347.65,
+            726.82,
+            339.77,
+            735.68,
+            642.12,
+            62.05,
+            641.14
+        ],
+        "area": 204566.99
+    },
+    {
+        "id": "textocr_query_be58e0f7968d5773_1",
+        "image": [
+            "textocr/query/be58e0f7968d5773_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "EMELEC",
+        "img_id": "be58e0f7968d5773",
+        "width": 698,
+        "height": 1024,
+        "ann_id": "be58e0f7968d5773_1",
+        "box": [
+            61.26,
+            260.76,
+            592.21,
+            344.02
+        ],
+        "points": [
+            61.26,
+            496.39,
+            650.33,
+            260.76,
+            653.47,
+            389.57,
+            78.54,
+            604.78
+        ],
+        "area": 203732.08
+    },
+    {
+        "id": "textocr_query_db51fbe4908a0d41_1",
+        "image": [
+            "textocr/query/db51fbe4908a0d41_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Antica",
+        "img_id": "db51fbe4908a0d41",
+        "width": 1024,
+        "height": 685,
+        "ann_id": "db51fbe4908a0d41_1",
+        "box": [
+            128.61,
+            73.76,
+            561.31,
+            357.08
+        ],
+        "points": [
+            444.84,
+            73.76,
+            689.92,
+            289.85,
+            620.08,
+            430.84,
+            128.61,
+            165.99
+        ],
+        "area": 200432.57
+    },
+    {
+        "id": "textocr_query_b5c2c50202792f10_1",
+        "image": [
+            "textocr/query/b5c2c50202792f10_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "RESTAURANT",
+        "img_id": "b5c2c50202792f10",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "b5c2c50202792f10_1",
+        "box": [
+            198.22,
+            158.01,
+            681.84,
+            291.19
+        ],
+        "points": [
+            211.4,
+            158.01,
+            880.06,
+            337.75,
+            880.06,
+            449.2,
+            198.22,
+            304.2
+        ],
+        "area": 198544.99
+    },
+    {
+        "id": "textocr_query_eaa10e6569c11895_23",
+        "image": [
+            "textocr/query/eaa10e6569c11895_23.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "A",
+        "img_id": "eaa10e6569c11895",
+        "width": 1024,
+        "height": 879,
+        "ann_id": "eaa10e6569c11895_23",
+        "box": [
+            6.16,
+            168.21,
+            490.73,
+            396.48
+        ],
+        "points": [
+            18.07,
+            169.29,
+            496.89,
+            168.21,
+            471.97,
+            564.69,
+            6.16,
+            559.27
+        ],
+        "area": 194564.63
+    },
+    {
+        "id": "textocr_query_756dc4aa7f9f110a_1",
+        "image": [
+            "textocr/query/756dc4aa7f9f110a_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "STOP",
+        "img_id": "756dc4aa7f9f110a",
+        "width": 768,
+        "height": 1024,
+        "ann_id": "756dc4aa7f9f110a_1",
+        "box": [
+            79.78,
+            249.33,
+            608.71,
+            317.42
+        ],
+        "points": [
+            82.94,
+            326.11,
+            670.29,
+            249.33,
+            688.49,
+            508.96,
+            79.78,
+            566.75
+        ],
+        "area": 193216.73
+    },
+    {
+        "id": "textocr_query_753b097c94a2fb4d_1",
+        "image": [
+            "textocr/query/753b097c94a2fb4d_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "STARTLING",
+        "img_id": "753b097c94a2fb4d",
+        "width": 724,
+        "height": 1024,
+        "ann_id": "753b097c94a2fb4d_1",
+        "box": [
+            12.69,
+            10.42,
+            697.63,
+            273.81
+        ],
+        "points": [
+            17.45,
+            17.56,
+            703.17,
+            10.42,
+            710.32,
+            187.8,
+            12.69,
+            284.23
+        ],
+        "area": 191018.07
+    },
+    {
+        "id": "textocr_query_deaa5f12d5c4d710_2",
+        "image": [
+            "textocr/query/deaa5f12d5c4d710_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "42",
+        "img_id": "deaa5f12d5c4d710",
+        "width": 683,
+        "height": 1024,
+        "ann_id": "deaa5f12d5c4d710_2",
+        "box": [
+            44.17,
+            623.94,
+            461.57,
+            389.17
+        ],
+        "points": [
+            44.17,
+            687.29,
+            487.64,
+            623.94,
+            505.74,
+            953.15,
+            108.65,
+            1013.11
+        ],
+        "area": 179629.2
+    },
+    {
+        "id": "textocr_query_b9dc400eb20bad64_1",
+        "image": [
+            "textocr/query/b9dc400eb20bad64_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "DRUPALCON",
+        "img_id": "b9dc400eb20bad64",
+        "width": 1024,
+        "height": 683,
+        "ann_id": "b9dc400eb20bad64_1",
+        "box": [
+            95.34,
+            96.39,
+            849.73,
+            210.6
+        ],
+        "points": [
+            95.34,
+            96.39,
+            936.69,
+            199.07,
+            945.07,
+            306.99,
+            96.39,
+            210.6
+        ],
+        "area": 178953.14
+    },
+    {
+        "id": "textocr_query_f005221d88b96e31_1",
+        "image": [
+            "textocr/query/f005221d88b96e31_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "EARTH",
+        "img_id": "f005221d88b96e31",
+        "width": 1024,
+        "height": 614,
+        "ann_id": "f005221d88b96e31_1",
+        "box": [
+            46.97,
+            130.6,
+            976.03,
+            177.56
+        ],
+        "points": [
+            60.72,
+            174.13,
+            1023.0,
+            130.6,
+            1023.0,
+            304.72,
+            46.97,
+            308.16
+        ],
+        "area": 173303.89
+    },
+    {
+        "id": "textocr_query_52235ad30ea7e0b9_1",
+        "image": [
+            "textocr/query/52235ad30ea7e0b9_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "TIPHERET",
+        "img_id": "52235ad30ea7e0b9",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "52235ad30ea7e0b9_1",
+        "box": [
+            19.2,
+            56.14,
+            994.21,
+            165.45
+        ],
+        "points": [
+            19.2,
+            56.14,
+            1013.41,
+            101.93,
+            1008.98,
+            221.59,
+            26.59,
+            181.71
+        ],
+        "area": 164492.04
+    },
+    {
+        "id": "textocr_query_9a7aa54a2d675787_3",
+        "image": [
+            "textocr/query/9a7aa54a2d675787_3.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Mahler",
+        "img_id": "9a7aa54a2d675787",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "9a7aa54a2d675787_3",
+        "box": [
+            53.9,
+            80.86,
+            888.07,
+            183.27
+        ],
+        "points": [
+            53.9,
+            82.2,
+            940.62,
+            80.86,
+            941.97,
+            245.26,
+            55.25,
+            264.13
+        ],
+        "area": 162756.59
+    },
+    {
+        "id": "textocr_query_cd61cafbbbb03a91_1",
+        "image": [
+            "textocr/query/cd61cafbbbb03a91_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "diabetic",
+        "img_id": "cd61cafbbbb03a91",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "cd61cafbbbb03a91_1",
+        "box": [
+            161.02,
+            73.86,
+            698.76,
+            231.94
+        ],
+        "points": [
+            169.89,
+            73.86,
+            859.78,
+            87.16,
+            859.78,
+            289.55,
+            161.02,
+            305.8
+        ],
+        "area": 162070.39
+    },
+    {
+        "id": "textocr_query_376e3c65515a81d5_1",
+        "image": [
+            "textocr/query/376e3c65515a81d5_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Corona",
+        "img_id": "376e3c65515a81d5",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "376e3c65515a81d5_1",
+        "box": [
+            374.91,
+            326.31,
+            389.61,
+            413.49
+        ],
+        "points": [
+            439.1,
+            326.31,
+            597.33,
+            357.66,
+            716.75,
+            509.92,
+            764.52,
+            635.31,
+            719.74,
+            739.8,
+            703.32,
+            677.11,
+            663.02,
+            577.09,
+            479.41,
+            481.55,
+            374.91,
+            418.86
+        ],
+        "area": 161099.84
+    },
+    {
+        "id": "textocr_query_33e472cfe8651cd9_18",
+        "image": [
+            "textocr/query/33e472cfe8651cd9_18.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Bemsored",
+        "img_id": "33e472cfe8651cd9",
+        "width": 690,
+        "height": 1024,
+        "ann_id": "33e472cfe8651cd9_18",
+        "box": [
+            70.81,
+            401.64,
+            504.56,
+            318.7
+        ],
+        "points": [
+            70.81,
+            615.85,
+            158.14,
+            539.72,
+            270.84,
+            514.34,
+            355.93,
+            431.49,
+            437.29,
+            426.27,
+            557.45,
+            401.64,
+            575.37,
+            570.32,
+            506.7,
+            532.25,
+            432.81,
+            527.78,
+            307.42,
+            606.89,
+            179.78,
+            720.34
+        ],
+        "area": 160803.27
+    },
+    {
+        "id": "textocr_query_bbd8278f9206dcd6_20",
+        "image": [
+            "textocr/query/bbd8278f9206dcd6_20.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "GUMBALLHEAD",
+        "img_id": "bbd8278f9206dcd6",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "bbd8278f9206dcd6_20",
+        "box": [
+            366.31,
+            74.13,
+            533.06,
+            298.36
+        ],
+        "points": [
+            366.31,
+            339.7,
+            387.53,
+            267.68,
+            429.97,
+            198.88,
+            487.2,
+            146.15,
+            559.21,
+            108.85,
+            618.37,
+            79.92,
+            706.47,
+            74.13,
+            784.27,
+            90.21,
+            833.78,
+            121.71,
+            871.72,
+            166.73,
+            892.3,
+            213.67,
+            899.37,
+            304.33,
+            842.79,
+            308.83,
+            820.28,
+            256.11,
+            791.99,
+            204.02,
+            737.33,
+            175.73,
+            673.03,
+            166.08,
+            622.23,
+            182.8,
+            575.29,
+            198.23,
+            523.85,
+            243.25,
+            501.98,
+            277.33,
+            482.69,
+            316.55,
+            467.9,
+            350.63,
+            449.9,
+            372.49
+        ],
+        "area": 159043.78
+    },
+    {
+        "id": "textocr_query_6e216247183421fd_1",
+        "image": [
+            "textocr/query/6e216247183421fd_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "SKOL",
+        "img_id": "6e216247183421fd",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "6e216247183421fd_1",
+        "box": [
+            507.78,
+            169.65,
+            311.03,
+            508.96
+        ],
+        "points": [
+            507.78,
+            519.56,
+            656.22,
+            169.65,
+            818.81,
+            223.85,
+            663.29,
+            678.61
+        ],
+        "area": 158301.83
+    },
+    {
+        "id": "textocr_query_2db1b4e8115e36ee_8",
+        "image": [
+            "textocr/query/2db1b4e8115e36ee_8.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "product",
+        "img_id": "2db1b4e8115e36ee",
+        "width": 768,
+        "height": 1024,
+        "ann_id": "2db1b4e8115e36ee_8",
+        "box": [
+            11.98,
+            89.56,
+            641.44,
+            246.62
+        ],
+        "points": [
+            14.24,
+            218.52,
+            342.31,
+            155.17,
+            619.48,
+            89.56,
+            653.42,
+            186.85,
+            353.63,
+            263.78,
+            11.98,
+            336.18
+        ],
+        "area": 158191.93
+    },
+    {
+        "id": "textocr_query_2bd7d936793d10ed_5",
+        "image": [
+            "textocr/query/2bd7d936793d10ed_5.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "EDGE",
+        "img_id": "2bd7d936793d10ed",
+        "width": 875,
+        "height": 1024,
+        "ann_id": "2bd7d936793d10ed_5",
+        "box": [
+            -0.14,
+            8.55,
+            853.98,
+            184.73
+        ],
+        "points": [
+            0.91,
+            14.88,
+            851.73,
+            8.55,
+            853.84,
+            189.06,
+            -0.14,
+            193.28
+        ],
+        "area": 157755.73
+    },
+    {
+        "id": "textocr_query_1a8a818d9135b1f8_1",
+        "image": [
+            "textocr/query/1a8a818d9135b1f8_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Clemson",
+        "img_id": "1a8a818d9135b1f8",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "1a8a818d9135b1f8_1",
+        "box": [
+            374.48,
+            194.89,
+            479.18,
+            329.15
+        ],
+        "points": [
+            467.4,
+            194.89,
+            853.66,
+            412.09,
+            789.84,
+            524.04,
+            374.48,
+            282.22
+        ],
+        "area": 157722.1
+    },
+    {
+        "id": "textocr_query_acda8184c4c7f187_19",
+        "image": [
+            "textocr/query/acda8184c4c7f187_19.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "SAVAGE",
+        "img_id": "acda8184c4c7f187",
+        "width": 649,
+        "height": 1024,
+        "ann_id": "acda8184c4c7f187_19",
+        "box": [
+            59.42,
+            166.89,
+            541.56,
+            291.23
+        ],
+        "points": [
+            67.7,
+            199.47,
+            181.73,
+            170.32,
+            294.05,
+            175.47,
+            398.65,
+            204.62,
+            483.53,
+            212.33,
+            600.98,
+            166.89,
+            591.55,
+            350.37,
+            486.1,
+            384.66,
+            367.78,
+            388.95,
+            244.32,
+            385.52,
+            170.78,
+            415.85,
+            59.42,
+            458.12
+        ],
+        "area": 157718.52
+    },
+    {
+        "id": "textocr_query_f8e38cba92bf175e_1",
+        "image": [
+            "textocr/query/f8e38cba92bf175e_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "BECAUER",
+        "img_id": "f8e38cba92bf175e",
+        "width": 743,
+        "height": 1024,
+        "ann_id": "f8e38cba92bf175e_1",
+        "box": [
+            37.7,
+            27.8,
+            664.06,
+            235.21
+        ],
+        "points": [
+            46.8,
+            30.4,
+            684.86,
+            27.8,
+            701.76,
+            211.03,
+            37.7,
+            263.01
+        ],
+        "area": 156193.55
+    },
+    {
+        "id": "textocr_query_a3229d1f02fdae12_8",
+        "image": [
+            "textocr/query/a3229d1f02fdae12_8.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "SIKAY",
+        "img_id": "a3229d1f02fdae12",
+        "width": 663,
+        "height": 1024,
+        "ann_id": "a3229d1f02fdae12_8",
+        "box": [
+            32.24,
+            603.46,
+            607.06,
+            256.24
+        ],
+        "points": [
+            32.24,
+            605.18,
+            639.3,
+            603.46,
+            636.72,
+            857.12,
+            41.7,
+            859.7
+        ],
+        "area": 155553.05
+    },
+    {
+        "id": "textocr_query_ff8700aea4449c7e_15",
+        "image": [
+            "textocr/query/ff8700aea4449c7e_15.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "DUNLOP",
+        "img_id": "ff8700aea4449c7e",
+        "width": 683,
+        "height": 1024,
+        "ann_id": "ff8700aea4449c7e_15",
+        "box": [
+            83.58,
+            261.66,
+            322.42,
+            480.81
+        ],
+        "points": [
+            189.92,
+            312.57,
+            172.95,
+            412.13,
+            214.81,
+            500.37,
+            280.43,
+            571.64,
+            353.96,
+            629.34,
+            406.0,
+            675.72,
+            364.14,
+            742.47,
+            304.19,
+            693.82,
+            227.26,
+            629.34,
+            140.15,
+            543.36,
+            83.58,
+            437.02,
+            92.63,
+            261.66
+        ],
+        "area": 155022.76
+    },
+    {
+        "id": "textocr_query_0a1789cf1519aa0b_1",
+        "image": [
+            "textocr/query/0a1789cf1519aa0b_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "experienced",
+        "img_id": "0a1789cf1519aa0b",
+        "width": 1024,
+        "height": 683,
+        "ann_id": "0a1789cf1519aa0b_1",
+        "box": [
+            280.08,
+            8.86,
+            595.4,
+            259.86
+        ],
+        "points": [
+            280.08,
+            206.0,
+            526.01,
+            140.28,
+            809.77,
+            8.86,
+            875.48,
+            61.63,
+            625.57,
+            205.0,
+            315.93,
+            268.72
+        ],
+        "area": 154720.64
+    },
+    {
+        "id": "textocr_query_fdd336246aad6fe8_22",
+        "image": [
+            "textocr/query/fdd336246aad6fe8_22.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "DRAGONFLIGHT",
+        "img_id": "fdd336246aad6fe8",
+        "width": 631,
+        "height": 1024,
+        "ann_id": "fdd336246aad6fe8_22",
+        "box": [
+            30.65,
+            82.66,
+            575.29,
+            267.5
+        ],
+        "points": [
+            30.65,
+            186.4,
+            596.51,
+            82.66,
+            605.94,
+            224.98,
+            52.94,
+            350.16
+        ],
+        "area": 153890.07
+    },
+    {
+        "id": "textocr_query_4fc752146d5f5b3a_1",
+        "image": [
+            "textocr/query/4fc752146d5f5b3a_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "DRUPALCON",
+        "img_id": "4fc752146d5f5b3a",
+        "width": 1024,
+        "height": 685,
+        "ann_id": "4fc752146d5f5b3a_1",
+        "box": [
+            20.36,
+            131.56,
+            914.21,
+            160.59
+        ],
+        "points": [
+            20.36,
+            131.56,
+            927.69,
+            140.74,
+            934.57,
+            292.15,
+            20.36,
+            237.09
+        ],
+        "area": 146812.98
+    },
+    {
+        "id": "textocr_query_931bb75b8740ae93_1",
+        "image": [
+            "textocr/query/931bb75b8740ae93_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Turbo",
+        "img_id": "931bb75b8740ae93",
+        "width": 768,
+        "height": 1024,
+        "ann_id": "931bb75b8740ae93_1",
+        "box": [
+            478.16,
+            114.82,
+            214.69,
+            681.52
+        ],
+        "points": [
+            692.85,
+            114.82,
+            688.92,
+            772.7,
+            478.16,
+            796.34,
+            482.1,
+            114.82
+        ],
+        "area": 146315.53
+    },
+    {
+        "id": "textocr_query_04da5dff642e080f_2",
+        "image": [
+            "textocr/query/04da5dff642e080f_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "ew",
+        "img_id": "04da5dff642e080f",
+        "width": 1024,
+        "height": 765,
+        "ann_id": "04da5dff642e080f_2",
+        "box": [
+            27.96,
+            147.15,
+            326.67,
+            442.92
+        ],
+        "points": [
+            36.79,
+            341.39,
+            353.16,
+            147.15,
+            354.63,
+            391.42,
+            27.96,
+            590.07
+        ],
+        "area": 144688.68
+    },
+    {
+        "id": "textocr_query_48a275fbc175cc10_1",
+        "image": [
+            "textocr/query/48a275fbc175cc10_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "STOP",
+        "img_id": "48a275fbc175cc10",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "48a275fbc175cc10_1",
+        "box": [
+            202.07,
+            246.9,
+            591.58,
+            244.35
+        ],
+        "points": [
+            202.07,
+            246.9,
+            789.8,
+            248.18,
+            793.65,
+            491.25,
+            207.22,
+            491.25
+        ],
+        "area": 144552.57
+    },
+    {
+        "id": "textocr_query_a2a0f9bb530897ba_2",
+        "image": [
+            "textocr/query/a2a0f9bb530897ba_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "PLURIBUS",
+        "img_id": "a2a0f9bb530897ba",
+        "width": 1006,
+        "height": 1024,
+        "ann_id": "a2a0f9bb530897ba_2",
+        "box": [
+            144.87,
+            113.23,
+            597.81,
+            238.13
+        ],
+        "points": [
+            144.87,
+            304.73,
+            261.44,
+            168.19,
+            432.95,
+            113.23,
+            587.82,
+            118.23,
+            742.68,
+            163.19,
+            671.08,
+            243.12,
+            579.49,
+            211.48,
+            441.28,
+            201.49,
+            329.71,
+            239.79,
+            214.81,
+            351.36
+        ],
+        "area": 142356.5
+    },
+    {
+        "id": "textocr_query_355b3d6438fb5e81_96",
+        "image": [
+            "textocr/query/355b3d6438fb5e81_96.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "HABIT",
+        "img_id": "355b3d6438fb5e81",
+        "width": 768,
+        "height": 1024,
+        "ann_id": "355b3d6438fb5e81_96",
+        "box": [
+            179.45,
+            412.69,
+            515.78,
+            274.38
+        ],
+        "points": [
+            179.45,
+            551.65,
+            628.11,
+            412.69,
+            695.23,
+            532.81,
+            237.15,
+            687.07
+        ],
+        "area": 141519.72
+    },
+    {
+        "id": "textocr_query_c7372c2a157e69c5_1",
+        "image": [
+            "textocr/query/c7372c2a157e69c5_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "ZOBRA",
+        "img_id": "c7372c2a157e69c5",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "c7372c2a157e69c5_1",
+        "box": [
+            271.82,
+            169.39,
+            417.58,
+            335.84
+        ],
+        "points": [
+            280.68,
+            170.38,
+            681.52,
+            169.39,
+            689.4,
+            389.02,
+            409.7,
+            489.47,
+            271.82,
+            505.23
+        ],
+        "area": 140240.07
+    },
+    {
+        "id": "textocr_query_76958c2b7ab327c3_8",
+        "image": [
+            "textocr/query/76958c2b7ab327c3_8.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "EPLURISUS",
+        "img_id": "76958c2b7ab327c3",
+        "width": 1024,
+        "height": 1023,
+        "ann_id": "76958c2b7ab327c3_8",
+        "box": [
+            102.36,
+            62.42,
+            495.93,
+            277.83
+        ],
+        "points": [
+            102.36,
+            315.58,
+            225.69,
+            193.54,
+            355.52,
+            107.86,
+            594.4,
+            62.42,
+            598.29,
+            115.65,
+            389.27,
+            152.0,
+            251.66,
+            233.79,
+            125.73,
+            340.25
+        ],
+        "area": 137784.23
+    },
+    {
+        "id": "textocr_query_3c76d81fdaf6ef99_25",
+        "image": [
+            "textocr/query/3c76d81fdaf6ef99_25.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "DECO",
+        "img_id": "3c76d81fdaf6ef99",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "3c76d81fdaf6ef99_25",
+        "box": [
+            318.98,
+            267.37,
+            500.41,
+            273.91
+        ],
+        "points": [
+            318.98,
+            444.69,
+            762.99,
+            267.37,
+            819.39,
+            370.75,
+            358.84,
+            541.28
+        ],
+        "area": 137067.3
+    },
+    {
+        "id": "textocr_query_f8c758bc3d0a925c_5",
+        "image": [
+            "textocr/query/f8c758bc3d0a925c_5.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Asahi",
+        "img_id": "f8c758bc3d0a925c",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "f8c758bc3d0a925c_5",
+        "box": [
+            608.04,
+            243.12,
+            415.45,
+            328.99
+        ],
+        "points": [
+            669.8,
+            243.12,
+            1023.49,
+            356.53,
+            1022.93,
+            572.11,
+            608.04,
+            419.41
+        ],
+        "area": 136678.9
+    },
+    {
+        "id": "textocr_query_822a3cdf226995d7_1",
+        "image": [
+            "textocr/query/822a3cdf226995d7_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "STOP",
+        "img_id": "822a3cdf226995d7",
+        "width": 1023,
+        "height": 1024,
+        "ann_id": "822a3cdf226995d7_1",
+        "box": [
+            63.24,
+            263.64,
+            550.94,
+            247.76
+        ],
+        "points": [
+            63.24,
+            274.96,
+            606.26,
+            263.64,
+            614.18,
+            498.95,
+            64.37,
+            511.4
+        ],
+        "area": 136500.89
+    },
+    {
+        "id": "textocr_query_62bf3934c73f20e2_1",
+        "image": [
+            "textocr/query/62bf3934c73f20e2_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Dialectica",
+        "img_id": "62bf3934c73f20e2",
+        "width": 603,
+        "height": 1024,
+        "ann_id": "62bf3934c73f20e2_1",
+        "box": [
+            27.12,
+            63.03,
+            540.99,
+            251.84
+        ],
+        "points": [
+            30.23,
+            66.14,
+            547.39,
+            63.03,
+            568.11,
+            280.67,
+            27.12,
+            314.87
+        ],
+        "area": 136242.92
+    },
+    {
+        "id": "textocr_query_0225316ea19e5041_1",
+        "image": [
+            "textocr/query/0225316ea19e5041_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "adida",
+        "img_id": "0225316ea19e5041",
+        "width": 768,
+        "height": 768,
+        "ann_id": "0225316ea19e5041_1",
+        "box": [
+            245.93,
+            85.37,
+            518.75,
+            261.62
+        ],
+        "points": [
+            257.16,
+            85.37,
+            764.68,
+            130.28,
+            762.43,
+            346.99,
+            245.93,
+            265.02
+        ],
+        "area": 135715.38
+    },
+    {
+        "id": "textocr_query_6266e654a5222268_1",
+        "image": [
+            "textocr/query/6266e654a5222268_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "STOP",
+        "img_id": "6266e654a5222268",
+        "width": 1024,
+        "height": 681,
+        "ann_id": "6266e654a5222268_1",
+        "box": [
+            482.64,
+            147.3,
+            399.07,
+            334.3
+        ],
+        "points": [
+            499.36,
+            278.93,
+            877.53,
+            147.3,
+            881.71,
+            412.65,
+            482.64,
+            481.6
+        ],
+        "area": 133409.1
+    },
+    {
+        "id": "textocr_query_152bd25b79642ed0_4",
+        "image": [
+            "textocr/query/152bd25b79642ed0_4.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "COLPETROSO",
+        "img_id": "152bd25b79642ed0",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "152bd25b79642ed0_4",
+        "box": [
+            195.0,
+            565.31,
+            681.52,
+            195.0
+        ],
+        "points": [
+            195.0,
+            634.24,
+            529.85,
+            626.37,
+            850.91,
+            565.31,
+            876.52,
+            703.18,
+            555.46,
+            760.31,
+            202.88,
+            746.52
+        ],
+        "area": 132896.4
+    },
+    {
+        "id": "textocr_query_a56edf96dc42ae8e_7",
+        "image": [
+            "textocr/query/a56edf96dc42ae8e_7.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Game",
+        "img_id": "a56edf96dc42ae8e",
+        "width": 1024,
+        "height": 683,
+        "ann_id": "a56edf96dc42ae8e_7",
+        "box": [
+            150.03,
+            427.58,
+            522.72,
+            253.9
+        ],
+        "points": [
+            150.03,
+            585.89,
+            639.89,
+            427.58,
+            672.75,
+            592.86,
+            393.96,
+            680.48,
+            209.77,
+            681.48
+        ],
+        "area": 132718.61
+    },
+    {
+        "id": "textocr_query_4c8acf546094dd66_8",
+        "image": [
+            "textocr/query/4c8acf546094dd66_8.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "11",
+        "img_id": "4c8acf546094dd66",
+        "width": 768,
+        "height": 1024,
+        "ann_id": "4c8acf546094dd66_8",
+        "box": [
+            210.72,
+            393.8,
+            347.14,
+            381.68
+        ],
+        "points": [
+            217.63,
+            393.8,
+            556.13,
+            395.53,
+            557.86,
+            772.03,
+            210.72,
+            775.48
+        ],
+        "area": 132496.4
+    },
+    {
+        "id": "textocr_query_c34f82f72754cd06_2",
+        "image": [
+            "textocr/query/c34f82f72754cd06_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "BORJOMI",
+        "img_id": "c34f82f72754cd06",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "c34f82f72754cd06_2",
+        "box": [
+            258.22,
+            109.73,
+            293.32,
+            448.94
+        ],
+        "points": [
+            258.22,
+            511.65,
+            343.3,
+            270.94,
+            442.94,
+            109.73,
+            551.54,
+            146.67,
+            454.14,
+            321.33,
+            367.93,
+            558.67
+        ],
+        "area": 131683.08
+    },
+    {
+        "id": "textocr_query_31cdc3e5fa56c786_1",
+        "image": [
+            "textocr/query/31cdc3e5fa56c786_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "SUBWAY",
+        "img_id": "31cdc3e5fa56c786",
+        "width": 2000,
+        "height": 3008,
+        "ann_id": "31cdc3e5fa56c786_1",
+        "box": [
+            748.43,
+            653.12,
+            356.92,
+            368.37
+        ],
+        "points": [
+            763.69,
+            658.84,
+            1105.35,
+            653.12,
+            1101.53,
+            1021.49,
+            748.43,
+            1010.04
+        ],
+        "area": 131478.62
+    },
+    {
+        "id": "textocr_query_67d89a95c910773f_11",
+        "image": [
+            "textocr/query/67d89a95c910773f_11.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "7",
+        "img_id": "67d89a95c910773f",
+        "width": 1024,
+        "height": 710,
+        "ann_id": "67d89a95c910773f_11",
+        "box": [
+            97.27,
+            103.94,
+            369.6,
+            352.8
+        ],
+        "points": [
+            97.27,
+            207.94,
+            278.07,
+            103.94,
+            466.87,
+            319.14,
+            244.47,
+            456.74
+        ],
+        "area": 130394.88
+    },
+    {
+        "id": "textocr_query_2c67459de1e68b17_9",
+        "image": [
+            "textocr/query/2c67459de1e68b17_9.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "R",
+        "img_id": "2c67459de1e68b17",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "2c67459de1e68b17_9",
+        "box": [
+            283.96,
+            353.06,
+            322.9,
+            403.32
+        ],
+        "points": [
+            283.96,
+            353.06,
+            606.86,
+            358.09,
+            596.81,
+            756.38,
+            287.73,
+            751.35
+        ],
+        "area": 130232.03
+    },
+    {
+        "id": "textocr_query_ded3f580dab69d11_20",
+        "image": [
+            "textocr/query/ded3f580dab69d11_20.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "IMPORTANT",
+        "img_id": "ded3f580dab69d11",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "ded3f580dab69d11_20",
+        "box": [
+            108.72,
+            570.27,
+            765.42,
+            168.94
+        ],
+        "points": [
+            115.22,
+            570.27,
+            874.14,
+            615.75,
+            870.24,
+            739.21,
+            108.72,
+            679.43
+        ],
+        "area": 129310.05
+    },
+    {
+        "id": "textocr_query_753e596cd20fd631_10",
+        "image": [
+            "textocr/query/753e596cd20fd631_10.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "VFW",
+        "img_id": "753e596cd20fd631",
+        "width": 727,
+        "height": 1024,
+        "ann_id": "753e596cd20fd631_10",
+        "box": [
+            37.36,
+            757.44,
+            681.04,
+            188.93
+        ],
+        "points": [
+            37.36,
+            757.44,
+            718.4,
+            760.84,
+            647.13,
+            946.37,
+            109.76,
+            944.11
+        ],
+        "area": 128668.89
+    },
+    {
+        "id": "textocr_query_a85c9148747ada87_1",
+        "image": [
+            "textocr/query/a85c9148747ada87_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "CLASSIC",
+        "img_id": "a85c9148747ada87",
+        "width": 683,
+        "height": 1024,
+        "ann_id": "a85c9148747ada87_1",
+        "box": [
+            76.6,
+            491.24,
+            521.21,
+            244.78
+        ],
+        "points": [
+            78.26,
+            499.56,
+            597.81,
+            491.24,
+            597.81,
+            731.03,
+            76.6,
+            736.02
+        ],
+        "area": 127581.78
+    },
+    {
+        "id": "textocr_query_bc98f6302a9ab8b4_1",
+        "image": [
+            "textocr/query/bc98f6302a9ab8b4_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "ONLY",
+        "img_id": "bc98f6302a9ab8b4",
+        "width": 679,
+        "height": 1024,
+        "ann_id": "bc98f6302a9ab8b4_1",
+        "box": [
+            130.81,
+            779.74,
+            543.64,
+            234.39
+        ],
+        "points": [
+            674.45,
+            937.31,
+            195.81,
+            1014.13,
+            130.81,
+            815.19,
+            491.27,
+            779.74
+        ],
+        "area": 127423.78
+    },
+    {
+        "id": "textocr_query_7a0f135aabc5b67f_22",
+        "image": [
+            "textocr/query/7a0f135aabc5b67f_22.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "VIA",
+        "img_id": "7a0f135aabc5b67f",
+        "width": 768,
+        "height": 1024,
+        "ann_id": "7a0f135aabc5b67f_22",
+        "box": [
+            214.39,
+            696.17,
+            516.5,
+            243.32
+        ],
+        "points": [
+            214.39,
+            715.58,
+            711.48,
+            696.17,
+            730.89,
+            927.55,
+            227.83,
+            939.49
+        ],
+        "area": 125674.78
+    },
+    {
+        "id": "textocr_query_190d115c6f68ca26_9",
+        "image": [
+            "textocr/query/190d115c6f68ca26_9.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "MADKiDS\u1d40\u1d39",
+        "img_id": "190d115c6f68ca26",
+        "width": 791,
+        "height": 1024,
+        "ann_id": "190d115c6f68ca26_9",
+        "box": [
+            13.44,
+            4.41,
+            740.79,
+            169.39
+        ],
+        "points": [
+            13.44,
+            4.41,
+            753.24,
+            7.37,
+            754.23,
+            159.97,
+            15.41,
+            173.8
+        ],
+        "area": 125482.42
+    },
+    {
+        "id": "textocr_query_b9ca5e72bb5d7b9a_7",
+        "image": [
+            "textocr/query/b9ca5e72bb5d7b9a_7.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "COMPARE",
+        "img_id": "b9ca5e72bb5d7b9a",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "b9ca5e72bb5d7b9a_7",
+        "box": [
+            96.92,
+            345.86,
+            855.65,
+            146.6
+        ],
+        "points": [
+            96.92,
+            346.71,
+            948.28,
+            345.86,
+            952.57,
+            491.61,
+            96.92,
+            492.46
+        ],
+        "area": 125438.29
+    },
+    {
+        "id": "textocr_query_9c8b5faa177f1f2d_2",
+        "image": [
+            "textocr/query/9c8b5faa177f1f2d_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "CHECKLIST",
+        "img_id": "9c8b5faa177f1f2d",
+        "width": 768,
+        "height": 962,
+        "ann_id": "9c8b5faa177f1f2d_2",
+        "box": [
+            42.23,
+            56.3,
+            655.42,
+            191.28
+        ],
+        "points": [
+            42.23,
+            128.03,
+            690.61,
+            56.3,
+            697.65,
+            166.0,
+            49.26,
+            247.58
+        ],
+        "area": 125368.74
+    },
+    {
+        "id": "textocr_query_2fa55fefd94032cc_1",
+        "image": [
+            "textocr/query/2fa55fefd94032cc_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "AMMA",
+        "img_id": "2fa55fefd94032cc",
+        "width": 1024,
+        "height": 687,
+        "ann_id": "2fa55fefd94032cc_1",
+        "box": [
+            204.83,
+            0.0,
+            421.77,
+            296.23
+        ],
+        "points": [
+            293.37,
+            0.0,
+            626.6,
+            224.65,
+            571.54,
+            296.23,
+            204.83,
+            31.94
+        ],
+        "area": 124940.93
+    },
+    {
+        "id": "textocr_query_fe32ee8991d2e59f_1",
+        "image": [
+            "textocr/query/fe32ee8991d2e59f_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Pepsi",
+        "img_id": "fe32ee8991d2e59f",
+        "width": 1024,
+        "height": 985,
+        "ann_id": "fe32ee8991d2e59f_1",
+        "box": [
+            64.42,
+            621.46,
+            450.93,
+            276.62
+        ],
+        "points": [
+            64.42,
+            721.88,
+            490.72,
+            621.46,
+            515.35,
+            784.4,
+            73.89,
+            898.08
+        ],
+        "area": 124736.26
+    },
+    {
+        "id": "textocr_query_c8a3d256acd17769_1",
+        "image": [
+            "textocr/query/c8a3d256acd17769_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "EDGE",
+        "img_id": "c8a3d256acd17769",
+        "width": 767,
+        "height": 1024,
+        "ann_id": "c8a3d256acd17769_1",
+        "box": [
+            6.37,
+            17.58,
+            753.62,
+            165.47
+        ],
+        "points": [
+            14.94,
+            17.58,
+            758.28,
+            18.44,
+            759.99,
+            183.05,
+            6.37,
+            183.05
+        ],
+        "area": 124701.5
+    },
+    {
+        "id": "textocr_query_5a5f20395afd189b_6",
+        "image": [
+            "textocr/query/5a5f20395afd189b_6.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "DEGE",
+        "img_id": "5a5f20395afd189b",
+        "width": 767,
+        "height": 1024,
+        "ann_id": "5a5f20395afd189b_6",
+        "box": [
+            5.67,
+            33.53,
+            758.32,
+            164.21
+        ],
+        "points": [
+            7.16,
+            33.53,
+            758.02,
+            38.01,
+            763.99,
+            197.74,
+            5.67,
+            191.77
+        ],
+        "area": 124523.73
+    },
+    {
+        "id": "textocr_query_93455e24049a52b4_4",
+        "image": [
+            "textocr/query/93455e24049a52b4_4.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "GODIVA",
+        "img_id": "93455e24049a52b4",
+        "width": 1024,
+        "height": 749,
+        "ann_id": "93455e24049a52b4_4",
+        "box": [
+            399.77,
+            474.12,
+            452.45,
+            274.7
+        ],
+        "points": [
+            399.77,
+            726.96,
+            760.02,
+            474.12,
+            852.22,
+            519.75,
+            531.89,
+            748.82
+        ],
+        "area": 124288.01
+    },
+    {
+        "id": "textocr_query_0c487825b9d232a2_3",
+        "image": [
+            "textocr/query/0c487825b9d232a2_3.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "ENTURES",
+        "img_id": "0c487825b9d232a2",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "0c487825b9d232a2_3",
+        "box": [
+            396.72,
+            165.53,
+            542.66,
+            227.5
+        ],
+        "points": [
+            396.72,
+            210.84,
+            618.31,
+            165.53,
+            939.38,
+            298.49,
+            927.56,
+            393.03,
+            621.27,
+            268.94,
+            440.06,
+            301.44
+        ],
+        "area": 123455.15
+    },
+    {
+        "id": "textocr_query_c25c142b0807f800_2",
+        "image": [
+            "textocr/query/c25c142b0807f800_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "A",
+        "img_id": "c25c142b0807f800",
+        "width": 1024,
+        "height": 683,
+        "ann_id": "c25c142b0807f800_2",
+        "box": [
+            625.36,
+            214.15,
+            378.37,
+            325.81
+        ],
+        "points": [
+            666.09,
+            214.15,
+            963.0,
+            225.97,
+            1003.73,
+            539.96,
+            625.36,
+            529.45
+        ],
+        "area": 123276.73
+    },
+    {
+        "id": "textocr_query_7645e59f8d8a7f06_1",
+        "image": [
+            "textocr/query/7645e59f8d8a7f06_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "115204",
+        "img_id": "7645e59f8d8a7f06",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "7645e59f8d8a7f06_1",
+        "box": [
+            225.06,
+            259.5,
+            549.69,
+            224.16
+        ],
+        "points": [
+            225.06,
+            259.5,
+            771.83,
+            264.37,
+            774.75,
+            483.66,
+            225.06,
+            481.71
+        ],
+        "area": 123218.51
+    },
+    {
+        "id": "textocr_query_db0a046c37797be5_1",
+        "image": [
+            "textocr/query/db0a046c37797be5_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "AXTELERA",
+        "img_id": "db0a046c37797be5",
+        "width": 1024,
+        "height": 756,
+        "ann_id": "db0a046c37797be5_1",
+        "box": [
+            211.07,
+            279.5,
+            388.51,
+            316.6
+        ],
+        "points": [
+            211.07,
+            279.5,
+            599.58,
+            284.13,
+            599.58,
+            596.1,
+            218.03,
+            594.94
+        ],
+        "area": 123002.27
+    },
+    {
+        "id": "textocr_query_036ca96be461e0e9_1",
+        "image": [
+            "textocr/query/036ca96be461e0e9_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "STOP",
+        "img_id": "036ca96be461e0e9",
+        "width": 852,
+        "height": 1024,
+        "ann_id": "036ca96be461e0e9_1",
+        "box": [
+            212.96,
+            251.3,
+            394.83,
+            309.97
+        ],
+        "points": [
+            262.74,
+            251.3,
+            607.79,
+            370.08,
+            569.32,
+            561.27,
+            212.96,
+            471.9
+        ],
+        "area": 122385.46
+    },
+    {
+        "id": "textocr_query_e6a63b3b06282e4f_2",
+        "image": [
+            "textocr/query/e6a63b3b06282e4f_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "STOP",
+        "img_id": "e6a63b3b06282e4f",
+        "width": 768,
+        "height": 1024,
+        "ann_id": "e6a63b3b06282e4f_2",
+        "box": [
+            139.47,
+            207.25,
+            418.7,
+            288.11
+        ],
+        "points": [
+            181.97,
+            207.25,
+            541.59,
+            348.19,
+            558.17,
+            495.36,
+            139.47,
+            366.85
+        ],
+        "area": 120631.66
+    },
+    {
+        "id": "textocr_query_2fe6e3a4b7078357_5",
+        "image": [
+            "textocr/query/2fe6e3a4b7078357_5.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Failsworth",
+        "img_id": "2fe6e3a4b7078357",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "2fe6e3a4b7078357_5",
+        "box": [
+            139.57,
+            162.42,
+            713.43,
+            168.62
+        ],
+        "points": [
+            164.91,
+            238.45,
+            507.98,
+            209.21,
+            810.12,
+            162.42,
+            853.0,
+            264.76,
+            428.06,
+            303.75,
+            139.57,
+            331.04
+        ],
+        "area": 120298.57
+    },
+    {
+        "id": "textocr_query_14750cc81c71a100_12",
+        "image": [
+            "textocr/query/14750cc81c71a100_12.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "EISENBAHNR\u00dcCKE",
+        "img_id": "14750cc81c71a100",
+        "width": 1024,
+        "height": 682,
+        "ann_id": "14750cc81c71a100_12",
+        "box": [
+            40.31,
+            439.29,
+            882.79,
+            134.76
+        ],
+        "points": [
+            50.59,
+            439.29,
+            923.1,
+            467.84,
+            917.39,
+            574.05,
+            40.31,
+            542.08
+        ],
+        "area": 118964.78
+    },
+    {
+        "id": "textocr_query_742dbe0352d80dce_2",
+        "image": [
+            "textocr/query/742dbe0352d80dce_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "ROMEO",
+        "img_id": "742dbe0352d80dce",
+        "width": 768,
+        "height": 1024,
+        "ann_id": "742dbe0352d80dce_2",
+        "box": [
+            354.55,
+            352.58,
+            384.09,
+            309.24
+        ],
+        "points": [
+            374.24,
+            352.58,
+            466.82,
+            352.58,
+            592.88,
+            390.0,
+            659.85,
+            462.88,
+            726.82,
+            525.91,
+            738.64,
+            651.97,
+            636.21,
+            661.82,
+            547.58,
+            575.15,
+            525.91,
+            523.94,
+            451.06,
+            470.76,
+            399.85,
+            468.79,
+            354.55,
+            476.67
+        ],
+        "area": 118775.99
+    },
+    {
+        "id": "textocr_query_ba4b86ea409e14ed_3",
+        "image": [
+            "textocr/query/ba4b86ea409e14ed_3.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "COOKIES",
+        "img_id": "ba4b86ea409e14ed",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "ba4b86ea409e14ed_3",
+        "box": [
+            162.74,
+            321.32,
+            756.35,
+            156.31
+        ],
+        "points": [
+            162.74,
+            379.85,
+            907.98,
+            321.32,
+            919.09,
+            445.78,
+            164.97,
+            477.63
+        ],
+        "area": 118225.07
+    },
+    {
+        "id": "textocr_query_42207702ddb341c2_23",
+        "image": [
+            "textocr/query/42207702ddb341c2_23.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Recycle",
+        "img_id": "42207702ddb341c2",
+        "width": 768,
+        "height": 768,
+        "ann_id": "42207702ddb341c2_23",
+        "box": [
+            299.34,
+            229.14,
+            232.61,
+            505.61
+        ],
+        "points": [
+            299.34,
+            667.89,
+            453.95,
+            229.14,
+            531.95,
+            371.21,
+            407.99,
+            734.75
+        ],
+        "area": 117609.94
+    },
+    {
+        "id": "textocr_query_18425568d6047c4a_4",
+        "image": [
+            "textocr/query/18425568d6047c4a_4.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "sex",
+        "img_id": "18425568d6047c4a",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "18425568d6047c4a_4",
+        "box": [
+            254.62,
+            205.39,
+            520.01,
+            225.54
+        ],
+        "points": [
+            254.62,
+            206.38,
+            774.63,
+            205.39,
+            774.63,
+            421.08,
+            256.59,
+            430.93
+        ],
+        "area": 117283.06
+    },
+    {
+        "id": "textocr_query_2109dd250058bfa9_1",
+        "image": [
+            "textocr/query/2109dd250058bfa9_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "e",
+        "img_id": "2109dd250058bfa9",
+        "width": 1024,
+        "height": 546,
+        "ann_id": "2109dd250058bfa9_1",
+        "box": [
+            449.07,
+            120.29,
+            395.22,
+            295.55
+        ],
+        "points": [
+            459.38,
+            131.74,
+            844.29,
+            120.29,
+            824.81,
+            415.84,
+            449.07,
+            413.55
+        ],
+        "area": 116807.27
+    },
+    {
+        "id": "textocr_query_bd069cb2c813388a_15",
+        "image": [
+            "textocr/query/bd069cb2c813388a_15.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "RESPONSIVE",
+        "img_id": "bd069cb2c813388a",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "bd069cb2c813388a_15",
+        "box": [
+            178.63,
+            454.14,
+            452.05,
+            255.68
+        ],
+        "points": [
+            233.9,
+            454.14,
+            630.68,
+            567.02,
+            598.18,
+            709.82,
+            178.63,
+            590.65
+        ],
+        "area": 115580.14
+    },
+    {
+        "id": "textocr_query_78be832076f28a42_1",
+        "image": [
+            "textocr/query/78be832076f28a42_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Facebook",
+        "img_id": "78be832076f28a42",
+        "width": 763,
+        "height": 1024,
+        "ann_id": "78be832076f28a42_1",
+        "box": [
+            37.64,
+            12.25,
+            561.49,
+            205.51
+        ],
+        "points": [
+            37.64,
+            28.59,
+            599.13,
+            12.25,
+            597.41,
+            169.61,
+            45.38,
+            217.76
+        ],
+        "area": 115391.81
+    },
+    {
+        "id": "textocr_query_007c8c28e1f149b1_2",
+        "image": [
+            "textocr/query/007c8c28e1f149b1_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "MOVIE",
+        "img_id": "007c8c28e1f149b1",
+        "width": 1024,
+        "height": 910,
+        "ann_id": "007c8c28e1f149b1_2",
+        "box": [
+            238.12,
+            117.4,
+            486.87,
+            236.96
+        ],
+        "points": [
+            339.46,
+            117.4,
+            724.99,
+            245.4,
+            681.56,
+            354.36,
+            238.12,
+            230.93
+        ],
+        "area": 115368.72
+    },
+    {
+        "id": "textocr_query_01c4f4a2bb5bae43_2",
+        "image": [
+            "textocr/query/01c4f4a2bb5bae43_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "FAMOSAS",
+        "img_id": "01c4f4a2bb5bae43",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "01c4f4a2bb5bae43_2",
+        "box": [
+            165.49,
+            345.26,
+            740.61,
+            155.6
+        ],
+        "points": [
+            165.49,
+            347.23,
+            894.29,
+            345.26,
+            906.1,
+            483.14,
+            167.46,
+            500.86
+        ],
+        "area": 115238.92
+    },
+    {
+        "id": "textocr_query_7ceb87ec77210198_20",
+        "image": [
+            "textocr/query/7ceb87ec77210198_20.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Saturday",
+        "img_id": "7ceb87ec77210198",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "7ceb87ec77210198_20",
+        "box": [
+            136.51,
+            349.19,
+            585.93,
+            195.57
+        ],
+        "points": [
+            140.44,
+            349.98,
+            722.44,
+            349.19,
+            718.51,
+            522.77,
+            136.51,
+            544.76
+        ],
+        "area": 114590.33
+    },
+    {
+        "id": "textocr_query_832cf0827322d625_2",
+        "image": [
+            "textocr/query/832cf0827322d625_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "ANOS",
+        "img_id": "832cf0827322d625",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "832cf0827322d625_2",
+        "box": [
+            467.72,
+            371.11,
+            417.06,
+            274.51
+        ],
+        "points": [
+            467.72,
+            539.59,
+            657.4,
+            474.79,
+            772.86,
+            371.11,
+            884.78,
+            435.91,
+            733.98,
+            566.69,
+            468.9,
+            645.62
+        ],
+        "area": 114487.14
+    },
+    {
+        "id": "textocr_query_1633f9f22f7b2d31_1",
+        "image": [
+            "textocr/query/1633f9f22f7b2d31_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "STOP",
+        "img_id": "1633f9f22f7b2d31",
+        "width": 1024,
+        "height": 683,
+        "ann_id": "1633f9f22f7b2d31_1",
+        "box": [
+            1.31,
+            218.09,
+            906.51,
+            126.12
+        ],
+        "points": [
+            67.0,
+            218.09,
+            896.0,
+            218.09,
+            907.82,
+            337.64,
+            1.31,
+            344.21
+        ],
+        "area": 114329.04
+    },
+    {
+        "id": "textocr_query_78943eff6a2d1f45_2",
+        "image": [
+            "textocr/query/78943eff6a2d1f45_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "MAIDEN",
+        "img_id": "78943eff6a2d1f45",
+        "width": 1024,
+        "height": 1012,
+        "ann_id": "78943eff6a2d1f45_2",
+        "box": [
+            400.24,
+            4.64,
+            611.55,
+            185.16
+        ],
+        "points": [
+            400.92,
+            7.35,
+            1007.73,
+            4.64,
+            1011.79,
+            186.42,
+            400.24,
+            189.8
+        ],
+        "area": 113234.6
+    },
+    {
+        "id": "textocr_query_dbb1ad4e4e91b583_1",
+        "image": [
+            "textocr/query/dbb1ad4e4e91b583_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Greetings",
+        "img_id": "dbb1ad4e4e91b583",
+        "width": 1024,
+        "height": 669,
+        "ann_id": "dbb1ad4e4e91b583_1",
+        "box": [
+            254.8,
+            111.96,
+            492.86,
+            229.05
+        ],
+        "points": [
+            256.08,
+            111.96,
+            747.66,
+            118.39,
+            745.08,
+            299.84,
+            254.8,
+            341.01
+        ],
+        "area": 112889.58
+    },
+    {
+        "id": "textocr_query_b8439958d2dcc04d_61",
+        "image": [
+            "textocr/query/b8439958d2dcc04d_61.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "3",
+        "img_id": "b8439958d2dcc04d",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "b8439958d2dcc04d_61",
+        "box": [
+            604.81,
+            42.94,
+            309.6,
+            354.4
+        ],
+        "points": [
+            604.81,
+            74.94,
+            806.41,
+            42.94,
+            914.41,
+            353.34,
+            648.01,
+            397.34
+        ],
+        "area": 109722.24
+    },
+    {
+        "id": "textocr_query_0a65ea998e489351_7",
+        "image": [
+            "textocr/query/0a65ea998e489351_7.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "CACOPHONY",
+        "img_id": "0a65ea998e489351",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "0a65ea998e489351_7",
+        "box": [
+            138.87,
+            132.59,
+            734.22,
+            149.33
+        ],
+        "points": [
+            138.87,
+            140.51,
+            867.43,
+            132.59,
+            873.09,
+            280.79,
+            138.87,
+            281.92
+        ],
+        "area": 109641.07
+    },
+    {
+        "id": "textocr_query_85202715105cebc8_5",
+        "image": [
+            "textocr/query/85202715105cebc8_5.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "X",
+        "img_id": "85202715105cebc8",
+        "width": 765,
+        "height": 1024,
+        "ann_id": "85202715105cebc8_5",
+        "box": [
+            233.15,
+            110.94,
+            313.79,
+            348.95
+        ],
+        "points": [
+            233.15,
+            122.94,
+            546.94,
+            110.94,
+            522.94,
+            459.03,
+            248.58,
+            459.89
+        ],
+        "area": 109497.02
+    },
+    {
+        "id": "textocr_query_028ee005563ec20d_1",
+        "image": [
+            "textocr/query/028ee005563ec20d_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "LOKA",
+        "img_id": "028ee005563ec20d",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "028ee005563ec20d_1",
+        "box": [
+            138.56,
+            164.93,
+            514.71,
+            209.92
+        ],
+        "points": [
+            138.56,
+            181.53,
+            647.34,
+            164.93,
+            653.27,
+            362.99,
+            146.86,
+            374.85
+        ],
+        "area": 108047.92
+    },
+    {
+        "id": "textocr_query_c2e01a58f2826ab0_1",
+        "image": [
+            "textocr/query/c2e01a58f2826ab0_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "GEICO",
+        "img_id": "c2e01a58f2826ab0",
+        "width": 1024,
+        "height": 678,
+        "ann_id": "c2e01a58f2826ab0_1",
+        "box": [
+            125.57,
+            -0.26,
+            650.55,
+            165.76
+        ],
+        "points": [
+            125.57,
+            7.69,
+            484.34,
+            0.88,
+            765.9,
+            -0.26,
+            776.12,
+            128.04,
+            468.44,
+            149.61,
+            128.97,
+            165.5
+        ],
+        "area": 107835.17
+    },
+    {
+        "id": "textocr_query_4214185d9983f04d_1",
+        "image": [
+            "textocr/query/4214185d9983f04d_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "GROUNDSWELL",
+        "img_id": "4214185d9983f04d",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "4214185d9983f04d_1",
+        "box": [
+            455.6,
+            410.99,
+            422.01,
+            255.36
+        ],
+        "points": [
+            455.6,
+            599.1,
+            608.61,
+            544.52,
+            735.32,
+            477.27,
+            841.55,
+            410.99,
+            877.61,
+            457.77,
+            816.21,
+            509.43,
+            686.59,
+            592.27,
+            478.01,
+            666.35
+        ],
+        "area": 107764.47
+    },
+    {
+        "id": "textocr_query_c8bb446b8120bc9e_3",
+        "image": [
+            "textocr/query/c8bb446b8120bc9e_3.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Bitburger",
+        "img_id": "c8bb446b8120bc9e",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "c8bb446b8120bc9e_3",
+        "box": [
+            2.67,
+            16.56,
+            473.57,
+            227.27
+        ],
+        "points": [
+            2.67,
+            19.92,
+            461.69,
+            16.56,
+            476.24,
+            242.71,
+            6.03,
+            243.83
+        ],
+        "area": 107628.25
+    },
+    {
+        "id": "textocr_query_f614e73458e4827c_15",
+        "image": [
+            "textocr/query/f614e73458e4827c_15.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Virgin",
+        "img_id": "f614e73458e4827c",
+        "width": 689,
+        "height": 1024,
+        "ann_id": "f614e73458e4827c_15",
+        "box": [
+            167.1,
+            508.04,
+            392.15,
+            273.56
+        ],
+        "points": [
+            167.1,
+            509.39,
+            559.25,
+            508.04,
+            559.25,
+            776.21,
+            167.1,
+            781.6
+        ],
+        "area": 107276.55
+    },
+    {
+        "id": "textocr_query_135fb97b6e8984b6_6",
+        "image": [
+            "textocr/query/135fb97b6e8984b6_6.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "1987",
+        "img_id": "135fb97b6e8984b6",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "135fb97b6e8984b6_6",
+        "box": [
+            361.31,
+            318.87,
+            423.59,
+            252.3
+        ],
+        "points": [
+            378.75,
+            318.87,
+            784.9,
+            331.18,
+            774.64,
+            571.17,
+            361.31,
+            568.1
+        ],
+        "area": 106871.76
+    },
+    {
+        "id": "textocr_query_956871ce5512396b_3",
+        "image": [
+            "textocr/query/956871ce5512396b_3.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "EDxCONCORDIA",
+        "img_id": "956871ce5512396b",
+        "width": 1024,
+        "height": 711,
+        "ann_id": "956871ce5512396b_3",
+        "box": [
+            100.77,
+            435.08,
+            766.74,
+            139.3
+        ],
+        "points": [
+            117.44,
+            439.84,
+            842.51,
+            435.08,
+            867.51,
+            560.09,
+            100.77,
+            574.38
+        ],
+        "area": 106806.88
+    },
+    {
+        "id": "textocr_query_b3d36514d305b380_4",
+        "image": [
+            "textocr/query/b3d36514d305b380_4.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "ETHER",
+        "img_id": "b3d36514d305b380",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "b3d36514d305b380_4",
+        "box": [
+            263.94,
+            736.67,
+            535.76,
+            198.94
+        ],
+        "points": [
+            263.94,
+            801.67,
+            783.94,
+            736.67,
+            799.7,
+            890.31,
+            279.7,
+            935.61
+        ],
+        "area": 106584.09
+    },
+    {
+        "id": "textocr_query_ee1e78b23c92d86b_9",
+        "image": [
+            "textocr/query/ee1e78b23c92d86b_9.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "CASTELLDIBROLIO",
+        "img_id": "ee1e78b23c92d86b",
+        "width": 778,
+        "height": 1024,
+        "ann_id": "ee1e78b23c92d86b_9",
+        "box": [
+            136.75,
+            312.3,
+            437.6,
+            242.73
+        ],
+        "points": [
+            136.75,
+            501.01,
+            230.42,
+            490.75,
+            323.42,
+            465.46,
+            442.39,
+            414.17,
+            508.71,
+            362.21,
+            547.0,
+            312.3,
+            574.35,
+            354.69,
+            534.69,
+            406.65,
+            463.58,
+            461.35,
+            344.61,
+            523.58,
+            245.47,
+            548.87,
+            145.64,
+            555.03
+        ],
+        "area": 106218.65
+    },
+    {
+        "id": "textocr_query_f8a979d3ffb4711a_12",
+        "image": [
+            "textocr/query/f8a979d3ffb4711a_12.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "TAKE",
+        "img_id": "f8a979d3ffb4711a",
+        "width": 768,
+        "height": 1024,
+        "ann_id": "f8a979d3ffb4711a_12",
+        "box": [
+            95.81,
+            285.16,
+            505.75,
+            206.23
+        ],
+        "points": [
+            95.81,
+            290.34,
+            597.42,
+            285.16,
+            601.56,
+            491.39,
+            97.88,
+            483.1
+        ],
+        "area": 104300.82
+    },
+    {
+        "id": "textocr_query_6fc4ac429912b49d_29",
+        "image": [
+            "textocr/query/6fc4ac429912b49d_29.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "BUTTOCK",
+        "img_id": "6fc4ac429912b49d",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "6fc4ac429912b49d_29",
+        "box": [
+            449.06,
+            405.66,
+            363.12,
+            286.44
+        ],
+        "points": [
+            454.98,
+            405.66,
+            516.18,
+            484.46,
+            607.38,
+            517.66,
+            701.38,
+            513.66,
+            812.18,
+            455.59,
+            806.97,
+            692.1,
+            693.44,
+            638.46,
+            602.65,
+            615.23,
+            505.54,
+            614.18,
+            449.06,
+            634.76
+        ],
+        "area": 104012.09
+    },
+    {
+        "id": "textocr_query_8b3e34ce484cd24d_4",
+        "image": [
+            "textocr/query/8b3e34ce484cd24d_4.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "LIFE",
+        "img_id": "8b3e34ce484cd24d",
+        "width": 748,
+        "height": 1024,
+        "ann_id": "8b3e34ce484cd24d_4",
+        "box": [
+            557.43,
+            407.73,
+            189.09,
+            547.58
+        ],
+        "points": [
+            557.43,
+            947.43,
+            569.24,
+            419.55,
+            746.52,
+            407.73,
+            740.61,
+            955.31
+        ],
+        "area": 103541.9
+    },
+    {
+        "id": "textocr_query_f76db9cbeb6634c4_7",
+        "image": [
+            "textocr/query/f76db9cbeb6634c4_7.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "YOU",
+        "img_id": "f76db9cbeb6634c4",
+        "width": 1024,
+        "height": 961,
+        "ann_id": "f76db9cbeb6634c4_7",
+        "box": [
+            246.49,
+            527.49,
+            275.16,
+            375.44
+        ],
+        "points": [
+            246.49,
+            529.21,
+            521.65,
+            527.49,
+            520.79,
+            900.36,
+            247.35,
+            902.93
+        ],
+        "area": 103306.07
+    },
+    {
+        "id": "textocr_query_234f7bf1beaa0f4f_1",
+        "image": [
+            "textocr/query/234f7bf1beaa0f4f_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "WMHS",
+        "img_id": "234f7bf1beaa0f4f",
+        "width": 751,
+        "height": 1024,
+        "ann_id": "234f7bf1beaa0f4f_1",
+        "box": [
+            256.06,
+            722.88,
+            366.37,
+            281.67
+        ],
+        "points": [
+            269.85,
+            722.88,
+            622.43,
+            776.06,
+            614.55,
+            1004.55,
+            256.06,
+            992.73
+        ],
+        "area": 103195.44
+    },
+    {
+        "id": "textocr_query_94c4bf4a429e0526_1",
+        "image": [
+            "textocr/query/94c4bf4a429e0526_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "LiST",
+        "img_id": "94c4bf4a429e0526",
+        "width": 768,
+        "height": 1024,
+        "ann_id": "94c4bf4a429e0526_1",
+        "box": [
+            139.27,
+            232.09,
+            495.55,
+            208.1
+        ],
+        "points": [
+            146.76,
+            233.59,
+            622.84,
+            232.09,
+            634.82,
+            440.19,
+            139.27,
+            425.22
+        ],
+        "area": 103123.96
+    },
+    {
+        "id": "textocr_query_f93dff5e31fd2342_13",
+        "image": [
+            "textocr/query/f93dff5e31fd2342_13.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "STO",
+        "img_id": "f93dff5e31fd2342",
+        "width": 768,
+        "height": 1024,
+        "ann_id": "f93dff5e31fd2342_13",
+        "box": [
+            217.39,
+            2.74,
+            457.43,
+            223.86
+        ],
+        "points": [
+            221.96,
+            2.74,
+            663.12,
+            5.68,
+            674.82,
+            220.1,
+            217.39,
+            226.6
+        ],
+        "area": 102400.28
+    },
+    {
+        "id": "textocr_query_3f556e94f6e542ec_1",
+        "image": [
+            "textocr/query/3f556e94f6e542ec_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "COWBELLMAN",
+        "img_id": "3f556e94f6e542ec",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "3f556e94f6e542ec_1",
+        "box": [
+            191.88,
+            403.05,
+            483.07,
+            211.25
+        ],
+        "points": [
+            191.88,
+            547.82,
+            231.77,
+            462.14,
+            342.56,
+            410.44,
+            485.86,
+            403.05,
+            592.22,
+            437.03,
+            674.95,
+            487.25,
+            608.47,
+            595.1,
+            542.0,
+            556.69,
+            462.22,
+            522.71,
+            366.2,
+            531.57,
+            327.79,
+            553.73,
+            265.74,
+            614.3
+        ],
+        "area": 102048.54
+    },
+    {
+        "id": "textocr_query_357b8de55f8cd38a_3",
+        "image": [
+            "textocr/query/357b8de55f8cd38a_3.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "STYLE",
+        "img_id": "357b8de55f8cd38a",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "357b8de55f8cd38a_3",
+        "box": [
+            357.78,
+            453.22,
+            342.73,
+            293.49
+        ],
+        "points": [
+            357.78,
+            514.28,
+            692.63,
+            453.22,
+            700.51,
+            726.03,
+            359.75,
+            746.71
+        ],
+        "area": 100587.83
+    },
+    {
+        "id": "textocr_query_df1c84eb74c79d38_6",
+        "image": [
+            "textocr/query/df1c84eb74c79d38_6.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Energy",
+        "img_id": "df1c84eb74c79d38",
+        "width": 653,
+        "height": 1024,
+        "ann_id": "df1c84eb74c79d38_6",
+        "box": [
+            22.72,
+            490.51,
+            613.16,
+            164.04
+        ],
+        "points": [
+            22.72,
+            490.51,
+            635.88,
+            490.51,
+            625.7,
+            654.55,
+            26.11,
+            650.02
+        ],
+        "area": 100582.77
+    },
+    {
+        "id": "textocr_query_d446e470f7ec0dd9_1",
+        "image": [
+            "textocr/query/d446e470f7ec0dd9_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "ice",
+        "img_id": "d446e470f7ec0dd9",
+        "width": 768,
+        "height": 1024,
+        "ann_id": "d446e470f7ec0dd9_1",
+        "box": [
+            108.59,
+            29.13,
+            383.93,
+            257.74
+        ],
+        "points": [
+            108.59,
+            88.66,
+            458.59,
+            29.13,
+            492.52,
+            181.51,
+            138.35,
+            286.87
+        ],
+        "area": 98954.12
+    },
+    {
+        "id": "textocr_query_dc8f2786cc122c2f_40",
+        "image": [
+            "textocr/query/dc8f2786cc122c2f_40.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "MARINES",
+        "img_id": "dc8f2786cc122c2f",
+        "width": 708,
+        "height": 1024,
+        "ann_id": "dc8f2786cc122c2f_40",
+        "box": [
+            74.4,
+            113.86,
+            565.0,
+            174.05
+        ],
+        "points": [
+            76.12,
+            114.72,
+            639.4,
+            113.86,
+            637.69,
+            284.48,
+            74.4,
+            287.91
+        ],
+        "area": 98338.25
+    },
+    {
+        "id": "textocr_query_bb636f0f4acf80d9_2",
+        "image": [
+            "textocr/query/bb636f0f4acf80d9_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "STAND",
+        "img_id": "bb636f0f4acf80d9",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "bb636f0f4acf80d9_2",
+        "box": [
+            3.53,
+            1.15,
+            512.5,
+            190.86
+        ],
+        "points": [
+            11.78,
+            1.15,
+            516.03,
+            2.33,
+            516.03,
+            169.63,
+            3.53,
+            192.01
+        ],
+        "area": 97815.75
+    },
+    {
+        "id": "textocr_query_85165e7af73ac806_6",
+        "image": [
+            "textocr/query/85165e7af73ac806_6.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "AFTERMATH",
+        "img_id": "85165e7af73ac806",
+        "width": 653,
+        "height": 1024,
+        "ann_id": "85165e7af73ac806_6",
+        "box": [
+            108.12,
+            44.4,
+            531.28,
+            183.92
+        ],
+        "points": [
+            108.12,
+            44.4,
+            638.71,
+            53.97,
+            639.4,
+            228.32,
+            108.12,
+            208.5
+        ],
+        "area": 97713.02
+    },
+    {
+        "id": "textocr_query_773b997bdd2a6e16_82",
+        "image": [
+            "textocr/query/773b997bdd2a6e16_82.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "4",
+        "img_id": "773b997bdd2a6e16",
+        "width": 1024,
+        "height": 1013,
+        "ann_id": "773b997bdd2a6e16_82",
+        "box": [
+            208.39,
+            29.18,
+            271.41,
+            359.62
+        ],
+        "points": [
+            211.79,
+            29.18,
+            479.8,
+            29.18,
+            474.71,
+            382.01,
+            208.39,
+            388.8
+        ],
+        "area": 97604.46
+    },
+    {
+        "id": "textocr_query_b0a81a66a0d63dfb_3",
+        "image": [
+            "textocr/query/b0a81a66a0d63dfb_3.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Se\u00f1ores",
+        "img_id": "b0a81a66a0d63dfb",
+        "width": 768,
+        "height": 1024,
+        "ann_id": "b0a81a66a0d63dfb_3",
+        "box": [
+            242.36,
+            667.6,
+            321.81,
+            302.24
+        ],
+        "points": [
+            242.36,
+            897.0,
+            506.55,
+            667.6,
+            564.17,
+            718.7,
+            277.15,
+            969.84
+        ],
+        "area": 97263.85
+    },
+    {
+        "id": "textocr_query_60b9d758a15ea0b6_4",
+        "image": [
+            "textocr/query/60b9d758a15ea0b6_4.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Berman",
+        "img_id": "60b9d758a15ea0b6",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "60b9d758a15ea0b6_4",
+        "box": [
+            458.29,
+            213.55,
+            495.03,
+            195.55
+        ],
+        "points": [
+            462.39,
+            214.92,
+            950.59,
+            213.55,
+            953.32,
+            407.74,
+            458.29,
+            409.1
+        ],
+        "area": 96803.12
+    },
+    {
+        "id": "textocr_query_940024b12f59207d_3",
+        "image": [
+            "textocr/query/940024b12f59207d_3.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "MONTH",
+        "img_id": "940024b12f59207d",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "940024b12f59207d_3",
+        "box": [
+            503.01,
+            198.47,
+            250.8,
+            384.49
+        ],
+        "points": [
+            506.12,
+            198.47,
+            753.81,
+            201.58,
+            751.74,
+            582.96,
+            503.01,
+            582.96
+        ],
+        "area": 96430.09
+    },
+    {
+        "id": "textocr_query_f29a434ee3d5c06c_23",
+        "image": [
+            "textocr/query/f29a434ee3d5c06c_23.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "OLD",
+        "img_id": "f29a434ee3d5c06c",
+        "width": 1024,
+        "height": 819,
+        "ann_id": "f29a434ee3d5c06c_23",
+        "box": [
+            249.8,
+            253.37,
+            411.9,
+            234.01
+        ],
+        "points": [
+            250.99,
+            253.37,
+            658.11,
+            298.74,
+            661.7,
+            487.38,
+            249.8,
+            458.72
+        ],
+        "area": 96388.72
+    },
+    {
+        "id": "textocr_query_14b934a7021b311a_5",
+        "image": [
+            "textocr/query/14b934a7021b311a_5.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "PENIS",
+        "img_id": "14b934a7021b311a",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "14b934a7021b311a_5",
+        "box": [
+            205.61,
+            455.98,
+            519.54,
+            184.55
+        ],
+        "points": [
+            205.61,
+            480.35,
+            432.65,
+            469.21,
+            700.78,
+            455.98,
+            725.15,
+            616.86,
+            591.44,
+            621.03,
+            221.63,
+            640.53
+        ],
+        "area": 95881.11
+    },
+    {
+        "id": "textocr_query_9655a546f63dd653_14",
+        "image": [
+            "textocr/query/9655a546f63dd653_14.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "WITCHES",
+        "img_id": "9655a546f63dd653",
+        "width": 683,
+        "height": 1024,
+        "ann_id": "9655a546f63dd653_14",
+        "box": [
+            94.08,
+            74.93,
+            565.86,
+            168.9
+        ],
+        "points": [
+            96.65,
+            77.51,
+            657.37,
+            74.93,
+            659.94,
+            243.83,
+            94.08,
+            241.26
+        ],
+        "area": 95573.75
+    },
+    {
+        "id": "textocr_query_443c0b31a360e242_6",
+        "image": [
+            "textocr/query/443c0b31a360e242_6.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "55",
+        "img_id": "443c0b31a360e242",
+        "width": 1024,
+        "height": 776,
+        "ann_id": "443c0b31a360e242_6",
+        "box": [
+            162.34,
+            477.73,
+            320.63,
+            296.63
+        ],
+        "points": [
+            167.48,
+            548.88,
+            482.97,
+            477.73,
+            469.25,
+            773.5,
+            162.34,
+            774.36
+        ],
+        "area": 95108.48
+    },
+    {
+        "id": "textocr_query_096c5a920933f198_5",
+        "image": [
+            "textocr/query/096c5a920933f198_5.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Maste",
+        "img_id": "096c5a920933f198",
+        "width": 1024,
+        "height": 680,
+        "ann_id": "096c5a920933f198_5",
+        "box": [
+            246.7,
+            57.37,
+            471.85,
+            201.24
+        ],
+        "points": [
+            246.7,
+            57.37,
+            718.55,
+            58.37,
+            712.61,
+            258.61,
+            249.68,
+            253.65
+        ],
+        "area": 94955.09
+    },
+    {
+        "id": "textocr_query_99bc11f22d19a274_7",
+        "image": [
+            "textocr/query/99bc11f22d19a274_7.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "KE",
+        "img_id": "99bc11f22d19a274",
+        "width": 1024,
+        "height": 721,
+        "ann_id": "99bc11f22d19a274_7",
+        "box": [
+            313.35,
+            403.47,
+            423.64,
+            223.26
+        ],
+        "points": [
+            313.35,
+            410.79,
+            720.52,
+            403.47,
+            736.99,
+            618.5,
+            330.73,
+            626.73
+        ],
+        "area": 94581.87
+    },
+    {
+        "id": "textocr_query_0748104eb11ef902_1",
+        "image": [
+            "textocr/query/0748104eb11ef902_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "STOP",
+        "img_id": "0748104eb11ef902",
+        "width": 813,
+        "height": 1024,
+        "ann_id": "0748104eb11ef902_1",
+        "box": [
+            156.79,
+            362.28,
+            482.57,
+            195.0
+        ],
+        "points": [
+            172.54,
+            362.28,
+            630.5,
+            362.28,
+            639.36,
+            557.28,
+            156.79,
+            555.32
+        ],
+        "area": 94101.15
+    },
+    {
+        "id": "textocr_query_0460bcb669cfb9c1_3",
+        "image": [
+            "textocr/query/0460bcb669cfb9c1_3.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "D\u00c9CIVILISATION",
+        "img_id": "0460bcb669cfb9c1",
+        "width": 709,
+        "height": 1024,
+        "ann_id": "0460bcb669cfb9c1_3",
+        "box": [
+            42.98,
+            107.79,
+            626.77,
+            150.01
+        ],
+        "points": [
+            44.55,
+            109.36,
+            668.96,
+            107.79,
+            669.75,
+            257.8,
+            42.98,
+            253.88
+        ],
+        "area": 94021.77
+    },
+    {
+        "id": "textocr_query_afe006b794efb2fa_100",
+        "image": [
+            "textocr/query/afe006b794efb2fa_100.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "WARS",
+        "img_id": "afe006b794efb2fa",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "afe006b794efb2fa_100",
+        "box": [
+            565.32,
+            432.4,
+            386.06,
+            241.28
+        ],
+        "points": [
+            569.77,
+            433.67,
+            951.38,
+            432.4,
+            945.66,
+            673.68,
+            565.32,
+            672.41
+        ],
+        "area": 93148.56
+    },
+    {
+        "id": "textocr_query_596d85cdc5340b7a_3",
+        "image": [
+            "textocr/query/596d85cdc5340b7a_3.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "happy",
+        "img_id": "596d85cdc5340b7a",
+        "width": 768,
+        "height": 1024,
+        "ann_id": "596d85cdc5340b7a_3",
+        "box": [
+            115.57,
+            185.06,
+            396.11,
+            234.92
+        ],
+        "points": [
+            115.57,
+            185.06,
+            511.68,
+            187.63,
+            505.67,
+            419.98,
+            117.29,
+            414.83
+        ],
+        "area": 93054.16
+    },
+    {
+        "id": "textocr_query_0683afb826b21a90_1",
+        "image": [
+            "textocr/query/0683afb826b21a90_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "AnatomyofaSTARWARS",
+        "img_id": "0683afb826b21a90",
+        "width": 1024,
+        "height": 787,
+        "ann_id": "0683afb826b21a90_1",
+        "box": [
+            39.69,
+            2.57,
+            690.14,
+            134.83
+        ],
+        "points": [
+            49.68,
+            2.57,
+            729.83,
+            7.56,
+            723.84,
+            123.42,
+            39.69,
+            137.4
+        ],
+        "area": 93051.58
+    },
+    {
+        "id": "textocr_query_5f4f5c31749e70de_5",
+        "image": [
+            "textocr/query/5f4f5c31749e70de_5.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "IMPERIAL",
+        "img_id": "5f4f5c31749e70de",
+        "width": 656,
+        "height": 1024,
+        "ann_id": "5f4f5c31749e70de_5",
+        "box": [
+            44.41,
+            48.15,
+            581.94,
+            159.45
+        ],
+        "points": [
+            44.41,
+            48.15,
+            626.35,
+            61.38,
+            621.21,
+            207.6,
+            45.15,
+            195.84
+        ],
+        "area": 92790.33
+    },
+    {
+        "id": "textocr_query_1aa93961e64cf814_1",
+        "image": [
+            "textocr/query/1aa93961e64cf814_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "3G",
+        "img_id": "1aa93961e64cf814",
+        "width": 768,
+        "height": 1024,
+        "ann_id": "1aa93961e64cf814_1",
+        "box": [
+            172.46,
+            377.35,
+            415.73,
+            222.91
+        ],
+        "points": [
+            173.83,
+            377.35,
+            584.77,
+            378.72,
+            588.19,
+            600.26,
+            172.46,
+            594.1
+        ],
+        "area": 92670.37
+    },
+    {
+        "id": "textocr_query_ccb8540a7d0d9243_39",
+        "image": [
+            "textocr/query/ccb8540a7d0d9243_39.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "LABELLISEES",
+        "img_id": "ccb8540a7d0d9243",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "ccb8540a7d0d9243_39",
+        "box": [
+            163.63,
+            60.55,
+            676.46,
+            136.32
+        ],
+        "points": [
+            163.63,
+            77.26,
+            838.8,
+            60.55,
+            840.09,
+            187.86,
+            180.34,
+            196.87
+        ],
+        "area": 92215.03
+    },
+    {
+        "id": "textocr_query_f37e70c5519847c3_6",
+        "image": [
+            "textocr/query/f37e70c5519847c3_6.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "VALUE",
+        "img_id": "f37e70c5519847c3",
+        "width": 768,
+        "height": 1024,
+        "ann_id": "f37e70c5519847c3_6",
+        "box": [
+            218.82,
+            831.36,
+            489.55,
+            187.76
+        ],
+        "points": [
+            218.82,
+            831.36,
+            708.37,
+            831.36,
+            708.37,
+            1019.12,
+            218.82,
+            1017.41
+        ],
+        "area": 91917.91
+    },
+    {
+        "id": "textocr_query_4d12c26483ddad12_1",
+        "image": [
+            "textocr/query/4d12c26483ddad12_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "TangerOutlets",
+        "img_id": "4d12c26483ddad12",
+        "width": 683,
+        "height": 1024,
+        "ann_id": "4d12c26483ddad12_1",
+        "box": [
+            206.39,
+            69.91,
+            395.39,
+            231.92
+        ],
+        "points": [
+            206.39,
+            69.91,
+            601.78,
+            201.71,
+            598.38,
+            301.83,
+            206.95,
+            184.18
+        ],
+        "area": 91698.85
+    },
+    {
+        "id": "textocr_query_cc2e2539c39414c8_4",
+        "image": [
+            "textocr/query/cc2e2539c39414c8_4.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "SF9",
+        "img_id": "cc2e2539c39414c8",
+        "width": 628,
+        "height": 1024,
+        "ann_id": "cc2e2539c39414c8_4",
+        "box": [
+            98.25,
+            721.87,
+            443.78,
+            206.48
+        ],
+        "points": [
+            106.57,
+            721.87,
+            542.03,
+            726.03,
+            536.2,
+            928.35,
+            98.25,
+            922.53
+        ],
+        "area": 91631.69
+    },
+    {
+        "id": "textocr_query_9da89a072ed1529b_1",
+        "image": [
+            "textocr/query/9da89a072ed1529b_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "POLSKIE",
+        "img_id": "9da89a072ed1529b",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "9da89a072ed1529b_1",
+        "box": [
+            267.62,
+            130.5,
+            593.56,
+            153.99
+        ],
+        "points": [
+            268.6,
+            130.5,
+            857.28,
+            131.47,
+            861.18,
+            284.49,
+            267.62,
+            257.2
+        ],
+        "area": 91402.3
+    },
+    {
+        "id": "textocr_query_174c9770bc42ddc6_51",
+        "image": [
+            "textocr/query/174c9770bc42ddc6_51.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "SIDESHOW",
+        "img_id": "174c9770bc42ddc6",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "174c9770bc42ddc6_51",
+        "box": [
+            264.61,
+            305.75,
+            609.09,
+            149.89
+        ],
+        "points": [
+            264.61,
+            312.08,
+            873.7,
+            305.75,
+            846.25,
+            453.53,
+            275.17,
+            455.64
+        ],
+        "area": 91296.5
+    },
+    {
+        "id": "textocr_query_7886a3d85186a626_6",
+        "image": [
+            "textocr/query/7886a3d85186a626_6.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "LOT",
+        "img_id": "7886a3d85186a626",
+        "width": 725,
+        "height": 1024,
+        "ann_id": "7886a3d85186a626_6",
+        "box": [
+            178.16,
+            380.51,
+            363.52,
+            250.35
+        ],
+        "points": [
+            178.16,
+            383.94,
+            541.68,
+            380.51,
+            540.82,
+            630.86,
+            180.73,
+            630.01
+        ],
+        "area": 91007.23
+    },
+    {
+        "id": "textocr_query_44c0ab731912e8e4_29",
+        "image": [
+            "textocr/query/44c0ab731912e8e4_29.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "YEBISU",
+        "img_id": "44c0ab731912e8e4",
+        "width": 883,
+        "height": 1024,
+        "ann_id": "44c0ab731912e8e4_29",
+        "box": [
+            240.88,
+            682.78,
+            474.69,
+            191.06
+        ],
+        "points": [
+            240.88,
+            684.75,
+            715.57,
+            682.78,
+            705.73,
+            873.84,
+            248.75,
+            852.17
+        ],
+        "area": 90694.27
+    },
+    {
+        "id": "textocr_query_dcc75bc47d863707_8",
+        "image": [
+            "textocr/query/dcc75bc47d863707_8.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "COUGRRR",
+        "img_id": "dcc75bc47d863707",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "dcc75bc47d863707_8",
+        "box": [
+            432.71,
+            112.27,
+            466.55,
+            193.21
+        ],
+        "points": [
+            432.71,
+            213.59,
+            869.8,
+            112.27,
+            899.26,
+            210.05,
+            433.89,
+            305.48
+        ],
+        "area": 90142.13
+    },
+    {
+        "id": "textocr_query_5e3c9f490606e41b_4",
+        "image": [
+            "textocr/query/5e3c9f490606e41b_4.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "FIN",
+        "img_id": "5e3c9f490606e41b",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "5e3c9f490606e41b_4",
+        "box": [
+            347.24,
+            -0.34,
+            390.99,
+            230.46
+        ],
+        "points": [
+            347.24,
+            -0.34,
+            738.23,
+            0.65,
+            737.24,
+            208.45,
+            349.21,
+            230.12
+        ],
+        "area": 90107.56
+    },
+    {
+        "id": "textocr_query_4f567afa3ea9f026_45",
+        "image": [
+            "textocr/query/4f567afa3ea9f026_45.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "ace",
+        "img_id": "4f567afa3ea9f026",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "4f567afa3ea9f026_45",
+        "box": [
+            36.46,
+            595.46,
+            371.29,
+            242.28
+        ],
+        "points": [
+            36.46,
+            736.3,
+            351.61,
+            595.46,
+            407.75,
+            692.96,
+            83.73,
+            837.74
+        ],
+        "area": 89956.14
+    },
+    {
+        "id": "textocr_query_62a01e342061cb34_6",
+        "image": [
+            "textocr/query/62a01e342061cb34_6.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Peanuts",
+        "img_id": "62a01e342061cb34",
+        "width": 1024,
+        "height": 683,
+        "ann_id": "62a01e342061cb34_6",
+        "box": [
+            560.54,
+            32.48,
+            387.67,
+            231.55
+        ],
+        "points": [
+            560.54,
+            173.93,
+            924.11,
+            32.48,
+            948.21,
+            110.01,
+            575.21,
+            264.03
+        ],
+        "area": 89764.99
+    },
+    {
+        "id": "textocr_query_0eb568fd8064edc1_1",
+        "image": [
+            "textocr/query/0eb568fd8064edc1_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "COLORADO",
+        "img_id": "0eb568fd8064edc1",
+        "width": 509,
+        "height": 1024,
+        "ann_id": "0eb568fd8064edc1_1",
+        "box": [
+            10.41,
+            69.45,
+            489.62,
+            182.86
+        ],
+        "points": [
+            13.39,
+            102.29,
+            89.52,
+            83.63,
+            203.72,
+            69.45,
+            351.5,
+            72.44,
+            494.06,
+            111.25,
+            500.03,
+            252.31,
+            415.69,
+            229.92,
+            205.96,
+            219.47,
+            88.03,
+            221.71,
+            10.41,
+            241.86
+        ],
+        "area": 89531.91
+    },
+    {
+        "id": "textocr_query_afd0c5a6d3ef244d_24",
+        "image": [
+            "textocr/query/afd0c5a6d3ef244d_24.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "GUINNESS",
+        "img_id": "afd0c5a6d3ef244d",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "afd0c5a6d3ef244d_24",
+        "box": [
+            76.08,
+            561.3,
+            406.82,
+            218.26
+        ],
+        "points": [
+            82.14,
+            656.49,
+            279.79,
+            660.12,
+            433.79,
+            561.3,
+            482.9,
+            639.51,
+            324.66,
+            738.94,
+            76.08,
+            779.56
+        ],
+        "area": 88792.53
+    },
+    {
+        "id": "textocr_query_1f54ecbe84b9805f_14",
+        "image": [
+            "textocr/query/1f54ecbe84b9805f_14.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "CERVEJAO",
+        "img_id": "1f54ecbe84b9805f",
+        "width": 768,
+        "height": 768,
+        "ann_id": "1f54ecbe84b9805f_14",
+        "box": [
+            189.09,
+            390.47,
+            368.58,
+            239.32
+        ],
+        "points": [
+            189.09,
+            549.28,
+            555.46,
+            390.47,
+            557.67,
+            582.52,
+            189.83,
+            629.79
+        ],
+        "area": 88208.57
+    },
+    {
+        "id": "textocr_query_ebe13ce1d27c50bc_4",
+        "image": [
+            "textocr/query/ebe13ce1d27c50bc_4.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "CAPTIVE",
+        "img_id": "ebe13ce1d27c50bc",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "ebe13ce1d27c50bc_4",
+        "box": [
+            228.4,
+            210.6,
+            542.16,
+            162.5
+        ],
+        "points": [
+            228.4,
+            210.6,
+            770.56,
+            210.6,
+            770.56,
+            372.61,
+            228.4,
+            373.1
+        ],
+        "area": 88101.0
+    },
+    {
+        "id": "textocr_query_0a2e7e1ac12be6fe_44",
+        "image": [
+            "textocr/query/0a2e7e1ac12be6fe_44.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Construction",
+        "img_id": "0a2e7e1ac12be6fe",
+        "width": 2560,
+        "height": 1920,
+        "ann_id": "0a2e7e1ac12be6fe_44",
+        "box": [
+            1170.37,
+            682.97,
+            497.76,
+            175.24
+        ],
+        "points": [
+            1170.37,
+            682.97,
+            1657.82,
+            693.28,
+            1668.13,
+            858.21,
+            1174.78,
+            853.8
+        ],
+        "area": 87227.46
+    },
+    {
+        "id": "textocr_query_76b45f2ac0e8d898_51",
+        "image": [
+            "textocr/query/76b45f2ac0e8d898_51.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "IDEA",
+        "img_id": "76b45f2ac0e8d898",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "76b45f2ac0e8d898_51",
+        "box": [
+            31.62,
+            442.04,
+            409.7,
+            212.73
+        ],
+        "points": [
+            31.62,
+            447.95,
+            399.95,
+            442.04,
+            441.32,
+            628.18,
+            50.33,
+            654.77
+        ],
+        "area": 87155.48
+    },
+    {
+        "id": "textocr_query_55a327379bc5038b_5",
+        "image": [
+            "textocr/query/55a327379bc5038b_5.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "PRINCEPSMAVAR",
+        "img_id": "55a327379bc5038b",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "55a327379bc5038b_5",
+        "box": [
+            178.47,
+            441.62,
+            228.71,
+            376.21
+        ],
+        "points": [
+            372.1,
+            817.83,
+            270.73,
+            752.86,
+            209.01,
+            669.04,
+            178.47,
+            561.83,
+            184.97,
+            446.82,
+            241.5,
+            441.62,
+            229.8,
+            547.53,
+            259.04,
+            643.05,
+            316.22,
+            718.42,
+            407.18,
+            778.85
+        ],
+        "area": 86042.99
+    },
+    {
+        "id": "textocr_query_4e8b6086bac76392_9",
+        "image": [
+            "textocr/query/4e8b6086bac76392_9.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "NAILBOMBS",
+        "img_id": "4e8b6086bac76392",
+        "width": 768,
+        "height": 1024,
+        "ann_id": "4e8b6086bac76392_9",
+        "box": [
+            31.29,
+            166.19,
+            555.71,
+            153.5
+        ],
+        "points": [
+            31.29,
+            234.54,
+            545.54,
+            166.19,
+            587.0,
+            243.5,
+            40.25,
+            319.69
+        ],
+        "area": 85301.49
+    },
+    {
+        "id": "textocr_query_78284e7e6e696343_2",
+        "image": [
+            "textocr/query/78284e7e6e696343_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "STARBUCKS",
+        "img_id": "78284e7e6e696343",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "78284e7e6e696343_2",
+        "box": [
+            252.61,
+            85.68,
+            484.55,
+            175.8
+        ],
+        "points": [
+            252.61,
+            206.82,
+            293.98,
+            158.07,
+            338.3,
+            124.09,
+            415.12,
+            101.93,
+            478.64,
+            85.68,
+            531.82,
+            85.68,
+            601.25,
+            96.02,
+            650.0,
+            122.61,
+            717.96,
+            146.25,
+            737.16,
+            183.18,
+            679.55,
+            230.46,
+            660.34,
+            214.21,
+            621.93,
+            196.48,
+            579.09,
+            168.41,
+            520.0,
+            162.5,
+            477.16,
+            168.41,
+            438.75,
+            175.8,
+            387.05,
+            197.96,
+            338.3,
+            237.84,
+            325.0,
+            261.48
+        ],
+        "area": 85183.89
+    },
+    {
+        "id": "textocr_query_25ad81da4cb9d105_1",
+        "image": [
+            "textocr/query/25ad81da4cb9d105_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Hadiah",
+        "img_id": "25ad81da4cb9d105",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "25ad81da4cb9d105_1",
+        "box": [
+            42.67,
+            9.69,
+            572.2,
+            147.72
+        ],
+        "points": [
+            48.58,
+            12.64,
+            610.93,
+            9.69,
+            614.87,
+            157.41,
+            42.67,
+            155.44
+        ],
+        "area": 84525.38
+    },
+    {
+        "id": "textocr_query_839179e9747b4390_27",
+        "image": [
+            "textocr/query/839179e9747b4390_27.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "TRANSILVANIA",
+        "img_id": "839179e9747b4390",
+        "width": 1024,
+        "height": 683,
+        "ann_id": "839179e9747b4390_27",
+        "box": [
+            380.98,
+            127.91,
+            567.43,
+            147.89
+        ],
+        "points": [
+            380.98,
+            213.17,
+            922.0,
+            127.91,
+            948.41,
+            213.17,
+            384.75,
+            275.8
+        ],
+        "area": 83917.22
+    },
+    {
+        "id": "textocr_query_5b9d70f00e4edcaa_15",
+        "image": [
+            "textocr/query/5b9d70f00e4edcaa_15.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "HOPTICAL",
+        "img_id": "5b9d70f00e4edcaa",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "5b9d70f00e4edcaa_15",
+        "box": [
+            264.34,
+            649.21,
+            474.52,
+            176.41
+        ],
+        "points": [
+            269.12,
+            649.21,
+            738.86,
+            656.73,
+            738.18,
+            825.62,
+            264.34,
+            818.1
+        ],
+        "area": 83710.07
+    },
+    {
+        "id": "textocr_query_481e3c4dda43cd7b_9",
+        "image": [
+            "textocr/query/481e3c4dda43cd7b_9.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "SPACE",
+        "img_id": "481e3c4dda43cd7b",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "481e3c4dda43cd7b_9",
+        "box": [
+            293.51,
+            341.2,
+            338.2,
+            247.07
+        ],
+        "points": [
+            293.51,
+            470.83,
+            599.55,
+            341.2,
+            631.71,
+            425.02,
+            293.51,
+            588.27
+        ],
+        "area": 83559.07
+    },
+    {
+        "id": "textocr_query_78d66800391efee9_1",
+        "image": [
+            "textocr/query/78d66800391efee9_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "AGER",
+        "img_id": "78d66800391efee9",
+        "width": 1024,
+        "height": 685,
+        "ann_id": "78d66800391efee9_1",
+        "box": [
+            2.43,
+            241.69,
+            450.29,
+            185.31
+        ],
+        "points": [
+            20.04,
+            241.69,
+            451.04,
+            267.68,
+            452.72,
+            427.0,
+            2.43,
+            401.01
+        ],
+        "area": 83443.24
+    },
+    {
+        "id": "textocr_query_33471ae417f19b4e_2",
+        "image": [
+            "textocr/query/33471ae417f19b4e_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "BANK",
+        "img_id": "33471ae417f19b4e",
+        "width": 1024,
+        "height": 684,
+        "ann_id": "33471ae417f19b4e_2",
+        "box": [
+            538.04,
+            334.04,
+            307.01,
+            271.0
+        ],
+        "points": [
+            538.04,
+            421.04,
+            638.04,
+            381.04,
+            769.04,
+            334.04,
+            845.05,
+            528.04,
+            724.04,
+            564.04,
+            601.04,
+            605.04
+        ],
+        "area": 83199.71
+    },
+    {
+        "id": "textocr_query_0867d093240389ef_22",
+        "image": [
+            "textocr/query/0867d093240389ef_22.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "CALCULUS",
+        "img_id": "0867d093240389ef",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "0867d093240389ef_22",
+        "box": [
+            351.86,
+            1.11,
+            130.7,
+            634.81
+        ],
+        "points": [
+            427.79,
+            2.36,
+            482.56,
+            625.97,
+            401.65,
+            635.92,
+            351.86,
+            1.11
+        ],
+        "area": 82969.67
+    },
+    {
+        "id": "textocr_query_fb8def9936391f5c_13",
+        "image": [
+            "textocr/query/fb8def9936391f5c_13.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "BOOK",
+        "img_id": "fb8def9936391f5c",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "fb8def9936391f5c_13",
+        "box": [
+            525.99,
+            64.23,
+            293.97,
+            282.16
+        ],
+        "points": [
+            589.51,
+            64.23,
+            819.96,
+            262.18,
+            764.57,
+            346.39,
+            525.99,
+            155.08
+        ],
+        "area": 82946.58
+    },
+    {
+        "id": "textocr_query_731a016e680d66f6_5",
+        "image": [
+            "textocr/query/731a016e680d66f6_5.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "CARLTOn",
+        "img_id": "731a016e680d66f6",
+        "width": 827,
+        "height": 1024,
+        "ann_id": "731a016e680d66f6_5",
+        "box": [
+            297.04,
+            551.18,
+            445.73,
+            185.83
+        ],
+        "points": [
+            304.84,
+            631.75,
+            707.04,
+            551.18,
+            742.77,
+            677.23,
+            297.04,
+            737.01
+        ],
+        "area": 82830.01
+    },
+    {
+        "id": "textocr_query_502bb3593481e3e1_381",
+        "image": [
+            "textocr/query/502bb3593481e3e1_381.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "COOKBOOK",
+        "img_id": "502bb3593481e3e1",
+        "width": 1024,
+        "height": 748,
+        "ann_id": "502bb3593481e3e1_381",
+        "box": [
+            40.86,
+            333.66,
+            382.18,
+            216.3
+        ],
+        "points": [
+            40.86,
+            435.31,
+            382.38,
+            333.66,
+            423.04,
+            399.53,
+            75.01,
+            549.96
+        ],
+        "area": 82665.53
+    },
+    {
+        "id": "textocr_query_200ba9ec8d4cf1ae_1",
+        "image": [
+            "textocr/query/200ba9ec8d4cf1ae_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "LIBERTY",
+        "img_id": "200ba9ec8d4cf1ae",
+        "width": 1024,
+        "height": 683,
+        "ann_id": "200ba9ec8d4cf1ae_1",
+        "box": [
+            609.14,
+            276.74,
+            314.64,
+            262.63
+        ],
+        "points": [
+            609.14,
+            522.03,
+            659.42,
+            409.35,
+            707.96,
+            352.15,
+            771.23,
+            312.28,
+            831.9,
+            288.87,
+            923.78,
+            276.74,
+            915.98,
+            354.75,
+            853.57,
+            354.75,
+            798.1,
+            375.55,
+            751.29,
+            415.42,
+            715.76,
+            448.36,
+            678.49,
+            539.37
+        ],
+        "area": 82633.9
+    },
+    {
+        "id": "textocr_query_301668e27f9354b8_1",
+        "image": [
+            "textocr/query/301668e27f9354b8_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "ENERGY",
+        "img_id": "301668e27f9354b8",
+        "width": 1024,
+        "height": 576,
+        "ann_id": "301668e27f9354b8_1",
+        "box": [
+            397,
+            49,
+            314,
+            263
+        ],
+        "points": [
+            440,
+            49,
+            490,
+            111,
+            575,
+            178,
+            711,
+            230,
+            649,
+            312,
+            528,
+            267,
+            429,
+            186,
+            397,
+            127
+        ],
+        "area": 82582
+    },
+    {
+        "id": "textocr_query_297e957b5d644e9d_1",
+        "image": [
+            "textocr/query/297e957b5d644e9d_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "English",
+        "img_id": "297e957b5d644e9d",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "297e957b5d644e9d_1",
+        "box": [
+            225.02,
+            225.02,
+            567.87,
+            144.92
+        ],
+        "points": [
+            225.02,
+            225.02,
+            788.18,
+            226.2,
+            792.89,
+            369.94,
+            229.74,
+            364.05
+        ],
+        "area": 82295.72
+    },
+    {
+        "id": "textocr_query_6c1a040b7a91d116_4",
+        "image": [
+            "textocr/query/6c1a040b7a91d116_4.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "JPAG",
+        "img_id": "6c1a040b7a91d116",
+        "width": 1024,
+        "height": 683,
+        "ann_id": "6c1a040b7a91d116_4",
+        "box": [
+            195.58,
+            214.67,
+            404.24,
+            203.11
+        ],
+        "points": [
+            195.58,
+            214.67,
+            599.82,
+            247.52,
+            577.91,
+            417.78,
+            202.55,
+            388.91
+        ],
+        "area": 82105.19
+    },
+    {
+        "id": "textocr_query_2d51ec1f9aaf81e6_8",
+        "image": [
+            "textocr/query/2d51ec1f9aaf81e6_8.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "SE02",
+        "img_id": "2d51ec1f9aaf81e6",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "2d51ec1f9aaf81e6_8",
+        "box": [
+            467.38,
+            817.6,
+            394.09,
+            206.0
+        ],
+        "points": [
+            535.3,
+            817.6,
+            703.24,
+            857.9,
+            861.47,
+            948.96,
+            826.39,
+            1023.6,
+            729.36,
+            1022.85,
+            467.38,
+            952.69
+        ],
+        "area": 81182.54
+    },
+    {
+        "id": "textocr_query_1a77f252d4b2cec2_1",
+        "image": [
+            "textocr/query/1a77f252d4b2cec2_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "FREE",
+        "img_id": "1a77f252d4b2cec2",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "1a77f252d4b2cec2_1",
+        "box": [
+            80.11,
+            359.73,
+            438.27,
+            183.79
+        ],
+        "points": [
+            80.11,
+            359.73,
+            515.24,
+            377.0,
+            518.38,
+            543.52,
+            84.83,
+            513.67
+        ],
+        "area": 80549.64
+    },
+    {
+        "id": "textocr_query_07ec166bed0945e0_9",
+        "image": [
+            "textocr/query/07ec166bed0945e0_9.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "HAMPTON",
+        "img_id": "07ec166bed0945e0",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "07ec166bed0945e0_9",
+        "box": [
+            152.51,
+            207.29,
+            317.74,
+            253.41
+        ],
+        "points": [
+            155.44,
+            264.8,
+            465.37,
+            207.29,
+            470.25,
+            433.41,
+            152.51,
+            460.7
+        ],
+        "area": 80518.49
+    },
+    {
+        "id": "textocr_query_ef45a7b16461aa19_53",
+        "image": [
+            "textocr/query/ef45a7b16461aa19_53.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "PARSEnARRIOn",
+        "img_id": "ef45a7b16461aa19",
+        "width": 625,
+        "height": 1024,
+        "ann_id": "ef45a7b16461aa19_53",
+        "box": [
+            94.84,
+            793.45,
+            424.3,
+            187.13
+        ],
+        "points": [
+            94.84,
+            795.4,
+            511.99,
+            793.45,
+            519.14,
+            980.58,
+            98.09,
+            968.88
+        ],
+        "area": 79399.26
+    },
+    {
+        "id": "textocr_query_0d3dde7efae13592_4",
+        "image": [
+            "textocr/query/0d3dde7efae13592_4.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "CAPPERI",
+        "img_id": "0d3dde7efae13592",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "0d3dde7efae13592_4",
+        "box": [
+            208.48,
+            107.7,
+            467.89,
+            169.43
+        ],
+        "points": [
+            208.48,
+            213.27,
+            319.26,
+            169.61,
+            453.5,
+            129.2,
+            554.51,
+            109.65,
+            645.74,
+            107.7,
+            676.37,
+            180.03,
+            594.91,
+            190.46,
+            482.18,
+            210.66,
+            345.98,
+            244.55,
+            238.46,
+            277.13
+        ],
+        "area": 79274.6
+    },
+    {
+        "id": "textocr_query_f7f7c00e9f09c7d3_1",
+        "image": [
+            "textocr/query/f7f7c00e9f09c7d3_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "0",
+        "img_id": "f7f7c00e9f09c7d3",
+        "width": 1024,
+        "height": 683,
+        "ann_id": "f7f7c00e9f09c7d3_1",
+        "box": [
+            372.96,
+            148.68,
+            266.1,
+            294.7
+        ],
+        "points": [
+            376.43,
+            157.34,
+            629.53,
+            148.68,
+            639.06,
+            424.31,
+            372.96,
+            443.38
+        ],
+        "area": 78419.67
+    },
+    {
+        "id": "textocr_query_16d7442d62141383_18",
+        "image": [
+            "textocr/query/16d7442d62141383_18.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "GIN051",
+        "img_id": "16d7442d62141383",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "16d7442d62141383_18",
+        "box": [
+            28.34,
+            784.17,
+            341.78,
+            229.37
+        ],
+        "points": [
+            29.64,
+            788.07,
+            365.57,
+            784.17,
+            370.12,
+            1013.54,
+            28.34,
+            1013.54
+        ],
+        "area": 78394.08
+    },
+    {
+        "id": "textocr_query_16d43c53d4725200_2",
+        "image": [
+            "textocr/query/16d43c53d4725200_2.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "EMOBILE",
+        "img_id": "16d43c53d4725200",
+        "width": 1024,
+        "height": 1024,
+        "ann_id": "16d43c53d4725200_2",
+        "box": [
+            373.64,
+            479.34,
+            417.23,
+            186.6
+        ],
+        "points": [
+            390.81,
+            479.34,
+            790.87,
+            630.86,
+            781.91,
+            665.94,
+            373.64,
+            518.15
+        ],
+        "area": 77855.12
+    },
+    {
+        "id": "textocr_query_655dcd26ef3108ff_1",
+        "image": [
+            "textocr/query/655dcd26ef3108ff_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Harry",
+        "img_id": "655dcd26ef3108ff",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "655dcd26ef3108ff_1",
+        "box": [
+            218.64,
+            37.67,
+            440.96,
+            174.32
+        ],
+        "points": [
+            220.85,
+            37.67,
+            659.6,
+            39.15,
+            655.17,
+            211.99,
+            218.64,
+            188.35
+        ],
+        "area": 76868.15
+    },
+    {
+        "id": "textocr_query_447eb8c049c70e8f_1",
+        "image": [
+            "textocr/query/447eb8c049c70e8f_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "BLADE",
+        "img_id": "447eb8c049c70e8f",
+        "width": 1024,
+        "height": 680,
+        "ann_id": "447eb8c049c70e8f_1",
+        "box": [
+            576.6,
+            442.53,
+            396.98,
+            193.59
+        ],
+        "points": [
+            576.6,
+            600.8,
+            932.38,
+            442.53,
+            973.58,
+            465.42,
+            611.26,
+            636.12
+        ],
+        "area": 76851.36
+    },
+    {
+        "id": "textocr_query_e86a6823f092750f_1",
+        "image": [
+            "textocr/query/e86a6823f092750f_1.png"
+        ],
+        "question": "What text is shown in the red box?",
+        "answer": "Caslon",
+        "img_id": "e86a6823f092750f",
+        "width": 1024,
+        "height": 768,
+        "ann_id": "e86a6823f092750f_1",
+        "box": [
+            48.3,
+            274.51,
+            498.36,
+            153.15
+        ],
+        "points": [
+            49.48,
+            275.68,
+            540.77,
+            274.51,
+            546.66,
+            427.66,
+            48.3,
+            426.49
+        ],
+        "area": 76323.83
+    }
+]

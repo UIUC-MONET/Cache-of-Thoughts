@@ -1,0 +1,160 @@
+accounts, balance, normal, supplies, inventory, period, taxes, payable
+raw materials, direct labor, overhead, production, company, materials, labor, cost, rate, inventory
+Baxter, Company, production, units, variable, costs, per, unit, manufacturing, overhead
+security, returns, stock, yield, market, priced
+firm, equity, projects, T-bill, rate, return, market, cost, capital, hurdle
+Jon, Fulkerson, credit, application, Seether, LLC, private, company, financial, information
+options, multiple, choice, question, stock, price, risk-free, interest, rate
+return, excess, index, model, regression, results, stocks, risk-free, market, average, performance
+well-diversified, risk-free, portfolios, equilibrium, arbitrage, opportunity
+Baghdad, company, product, market, price, increase, customers, market, share, break-even, point, units, dollars, CVP, analysis
+Harrison, Inc., book value, balance sheet, debt-equity ratio
+accounting, firm, Chicago, Illinois, tax, preparation, services, clients, fixed, costs
+options, call, stock, volatility, interest, rate, risk-free, parameters, compare, written
+money, discount, rate, payment, accept, offer, percent
+Mountain, papaya, formations, causes, unusual, Abiotic, Biotic
+leaf, veins, bacterial, fungal, oomycete, physiological, condition, pathogen
+Leaves, image, substance, developing, algae, mildew, mould
+citrus, tree, issue, mineral, deficiency, nematode, attack, problem, pot, bound
+Botanical, extracts, control, measures, local, pest, disease, classification
+soil, organism, macro-fauna, micro-fauna, meso-fauna, micro-flora
+potato, cultivation, issue, concern, root, cause, downy, mildew, blight, phytophthora
+blemish, leaf, globe, artichoke, plant, Mediterranean, South, America, Water, Fungal
+downy, mildew, grapevine, leaf, surface, temperature, light, humidity
+Potato, yellow, spheres, roots, Sclerotia, Cysts, Eggs, Galls
+Biotic, Abiotic, Willow, Growth, Unusual, Abundant, Trunk
+muscle, stomach, entrance, exit, rings
+weeds, disease, pests, insects, population, handle, infected, yield, spread, crop
+image, bug, offspring, options, adult, wings, grub, maggot, caterpillar
+grassy, maize, clump, nutrients, mildew, virus, phytoplasma
+Infection, yellow, area, site, Corona, Halo
+peach, leaves, coloration, fungal, infection, image
+Citrus, leaves, substance, surface, multiple, choice, image, algae, honey, dew
+chive, disease, orange, black, pustules, spores, fungus
+ash, tree, branches, road, withering, tractors, field, fungal, dieback, pollution
+Image, broad, bean, pods, symptoms, confused, biotic, abiotic
+corky, outgrowths, ash, tree, roadside, Littondale, Yorkshire, fungal, bacterial, genetic, insect
+Gliricidia, sepium, tropical, agroforestry, leaves, yellowed, branches, tree, crown, disease
+Hoverfly, diet, adult, gardeners, pest, predator, nectar, pollen, honeydew, aphids
+white, pine, weevil, spruce, branch, juvenile, stage, term, specific
+blackberry, pathogens, glyphosate, treatment, regrowth, image, growth, habit, symptoms
+black, fungus, mould, lab, cultivate, surfaces, fungal, species, culture, media
+mistletoe, tree, photosynthesising, impact, host, roots, growth, plant, health, infection
+terminology, symptom, drooped, collapsed, flaccid, wilt
+fungal, pathogen, fruiting, bodies, area, host, leaf, cause, bacterial, viral
+truss, live, load, uniform, concentrated, force, tension, compression
+photography, cameras, flying, heights, strip, width, photographs, longitudinal, overlap, approximation
+tape, length, tension, temperature, expansion, modulus, area, radius, weight, section
+diagram, leveling, staffs, instrument, points, reading, center, crosshair, height, difference
+pentagon, angles, diagram, coordinate, bearing, side, calculate, options
+camera, focal, length, airplane, height, photographs, overlap, size, prints, ground, sea
+asphalt, mixture, design, specific, gravity, bulk, aggregates, mix, paving
+angles, multiple, choice, image, values, alpha, beta, degrees, minutes, seconds
+railway, embankment, length, width, slope, formation, level, gradient, prismoidal, rule
+latitude, departure, traverse, closed, calculate, area, method, D.M.D.
+soil, embankment, highway, project, moisture, content, compaction, test, samples
+satellite, station, distance, bearings, measured, lengths, lines, directions
+structure, displacements, pin-connected, vertical, E, GPa, AAB, AAC, AAD
+beam, finite, summation, deflection, midspan, initial, segment, assume
+arch, parabolic, load, influence, lines, reactions, shear, axial, moment, point, load
+highway, regression, analysis, Greenshields, model, capacity, time-lapse, photography, data
+dam, reservoir, valley, contour, plan, prismoidal, formula, volume, water, level
+traverse, coordinates, reference, meridian, bearing, length, sides, image, find, options
+trussed, arch, load, floor, beam, stringer, uniformly, distributed, concentrated, tension, compression
+embankment, dimensions, road, width, slope, ground, area, side, height, figure
+river, survey, line, parallel, river, width, length, operation, mid-point, parallel
+compass, traverse, bearings, angles, observational, errors, interior, compute, correct, image
+survey, tunnel, shaft, bearing, grade, existing, calculate, straight, image, multiple
+area, trapezoidal, rule, simpson, hectares, line, interval, regular, stream, figure
+road, housing, development, lake, wetland, alignment, cost, interest, rate, analysis
+hydrographic, survey, triangle, stations, angle, resection, position, determined, opposite
+distance, surveyor, points, building, view, angle, interior, desired
+Symbol, multiple, choice, represents, Temple, Mosque, Hut, Church
+tacheometer, anallactic, lens, constants, instrument, staff, vertical, gradient, fall, observations
+area, error, standard, error, area, measurements, temperature, coefficient, linear, expansion
+Roman, portrait, mummy, Cairo, Egypt, Girton, Cambridge, fictional, character, woman
+SERGE VINOGRADOV, GEORGES SEURAT, VINCENT WILLEM VAN GOGH, PAUL GAUGUIN, multiple, choice, created, image
+CLAUDE MONET, HENRI MATISSE, HENRI DE TOULOUSE-LAUTREC, EDOUARD MANET, multiple, choice, artist, image
+Colour, Aperture, Blurs, Over, Underexposure
+PAUL, SIGNAC, MATISSE, SARGENT, RENOIR
+art, image, multiple, choice, lady, ermine, steps, staircase, parasol
+Michelangelo, True, False, image, painted
+British, seaside, town, Kent, Cornwall, Suffolk, Isle, Wight
+Frederic, Leighton, Renaissance, Vasari, artists, Cimabue, Donatello, Giotto, Brunelleschi
+Edgar, Degas, Vincent, van, Gogh, Gustav, Klimt, Claude, Monet
+ARKHIP KUINII, PAUL SIGNAC, GEORGES SEURAT, VALENTIN SEROV, multiple, choice, created, image
+PAUL CÉZANNE, EDVARD MUNCH, EDGAR DEGAS, ANDY WARHOL, image, multiple, choice
+Neoclassical, Baroque, Renaissance, Rococo, movement, art, image
+Malcolm Drummond, Spencer Gore, Harold Gilman, Charles Ginner, William Ratcliffe
+ANTONELLO, MICHELANGELO, PETER, LUCAS
+True, False, Magritte, multiple, choice, question, image, René, not, a
+Mayan, sculptures, twentieth-century, sculptors, Louise Bourgeois, Henry Moore, Barbara Hepworth, Constantin Brancusi
+Museums, Sheffield, tempera, panel, 15th-century, female, saint, Barbara, Apollonia, Philomena
+images, negative, space, strong, use
+artist, William, Hunter, Hunterian, Sir, Joshua, Reynolds
+art, 16th, 17th, century, Peter, Paul, Rubens, Caravaggio, Artemisia, Gentileschi, Francisco, de, Zurbarán
+Evelyn, De, Morgan, literary, sources, inspire, artworks, painting, mermaids, book
+Margaret Gere, image, medium, options
+sculpture, mother, child, bond, story, imagery, line, grace, personification, literary
+Claude, Monet, Henri, Matisse, Andy, Warhol, Georgia, O'Keefe
+Leighton, traveller, landscape, studies, places, city, image
+Henrietta Moraes, Francis Bacon, Lucian Freud, Maggi Hambling, Elisabeth Frink, Barbara Hepworth, Georgia O'Keeffe
+Shape, Form, Line, Area
+Pablo, Picasso, Diego, Velazquez, Rembrandt, El, Greco
+MARTIN, SCHONGAUER, TITIAN, ROGIER, VAN, DER, WEYDEN, HANS, MEMLING
+image, Ndop, tradition, British, occupation, Africa
+Mary, Joseph, patrons, saints, donors, foreground
+painting, title, chaperones, attendants, princess, king, queen, reflected, mirror, foreground
+interior, surfaces, walls, dome, building, originally, covered, sculptural, frescoes, mosaics
+stone, prehistoric, structures, architectural, tradition, mortise, tenon, lintels, corbeled, arch
+Art, style, period, Gothic, Romanesque, Medieval, Renaissance
+painting, multiple, choice, influenced, work, directly, Marseillaise, Third, Guernica, Flags
+hierarchical, graphic, representation, horror, despair, immediacy, drama, contrasting, light, shade
+Bemini, Donatello, Ghiberti, Verrocchio
+image, multiple, choice, great, stupa, sanchi, serpent, mound, ohio, machu, picchu, peru, ruins, city, pompeii
+church, design, influenced, image, multiple, choice, options, baths, temples, basilicas
+classical, contrapposto, atmospheric, perspective, Di, sù, tenebrism
+Architectural, contemporary, artist, style, painting, setting, Amolfo, Brunelleschi, Bernini, Michelangelo
+Renaissance, Mannerist, Baroque
+Baroque, Realism, Romanticism, Impressionism
+architectural, building, vaulted, ceiling, pedimental, recesses, radiating, chapels, atrium
+construction, environmentally, friendly, natural, material, machine, living
+church, structure, tower, defense, monument, ruler, signal, faithful, prayer
+chair, designer, American, Dutch, German, French
+art, image, multiple, choice, choice, temple, atrium, necropolis, treasury
+Angelica, Kauffmann, Peter, Paul, Rubens, Thomas, Gainsborough, Benjamin, West
+image, multiple, choice, work, functioned, icon, book, cover, altarpiece, purse
+decade, work, date, 1910's, 1940's, 1960's, 1990's
+Goya, multiple, choice, political, exile, England, Spain, France, Classical, antiquity
+Jan, van, Eyck, van, der, Goes, Titian, Giorgione
+chair, material, made, image
+Abd, Malik, Justinian, Charlemagne, Shah, Jahan
+Art, history, image, Greek, Roman, Persian, Egyptian, New, Kingdom
+building, left, location, image
+art, style, Paul Cézanne, Claude Monet, José María Velasco, Vincent van Gogh
+astrocyte, Bergman, gliosis, Corpora, Eosinophilic, granular, body
+tissue, image, cardiac, muscle, bone, skeletal
+prokaryote, eukaryote, nucleus, cell, cell wall
+ear, infection, tumor, nerve, vestibular, system, auditory, acuity, vertigo, tinnitus
+Synapse, Adrenergic, Cholinergic, Peripheral, Autonomic
+asthma, pathophysiology, dendritic, cell, epithelial, thymic, stromal, lymphocytes, hormone
+fever, virus, boy, nasal, turbinates, discharge, antigens, immunoassay, etiology, virus
+visual, cortex, myelinated, axons, layer, IV
+Image, multiple, choice, threshold, depolarization, action, potential, repolarization
+arrow, hydrogen, bond
+tissue, muscle, image, cardiac, skeletal, cartilage
+neurosecretory, nipple, touch, pressure
+muscle, innervated, cranial, nerve
+chatbot, conversation, generate, keywords, context, conversation, context, multiple, choice, image
+Pallidothalamic, axons, internal, capsule, anterior, posterior
+neurons, muscle, fibers, axons, multiple, choice, true, false
+cell, membrane, hydrophobic
+image, sinoatrial, node
+Purkinje, cell, dendrites, granule, cell, axons, orientation
+nerve, optic, olfactory, tract, regenerate
+Thickened, septum, pellucidum, fornix, septal, nuclei
+pedigree, colorblindness, transmission
+Eosinophil, Thrombocyte, Lymphocyte, Monocyte, Neutrophil, cell, type, pictured, image
+diagram, wave, segment, depolarization, repolarization
+axons, nucleus, terminate, muscles, pharynx, larynx, parasympathetic, cell, bodies, viscera
+cell, multiple, choice, image, kind

@@ -1,0 +1,160 @@
+remote, infarct, contusion, gliotic, macrophages, subacute, venous
+developmental, stage, pathology, insult, trimester, gestational, age, infant, in utero, pathology
+seizures, etiology, girl, month, old, neuronal, migration, defect, neural, tube, closure, event, neoplasm
+immigrant, fever, cord, problems, Trypanosomiasis, Amebic, encephalitis, malaria, Tuberculous, meningitis
+diagnosis, multiple, choice, HIV, encephalitis, Creutzfeldt-Jakob, Disease, supranucelar, amyotrophic, lateral
+Brainstem, pathology, multiple, choice, area, similar, image, nucleus, pontis
+eosinophilic, intraneuronal, inclusion, immunostained, tau, alpha, synuclein, ubiquitin
+Diagnosis, Hydromyelia, Syringomyelia, Syringobulbia, Diastematomyelia
+hypoxic, ischemic, event, nuchal, cord, premature, birth, sepsis, placental, abruption
+two-year-old, boy, occipital, headaches, neck, extended, vomited, neurologic, exam, diagnosis
+diagnosis, multiple, choice, Parkinson's, Disease, Progressive, supranuclear, palsy
+brain, normal, right, left, cortical, atrophy, Alzheimer's, Huntington's, variation, ventricular
+San Diego, teacher, ideation, Creutzfeldt-Jakob, encephalitis, Herpes, PML, SSPE, bizarre, history
+cognitive, problems, Mexican, rancher, etiology, process, Cysticercosis, encephalitis, meningitis
+tumor, posterior fossa, male, 3 year, ependymoma, pilocytic astrocytoma, medulloblastoma
+tumor, children, adults, intraventricular, seizures, neurons
+skull, lesion, resection, image, options, multiple, choice, Eosinophilic, granuloma, osteosarcoma
+Encephalitis, Multiple, Choice, Disease, Options
+carcinoma, metastatic, pigment, image
+ECG, dog, rhythm, diagnosis, ventricular, preexcitation, fibrillation, tachycardia, idioventricular
+acromegaly, lesion, reticulin, tumor, gland
+cerebellum, lesion, Von Hippel Lindau, inhibin, reticulin
+liver, cirrhosis, arterial, phase, diagnosis, man, history, options
+cerebral, infarcts, pathology, epithelioid, vascular, proliferation, metaplastic, choroid, plexus, metastatic
+Bank, balance, sheet, TD, money, supply, increase, deposit, minimum, amount
+gasoline, government, price, cap, market, demand, surplus, shortage, necessity
+macroeconomic, accounts, data, countries, household, saving, tax, revenue, government, spending, investment, trade, balance, foreign, saving
+image, multiple, choice, depicts, demand, Phillips, production, frontier, aggregate, supply
+economy, long-run, equilibrium, boom, wages, flexible
+demand, price, elasticity, supply, DVDs, income, schedule, increases, 8, 10
+Spain, AD-AS, diagram, GDP, equilibrium, short-run
+GDP, China, expenditure, approach, table, billions, using, calculate
+economy, money, supply, growth, rate, long, run, increases
+market, demand, supply, equilibrium, price, excess, supply
+monopoly, market, returns, scale
+China, GDP, billions, net, exports
+Japan, market, Apples, Textbooks, prices, years, 2015, basket
+market, forces, demand, supply, enrollment, students, college, price, equilibrium
+Spain, aggregate, supply, shock, economy, unemployment
+Frisbees, demand, supply, schedules, government, production, scientists, aerodynamics, national, security
+banking, Canada, statistics, table, data, M1
+Long-Run, Aggregate, Supply, Curves, Brazil, Event, Capital, Labor, Human
+prisoners, dilemma, game, oligopolist, strategy, dominant, firms, output, price
+country, supply, demand, curves, price, bagels, equilibrium
+Santher, unemployment, economy, Table, rate
+money, supply, GDP, price, level, central, bank, increase, happens
+Balance, sheet, TD, bank, reserves, money, supply, deposit, change
+Model, null, coefficient, branch, results, test, significance, level, probability, problem
+price, market, forces, demand, supply, enrollment, students, college, equilibrium, quantity
+consumption, function, graph, rises, consumption-line, C, upwards, downwards, gentler, steeper
+Japan, market, Apples, Textbooks, prices, year, CPI
+worker, leisure, time, hours
+fruit, prices, college, student, table, quantities, year, basket, 2001, 2004
+Whoville, Zlurp, willingness, pay, cost, producing, suppliers, tax, external, cost
+circuit, saturation, multiple, choice, image, electronics
+image, multiple, choice, periodic, current, waveforms, rms, value
+RL, circuit, voltage, source, series, compute, voltages, initial, condition, options
+circuit, values, R1, R2, RC, RE, VCC, transistor, beta, operating, point
+image, multiple, choice, amplifier, common, collector
+phasor, voltage, amplitude, circuit
+network, steady-state, voltage, calculate, cos, t, image
+Fourier, series, voltage, waveforms, image, sin, pit, pi, options
+Fourier, series, sawtooth, waveform, image, t, sin, options
+circuit, image, current, complex, number
+image, nodal, equation, find, vx, terms, v
+circuit, voltage, options, omega, leakage, collector, emitter, voltage
+Laplace, transform, periodic, waveform, image, s, T
+signal, t, functions, step, u, t^2, image, 1, 4, 20, 15
+nonlinear, inductor, inductance, current, voltage, t, sin, tanh, sech, cos
+circuits, switches, figure, instant, thrown
+circuits, figure, image, t, v, expression, case, options
+circuit, image, voltage, current, time, function, options, multiple, choice
+voltage, calculate, voltages, cos, t, image, multiple
+image, sin, pi, T, A
+Fourier, series, waveform, image, terms, sum, first, four
+circuit, image, voltage, t, cos, u, v, 20, 60, 45
+capacitor, capacitance, voltage, current, sin, cos, t, w, C0
+Transistor, circuit, Germanium, values, numerical, emitter, common-emitter, voltage, resistance, required
+image, rectifier, circuit, safe, PRV, rating
+capacitor, equivalent, microfarad, farad
+circuit, image, phase, degree
+circuit, multiple, choice, voltage, cos, degree, t, image, 250, 57.7
+ohm, resistance, power, source, circuit, element
+image, ladder, network, phase, degree
+transistor, heat, source, radius, silicon, substrate, ambient, temperature, evaluate, options
+heat, engine, air, energy, temperature, pressure, loss, efficiency
+water, jet, nozzle, air, stagnation, tube, pressure, mass, flow, kg
+Refrigerant, entropy, generation, adiabatic, psia, temperature, vapor, saturation, Btu, lbm
+steel, sphere, diameter, thickness, weight, buoyant, neutrally
+diagram, vessel, heat, exchanger, multiple, choice, options, image
+vapor-compression, refrigeration, cycle, refrigerant, condenser, evaporator, cooling, power, load
+manometer, fluids, temperature, pressure, height, centimeters
+water, pipe, pressure, difference, points, mercury, manometer, flow, degree
+thermal, conductivity, hot, plate, method, guard, heater, wattmeter, thermocouples, temperature
+ideal, gas, state, process, temperature, heat, transferred, adiabatic, isothermal, change
+adiabatic, container, air, pressure, valve, supply, line, work, potential, temperature
+refrigerator, refrigerant, 134a, cooling, water, condenser, compressor, heat, temperature, pressure
+water, gasoline, height, elevation, atmosphere
+flow, rate, iron, pipes, diameter, cast, valve, flow, rate, reservoir
+Refrigerant, heat, pump, condenser, compressor, power, COP, residential, 134a, saturated
+storm, drain, water, flow, velocity, uniform, porous, bed, absorb, depth
+refrigeration, vapor-compression, R-134a, condenser, cooling, water, power, exergy, destruction, compressor
+jet, engine, air, atm, m^2, m/s, fuel, ratio, stand, support
+pump, water, pressure, flow, rate, energy, work, level, ground, kinetic
+blimp, pressure, transducer, air, Pa, estimate, absolute, standard, sea-level, differential
+pipe, flow, air, pressure, tank, water, rate, gage, pressurized
+tank, diameter, force, hydrostatic, manometer, reading, fluids, 20°C
+capacity, forward, feed, evaporator, setup, image, provided
+gas-turbine, power, plant, Brayton, cycle, pressure, limits, air, compressor, turbine
+hose, diameter, nozzle, pressure, garden, ft, lbf, ft^2
+valve, cylinder, area, pressure, force, cm2, kPa, N
+pipe, radius, flow, air, velocity, profile, laminar, mass, functions, radius
+pump, turbine, power, city, water, reservoir, flow, rate, friction, head
+rocket, liquid, solid-propellant, control-volume, analysis, propellant, molecular, weight, ducts, exit
+financial, statements, Eagle, Sport, Supply, costs, interest, assets, sales, dividend
+APT, model, factors, risk, premiums, expected, rates, return, stock, interest
+annuity, future, value, table, calculate, ordinary
+Ratio, proficiency, McDougal, Printing, Inc., fiscal, year, sales, operating, profits, income
+financial, acquisition, Denham, Corton, Inc, investors, earnings, dividends, management, merger, capital
+invest, return, rate, investment, Clare, financial, advisor, life, payment, amount
+National, Bromide, sales, forecast, 2019, credit, cash, inflow, operations, months
+forecasted, sales, assets, capacity, fixed, current, assets, rate, profit, margin
+Verbrugge, Publishing, Company, balance, sheet, income, statement, reorganization, plan, recapitalization
+Swiss, watches, francs, rate, spot, forward, exchange, purchase, manager, million
+Solar, Designs, investment, product, line, expansion, types, outcomes, rates, return
+Stock, price, time, shares, period, return
+stockholders, equity, balance, sheets, Golden, Mine, Inc, dividends, stock, price, share
+Walmart, balance, sheets, income, statements, fiscal, 2017, shares, outstanding, share, price, cost, capital, corporate, tax, rate, economic, value, added
+return on, projects, rates, internal, multiple, choice, image, percent
+inflation, interest, rate, treasury, bill, options, forecasters, period, maturity, risk
+bond, value, calculate, table, interest, semiannually
+APT, model, factors, risk, premiums, return, stock, exposure, interest, rate
+standard deviation, random variable, probability distribution, multiple choice
+Spike, medical, equipment, company, stock, auction, bids, table, receipts
+Adam, balance, sheet, December, 2015, net, working, capital, liquid, assets
+inflation, rates, stock, market, returns, treasury, bill, 1929, 1933, real
+Dozier, Corporation, office, products, free, cash, flows, years, cost, capital
+Peninsular, Research, coverage, manufacturing, industry, John, Jones, CFA, fundamental, ratio
+Abbey, Naylor, CFA, Sundanci, FCFE, Free Cash Flow, Equity, Capital expenditures, Depreciation, Working capital
+data, table, interest, rate, present, value, perpetuity, options
+inflation, expectations, economic, forecasters, rates, interest, inflationary, nominal, real, treasury
+interest rates, exchange rates, U.S. dollar, Lilliputian nano, spot exchange rate
+payback, projects, discounted, period, each, project, years, exist
+bond, table, semiannually, interest, calculate, value
+torque, torsion, couple, rod, straight, figure, sections, torque, kN, m
+joint, rose, diagram, semicircle, center, radial, direction, tendency, dip, strike
+load, influence, line, quantity, value, image, direction, dynamic, movable, unit
+chatbot, conversation, keywords, generate, context, multiple, choice, image
+current, circuit, illustrated, options, 11, 12, 2.5A, 1.5A, 1A, 0A
+bending, moment, diagram, MDA, unit, kN, M
+CO_2-emissions, milita, education, wealth
+earth dam, storage height, homogeneous, flow network, water head, gradient, equipotential lines, pore water pressure
+Kenya, Kiribati, Kuwait, Kyrgyzstan, demographic, information
+moment, inertia, circle, rectangular, square, spindle, center, correct, image
+image, multiple, choice, indicated, rows, aretes, eskers, hanging, valley, moraines
+Hunga Tonga-Hunga Ha'apai, volcano, Tonga, pumice, raft, Pacific, Ocean, currents, tides, wind
+Building, Engineering, Data, Regulations, Management, Concrete, Floor, Slab, Steel, Bars
+concrete, punching, shear, bearing, capacity, cap, thickness, height, strength, design
+Rocks, siltstone, shale, chert, silica, quartz, cemented, flat, flakes, plates
+photographer, image, forests, marked

@@ -1,0 +1,13 @@
+transformers==4.49.0
+hnswlib
+open_flamingo
+datasets
+accelerate
+numpy==1.26.4
+matplotlib
+datasets
+openai
+scikit-learn
+qwen_vl_utils
+setuptools==80.10.2
+torch==2.0.1

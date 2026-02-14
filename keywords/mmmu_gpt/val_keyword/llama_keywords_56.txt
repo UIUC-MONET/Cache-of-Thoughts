@@ -1,0 +1,84 @@
+neuron, neurotransmitter, receptors, incoming, messages, regions
+data, set, mean, multiple, choice, image, options
+study, independent, variable, newspaper, clipping, perception, authority, conformity, behavior, response
+figure, multiple, choice, lobe, temporal, occipital, parietal, frontal
+disease, sexually transmitted diseases, STDs, network, structure, infection, diffusion, models, adolescent, sexual
+Language, numbers, quantities, culture, counting, recursion, binary, Piraha, Amazonia, determinism
+neurotransmitter, dopamine, effect, figure, image
+cognitive tasks, domain-general, domain-specific, visual, motor, language, simulation, distraction, stress, reaction times, driving ability
+psychology, conditioning, learning, data
+vision, perception, physiology, signal, detection, sensitivity, adaptation, rods, cones, retina
+arousal, performance, graph, relationship
+addiction, treatment, prison, medication, psychotherapy, parole, criminal, behavior, drugs, rehabilitation
+jazz, opera, music, emotional, states, men, women, hypothesis, study, inventory
+red, arrow, figure, stage, pregnancy
+psychology, research, clinical, population, schizophrenia, incidence, rate, demographic, factors, genetic
+cancer, stress, deep breathing, relaxation response, stress reduction, symptom relief, quality of life, oncologists, patients, coping
+cognition, embodied, environment, body, mind, sensorimotor, memory, decision, making, hockey, imagery
+pons, medulla, oblongata, spinal, cord, brain, region
+memory, forgetting, human, information, storage, recall, research, study, participants, time
+brain, sleep, body, brain wave, eye movement, muscle tone, core body temperature, REM, N1, N2, N3
+calculus, experiment, students, performance, expectations, group, exam, statistics, gender, difference
+image, graph, individuals, task, social, loafing, facilitation, polarization, group, influence
+memory, forgetting, information, research, study, participants, recall, learning, curve, time
+arousal, performance, challenging, task, graph, relationship, person, level
+researcher, blood, pressure, body, mass, index, normal, distribution, correlation, regression
+alcohol, hypertension, study, population, screening, cases, control, group, relationship, confounder
+hepatitis, vaccine, immunised, susceptible, children, village, follow-up, observation, incidence, prevalence
+ectoparasites, term, viruses, bacteria, protozoa, insects
+hepatitis, vaccination, costs, benefits, protection, academic, areas, BCR, endemic
+infection, patients, hospital, proportion, compare, statistical, tests, two, period, time
+adverse, reaction, data, monitoring, centre, province, serious, reports, table, drug
+New England, Medicine, China, EV71, vaccine, trial, children, outcome, immunisation, schedule
+maternal, child, health, facility, cervical, intraepithelial, neoplasia, colposcopy, cytology, histopathology
+smoking, cardiovascular, diseases, research, study, attributable, risk
+smoking, lung, cancer, relationship, studies, table, data, calculate
+cervical, cancer, screening, test, sensitivity
+food, poisoning, outbreak, table, chicken, potato, salad, egg, sandwiches, fruit
+study, case-control, OR, table
+speed, limits, survey, people, age, group, response, odds, always, limit
+oral, contraceptive, thromboembolism, pulmonary, cerebral, coronary, myocardial, infarction, family, planning
+smoking, studies, relationship, diseases, region, AR, comparison, smoking, non-smoking, disease
+BSI, organisms, E. coli, Staph aureus
+blood pressure, body mass index, linear regression, regression coefficient, coefficient of determination
+smoking, lung, cancer, cohort, study, attributable, risk
+Epidemiological, trials, vaccine, China, EV71, randomised, double-blind, placebo-controlled, multicentre, trial
+life, expectancy, deaths, cardiovascular, cerebrovascular, malignant, neoplasms, working, population, city
+Skin, tests, schistosomiasis, river, villages, hepatic, results, table, multiple, choice
+population, disease, incidence, graph, 2010, area, births, deaths, in-migrants, refusals
+test, data, validity, screening, table, format, specificity, options, image
+cardiovascular, fruit, China, population, disease, stroke, incidence, mortality, prevalence, follow-up
+Date, Event, Multiple, Choice
+Framingham, study, coronary, heart, disease, serum, cholesterol, levels, years, follow
+study, association, drinking, water, cancer, residence, rural, urban, areas, table
+maternal, child, health, facility, cervical, intraepithelial, neoplasia, electronic, colposcopy, cytology
+arrest, cinema, Nova Scotia, section, refusing, sit, crime, example, social
+labels, educational, process, theory, sociology, feminist, functionalist, symbolic
+power, relationships, sociology, state, governmental
+Mechanical, shift, image, competition, enlightenment, division, labor, class
+Canadian, workforce, evidence, highly, skilled, jobs, increasing, decreasing, pay, women
+image, multiple, choice, norms, behavior, everyday, statement, moral, significance, taboo
+core, nations, peripheral, semi-peripheral, global, inequality, stratification, exploit
+Sri Lanka, minority, govern, country
+Occupy Wall Street, movement, economic, disparity, class, sociologist, theoretical, approach, symbolic, interactionism
+image, waitress, sociologist, participant, observation
+image, multiple, choice, example, disease, illness, disability, demedicalization
+theoretical, framework, multiple, choice, conflict, structural, functionalist, symbolic, interactionist
+image, multiple, choice, example, work, space
+image, multiple, choice, criticism, option, family, behaviour, stages, research, purpose
+Self-definition, Numerical minority, Lack of power, Cultural identity
+Emile, Durkheim, Marx, Goffmann, Mead, society, history, image
+culture, society, values, behavior, material, objects, people, way, life, unity
+W.E.B, Dubois, society, social, relations, class, ethnicity, gender, age, stability
+image, multiple, choice, political, decisions
+help, train, Tokyo, Canada, rural, visitor, crowded, act, feel, emotions
+Digital, divide, knowledge, internet
+Religion, Prohibition, Incest, Family, Media
+Corporate, crime, type, image, society
+bureaucracy, Weber, society, escape, image, population, values, morals, purpose, recruitment
+child, obesity, schools, concept, image, statement, children, junk food, physical activity, education
+Planned, obsolescence, technology, cell, phone
+Canada, racial, term, black, person, ancestors, Africa
+controversial, groups, mislabelled, Scientology, Hare Krishna, Peoples Temple, Heven's Gate, Branch Davidians, Manson Family, Quakers, Petecostals
+stratification, perspective, men, women, job, work, money, doctors, teachers, benefits
+Postman, evidence, normalised, image, found
