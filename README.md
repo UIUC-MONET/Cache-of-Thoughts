@@ -1,5 +1,12 @@
-# Cache-of-Thoughts
-The official implementation of "Cache-of-Thought: Master-Apprentice Framework for Cost-Effective Vision Language Model Reasoning", EMNLP 2025 Main
+<div align="center">
+
+# 🧠 Cache-of-Thought: Master-Apprentice Framework for Cost-Effective Vision Language Model Reasoning
+
+[📄 Paper (EMNLP 2025 Main)] (https://aclanthology.org/2025.emnlp-main.97/) 
+
+</div>
+
+![teaser](teaser.jpg)
 
 Paste your OpenAI API key into the configurations file. Some of our functionality will require OpenAI API calls, they are listed below:
 ```
@@ -93,3 +100,36 @@ Qwen only parameters:
 --filter = ['', 'subfield'] # Default is '' and type in 'subfield' to further filter questions with the same subfield.
 --hierachical # Default is false. This is one advanced retrieval method, which needs extra tuning for better performance.
 ```
+# 🔗 Citation
+
+If you use our work, please consider citing:
+
+```bibtex
+@inproceedings{wu-etal-2025-cache,
+    title = "Cache-of-Thought: Master-Apprentice Framework for Cost-Effective Vision Language Model Reasoning",
+    author = "Wu, Mingyuan  and
+      Jiang, Jize  and
+      Zheng, Haozhen  and
+      Li, Meitang  and
+      Li, Zhaoheng  and
+      Tian, Beitong  and
+      Chen, Bo  and
+      Park, Yongjoo  and
+      Zhang, Minjia  and
+      Zhai, ChengXiang  and
+      Nahrstedt, Klara",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.97/",
+    doi = "10.18653/v1/2025.emnlp-main.97",
+    pages = "1895--1909",
+    ISBN = "979-8-89176-332-6",
+    abstract = "Vision Language Models (VLMs) have achieved remarkable success in a wide range of vision applications of increasing complexity and scales, yet choosing the right VLM model size involves a trade-off between response quality and cost. While smaller VLMs are cheaper to run, they typically produce responses only marginally better than random guessing on benchmarks such as MMMU. In this paper, we propose \textit{Cache of Thought (CoT)}, a master{--}apprentice framework for collaborative inference between large and small VLMs. CoT manages high-quality query results from large VLMs (\textit{master}) in a cache, which are then selected via a novel multi-modal retrieval and in-context learning to aid the performance of small VLMs (\textit{apprentice}). We extensively evaluate CoT on various widely-recognized and challenging general reasoning benchmarks, and show that CoT increases overall reasoning performance by up to 7.7{\%} under the same budget, and specifically boosts the reasoning performance of apprentice VLMs by up to 36.6{\%}. Our code is available at \url{https://github.com/UIUC-MONET/Cache-of-Thoughts}."
+}
