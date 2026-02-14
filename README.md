@@ -100,6 +100,10 @@ Qwen only parameters:
 --filter = ['', 'subfield'] # Default is '' and type in 'subfield' to further filter questions with the same subfield.
 --hierachical # Default is false. This is one advanced retrieval method, which needs extra tuning for better performance.
 ```
+## 🔜 Upcoming
+
+- [ ] Code for hierarchical memory cache design/
+
 # 🔗 Citation
 
 If you use our work, please consider citing:
