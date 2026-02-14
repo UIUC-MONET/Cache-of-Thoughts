@@ -102,9 +102,9 @@ Qwen only parameters:
 ```
 ## 🔜 Upcoming
 
-- [ ] Code for hierarchical memory cache design/
+- [ ] Code for hierarchical memory cache design.
 
-# 🔗 Citation
+## 🔗 Citation
 
 If you use our work, please consider citing:
 
