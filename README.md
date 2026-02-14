@@ -6,7 +6,7 @@
 
 </div>
 
-![teaser](teaser.jpg)
+![teaser](teaser.pdf)
 
 Paste your OpenAI API key into the configurations file. Some of our functionality will require OpenAI API calls, they are listed below:
 ```
