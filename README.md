@@ -1,12 +1,6 @@
 # Cache-of-Thoughts
 The official implementation of "Cache-of-Thought: Master-Apprentice Framework for Cost-Effective Vision Language Model Reasoning", EMNLP 2025 Main
 
-Code will be released soon (after CVPR deadline).
-
-#TODO:
-In qwen_hierachical.py line 42:
-I cannot find 'path/to/mmmu_keyword_embedding_cold_start.pkl' nor how to generate it.
-
 Paste your OpenAI API key into the configurations file. Some of our functionality will require OpenAI API calls, they are listed below:
 ```
 --gptresp
